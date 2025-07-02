@@ -1,12 +1,12 @@
 ---
-title: "Kinh Lăng Già"
+title: "Kinh Lăng Già 4"
 date: 2025-07-02
-speaker: "Rev. Dr. John Smith"
-series: "Faith Foundations"
-scripture: "Proverbs 3:5-6"
-audioUrl: "https://example.com/sutras/walking-in-faith.mp3"
-videoUrl: "https://www.youtube.com/embed/example789"
-image: "/uploads/sutras/walking-in-faith.webp"
+speaker: "..."
+series: "Kinh Lăng Già 4"
+scripture: "Kinh Lăng Già 4"
+audioUrl: "https://ph.tinhtong.vn/ftp/mp3/-%20T%20Duy%20Luc/Kinh%20L%C4%83ng%20Gi%C3%A0%20~%20HT%20Duy%20L%E1%BB%B1c%20d%E1%BB%8Bch/Kinh%20L%C4%83ng%20Gi%C3%A0%204.mp3"
+videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
+image: "/uploads/sutras/kinh-lang-gia.jpg"
 summary: "..."
 tags: ["sutra"]
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 ## Overview
 
-In this message, we explore what it means to truly trust in the Lord with all our heart and lean not on our own understanding. Through practical examples and biblical wisdom, we'll discover how to walk confidently in God's plan.
+Kinh Lăng Già 4
 
 ### Key Points
 
