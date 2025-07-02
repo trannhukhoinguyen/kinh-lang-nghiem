@@ -11,7 +11,7 @@ const collection = `${topic}s`;
 const path = `/${collection}`;
 export async function getStaticPaths() {
   try {
-    const entries = await getCollection(collection, ({ data }) => {
+    const entries = await getCollection("sutras", ({ data }) => {
       return import.meta.env.PROD ? !data.draft : true;
     });
 

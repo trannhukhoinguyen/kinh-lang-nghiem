@@ -12,7 +12,7 @@ const title = collection.charAt(0).toUpperCase() + collection.slice(1);
 const subtitle = "";
 const description = "";
 const path = `/${collection}`;
-const alItems = await getCollection(collection, ({ data }) => {
+const alItems = await getCollection("sutras", ({ data }) => {
   return import.meta.env.PROD ? !data.draft : true;
 });
 
@@ -134,7 +134,7 @@ const speakers = [...new Set(items.map(item => item.data.speaker))];
               <Card
                 title={item.data.title}
                 image={{
-                  src: item.data.image || "/uploads/item-placeholder.webp",
+                  src: item.data.image || "/uploads/zen-meditation-1280x765.jpg",
                   alt: item.data.title
                 }}
                 href={`${path}/${item.slug}`}

@@ -5,14 +5,14 @@ export interface Props {
   backgroundImage?: string;
 }
 
-const { 
-  title, 
-  subtitle, 
-  backgroundImage = "/uploads/page-header-bg.webp" 
+const {
+  title,
+  subtitle,
+  backgroundImage = "/uploads/zen-meditation-1280x765.jpg"
 } = Astro.props;
 ---
 
-<section 
+<section
   class="relative py-20 bg-cover bg-center"
   style={`background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(${backgroundImage})`}
 >

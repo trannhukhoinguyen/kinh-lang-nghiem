@@ -1,14 +1,14 @@
 ---
-title: "Walking in Faith: Trusting God's Plan"
-date: 2025-02-02
+title: "Kinh Lăng Già"
+date: 2025-07-02
 speaker: "Rev. Dr. John Smith"
 series: "Faith Foundations"
 scripture: "Proverbs 3:5-6"
-audioUrl: "https://example.com/lectures/walking-in-faith.mp3"
+audioUrl: "https://example.com/sutras/walking-in-faith.mp3"
 videoUrl: "https://www.youtube.com/embed/example789"
-image: "/uploads/lectures/walking-in-faith.webp"
-summary: "Learn how to trust God completely and walk confidently in His plan for your life, even when the path seems unclear."
-tags: ["faith", "trust", "guidance"]
+image: "/uploads/sutras/walking-in-faith.webp"
+summary: "..."
+tags: ["sutra"]
 draft: false
 ---
 
