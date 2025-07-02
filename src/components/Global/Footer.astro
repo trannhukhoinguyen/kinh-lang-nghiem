@@ -14,34 +14,7 @@ try {
 
 // Footer navigation groups
 const footerNavs = [
-  {
-    title: "About",
-    items: [
-      { text: "About Us", href: "/about-us" },
-      { text: "I'm New", href: "/im-new" },
-      { text: "Staff", href: "/staff" },
-      { text: "Contact", href: "/contact" },
-    ],
-  },
-  {
-    title: "Resources",
-    items: [
-      { text: "Sutras", href: "/sutras" },
-      { text: "Lectures", href: "/lectures" },
-      { text: "Events", href: "/events" },
-      { text: "Blog", href: "/blog" },
-      { text: "Ministries", href: "/ministries" },
-    ],
-  },
-  {
-    title: "Connect",
-    items: [
-      { text: "Giving", href: "/giving" },
-      { text: "Prayer Request", href: "/contact#prayer" },
-      { text: "Newsletter", href: "/contact#newsletter" },
-      { text: "Volunteer", href: "/im-new#volunteer" },
-    ],
-  },
+  { text: "Sutras", href: "/sutras" },
 ];
 
 // Social media links
@@ -71,13 +44,6 @@ const socialLinks = [
 
 // Current year for copyright
 const currentYear = new Date().getFullYear();
-
-// Render office hours content if available
-let OfficeHoursContent = null;
-if (officeHours) {
-  const { Content } = await officeHours.render();
-  OfficeHoursContent = Content;
-}
 ---
 
 <footer class="bg-gray-900 text-white pt-16 pb-8">
@@ -94,36 +60,12 @@ if (officeHours) {
         </div>
 
         <address class="not-italic mb-4 text-gray-300">
-          <p>123 Main Street</p>
-          <p>Anytown, ST 12345</p>
-          <p class="mt-2">
-            <a href="tel:+15551234567" class="hover:text-primary-300">
-              (555) 123-4567
-            </a>
-          </p>
-          <p>
-            <a href="mailto:info@churchname.org" class="hover:text-primary-300">
-              info@churchname.org
-            </a>
-          </p>
+
         </address>
 
         <!-- Office Hours -->
         <div class="mt-4 text-gray-300">
           <h4 class="text-sm font-bold mb-2 text-white">Office Hours</h4>
-          {
-            OfficeHoursContent ? (
-              <div class="text-sm prose prose-sm prose-invert max-w-none [&_h3]:text-white [&_h3]:text-sm [&_h3]:font-bold [&_h3]:mb-2 [&_ul]:list-none [&_ul]:p-0 [&_li]:mb-1 [&_strong]:text-white">
-                <OfficeHoursContent />
-              </div>
-            ) : (
-              <div class="text-sm">
-                <p><strong class="text-white">Mon-Fri:</strong> 9:00 AM - 5:00 PM</p>
-                <p><strong class="text-white">Saturday:</strong> 9:00 AM - 1:00 PM</p>
-                <p><strong class="text-white">Sunday:</strong> Closed (except services)</p>
-              </div>
-            )
-          }
         </div>
 
         <!-- Social Links -->

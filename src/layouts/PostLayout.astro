@@ -14,7 +14,7 @@ export interface Props {
   date?: Date;
   author?: string;
   tags?: string[];
-  type?: "sutra" | "lecture" | "event" | "blog" | "ministry";
+  type?: "sutra";
 }
 
 const {
@@ -24,7 +24,7 @@ const {
   date,
   author,
   tags = [],
-  type = "blog",
+  type = "sutra",
 } = Astro.props;
 
 const seoType = "article";
@@ -32,12 +32,6 @@ const seoType = "article";
 let pageTitle = title;
 if (type === "sutra") {
   pageTitle = `Sutra: ${title}`;
-} else if (type === "lecture") {
-  pageTitle = `Lecture: ${title}`;
-} else if (type === "event") {
-  pageTitle = `Event: ${title}`;
-} else if (type === "ministry") {
-  pageTitle = `${title} Ministry`;
 }
 
 const formattedDate = date ? formatDate(date) : null;

@@ -5,16 +5,15 @@ import Button from "../UI/Button.astro";
 import { formatDate } from "../../utils/dateUtils";
 
 export interface Props {
-  collection: string;
   count?: number;
   showViewAll?: boolean;
 }
 
-const { collection, count = 3, showViewAll = true } = Astro.props;
-const path = `/${collection}`
+const { count = 3, showViewAll = true } = Astro.props;
+const path = `/sutras`
 
 // Get items sorted by date (newest first)
-const allItems = await getCollection(collection, ({ data }) => {
+const allItems = await getCollection("sutras", ({ data }) => {
   return import.meta.env.PROD ? !data.draft : true;
 });
 
@@ -78,7 +77,7 @@ const items = allItems
 
     {showViewAll && items.length > 0 && (
       <div class="mt-12 text-center">
-        <Button href={collection} variant="outline">
+        <Button href="/sutras" variant="outline">
           View All
         </Button>
       </div>
