@@ -2,16 +2,6 @@
 import { getCollection } from "astro:content";
 import Logo from "../Logo.astro";
 
-// Get the office hours from the siteInfo collection
-let officeHours;
-try {
-  const siteInfoEntries = await getCollection("siteInfo");
-  officeHours = siteInfoEntries.find(entry => entry.id === "office-hours");
-} catch (error) {
-  // Collection might not exist yet when first setting up the project
-  console.log("Office hours error", error);
-}
-
 // Footer navigation groups
 const footerNavs = [
   { text: "Sutras", href: "/sutras" },
@@ -59,15 +49,6 @@ const currentYear = new Date().getFullYear();
           </a>
         </div>
 
-        <address class="not-italic mb-4 text-gray-300">
-
-        </address>
-
-        <!-- Office Hours -->
-        <div class="mt-4 text-gray-300">
-          <h4 class="text-sm font-bold mb-2 text-white">Office Hours</h4>
-        </div>
-
         <!-- Social Links -->
         <div class="flex space-x-4 mt-6">
           {
@@ -88,33 +69,17 @@ const currentYear = new Date().getFullYear();
 
       <!-- Navigation Links -->
       {
-        footerNavs.map((group) => (
+        footerNavs.map((item) => (
           <div>
-            <h4 class="text-lg font-bold mb-4 text-white">{group.title}</h4>
-            <ul class="space-y-2">
-              {group.items.map((item) => (
-                <li>
-                  <a
-                    href={item.href}
-                    class="text-gray-300 hover:text-primary-300 transition-colors"
-                  >
-                    {item.text}
-                  </a>
-                </li>
-              ))}
-            </ul>
+            <a
+                href={item.href}
+                class="text-gray-300 hover:text-primary-300 transition-colors"
+            >
+              {item.text}
+            </a>
           </div>
         ))
       }
-    </div>
-
-    <!-- Copyright -->
-    <div class="pt-8 mt-8 border-t border-gray-800 text-center text-gray-400 text-sm">
-      <p>&copy; {currentYear} Kinh Lăng Già. All rights reserved.</p>
-      <p class="mt-2">
-        <a href="/privacy-policy" class="hover:text-primary-300 mr-4">Privacy Policy</a>
-        <a href="/terms-of-service" class="hover:text-primary-300">Terms of Service</a>
-      </p>
     </div>
   </div>
 </footer>
