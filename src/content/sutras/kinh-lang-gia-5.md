@@ -1,10 +1,10 @@
 ---
-title: "Kinh Lăng Già 1"
+title: "Kinh Lăng Già 5"
 date: 2025-07-02
 speaker: "..."
-series: "Kinh Lăng Già 1"
-scripture: "Kinh Lăng Già 1"
-audioUrl: "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3"
+series: "Kinh Lăng Già 5"
+scripture: "Kinh Lăng Già 5"
+audioUrl: "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%205.mp3"
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 image: "/uploads/sutras/kinh-lang-gia.jpg"
 summary: "..."
@@ -14,7 +14,7 @@ draft: false
 
 ## Overview
 
-Kinh Lăng Già 1
+Kinh Lăng Già 5
 
 ### Key Points
 
@@ -38,7 +38,7 @@ Kinh Lăng Già 1
 - Daily practices for trusting God
 - How to discern God's will
 - Finding peace in uncertainty
-- Supporting others in their faith journey
+- Supporting others in others in their faith journey
 
 ### Discussion Questions
 

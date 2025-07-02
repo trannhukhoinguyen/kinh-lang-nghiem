@@ -4,11 +4,11 @@ date: 2025-07-02
 speaker: "..."
 series: "Kinh Lăng Già 3"
 scripture: "Kinh Lăng Già 3"
-audioUrl: "https://ph.tinhtong.vn/ftp/mp3/-%20T%20Duy%20Luc/Kinh%20L%C4%83ng%20Gi%C3%A0%20~%20HT%20Duy%20L%E1%BB%B1c%20d%E1%BB%8Bch/Kinh%20L%C4%83ng%20Gi%C3%A0%203.mp3"
+audioUrl: "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%203.mp3"
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 image: "/uploads/sutras/kinh-lang-gia.jpg"
 summary: "..."
-tags: ["sutra"]
+tags: ["kinh lăng già"]
 draft: false
 ---
 
