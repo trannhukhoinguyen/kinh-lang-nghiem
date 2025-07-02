@@ -1,0 +1,9 @@
+---
+const { src, alt, className = "h-8 w-8" } = Astro.props;
+---
+
+<img id="logo" src={src} alt={alt} class={className} fetchpriority="high" />
+
+<style>
+</style>
+

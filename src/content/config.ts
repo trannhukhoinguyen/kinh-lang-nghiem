@@ -31,7 +31,7 @@ const eventsCollection = defineCollection({
   }),
 });
 
-const sermonsCollection = defineCollection({
+const sutrasCollection = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
@@ -42,7 +42,25 @@ const sermonsCollection = defineCollection({
     scripture: z.string().optional(),
     audioUrl: z.string().url().optional(),
     videoUrl: z.string().url().optional(),
-    image: z.string().startsWith('/uploads/sermons/').optional(), // Thumbnail
+    image: z.string().startsWith('/uploads/sutras/').optional(), // Thumbnail
+    summary: z.string().optional(),
+    tags: z.array(z.string()).optional(),
+    draft: z.boolean().default(false),
+  }),
+});
+
+const lecturesCollection = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    slug: z.string().optional(), // Auto-generated if not provided
+    date: z.date(),
+    speaker: z.string(),
+    series: z.string().optional(),
+    scripture: z.string().optional(),
+    audioUrl: z.string().url().optional(),
+    videoUrl: z.string().url().optional(),
+    image: z.string().startsWith('/uploads/lectures/').optional(), // Thumbnail
     summary: z.string().optional(),
     tags: z.array(z.string()).optional(),
     draft: z.boolean().default(false),
@@ -90,7 +108,8 @@ const siteInfoCollection = defineCollection({
 export const collections = {
   staff: staffCollection,
   events: eventsCollection,
-  sermons: sermonsCollection,
+  sutras: sutrasCollection,
+  lectures: lecturesCollection,
   ministries: ministriesCollection,
   blog: blogCollection,
   siteInfo: siteInfoCollection,
