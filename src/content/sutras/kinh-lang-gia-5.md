@@ -647,7 +647,7 @@ Hãy chú ý nghe và khéo ghi nhớ, Ta sẽ vì ngươi mà thuyết.
 
 - Đại Huệ! Nhị Thừa đã dứt phiền não chướng nên thức thứ bảy chẳng lưu chuyển, chẳng thọ khổ vui mà chẳng phải cái nhân của Niết Bàn. 
 
-- Đại Huệ! Nói Như Lai Tạng là có thọ sự khổ vui, cùng với nhân kia hoặc sanh hoặc diệt, ngoại đạo say đắm rượu của ==Tứ Trụ Địa Vô Minh== [^1], phàm phu chẳng biết là do vọng tưởng huân tập nơi tâm, nên thấy có sát na.
+- Đại Huệ! Nói Như Lai Tạng là có thọ sự khổ vui, cùng với nhân kia hoặc sanh hoặc diệt, ngoại đạo say đắm rượu của **Tứ Trụ Địa Vô Minh** [^1], phàm phu chẳng biết là do vọng tưởng huân tập nơi tâm, nên thấy có sát na.
 
 - Lại nữa, Đại Huệ! Như vàng ròng, kim cương, Xá lợi của Phật có tánh đặc biệt, trọn chẳng thể hoại. 
 
@@ -908,5 +908,7 @@ Là lời ta thường thuyết.
 **QUYỂN BỐN HẾT**
 
 **KINH LĂNG GIÀ HẾT**
+
+***
 
 [^1] TỨ TRỤ ĐỊA VÔ MINH: Dục ái, sắc ái, hữu ái và kiến ái vô minh.

@@ -56,7 +56,7 @@ Mà khởi tâm đại bi.
 
 Biết nhơn pháp Vô ngã
 
-Phiền não và ==nhĩ diệm== [^1] 
+Phiền não và **nhĩ diệm** [^1] 
 
 Thường trong sạch vô tướng,
 
@@ -677,9 +677,9 @@ Từ CÚ SANH CÚ BẤT SANH cho đến CÚ TỰ CÚ PHI TỰ, chúng tôi lư�
 ### Phật bảo Đại Huệ :
 
 - Các thức có hai thứ **Sanh, Trụ, Diệt**, chẳng phải suy nghĩ biết được. 
-  + 2 thứ sanh gọi là ==lưu chú sanh== và ==tướng sanh==; 
-  + 2 thứ trụ gọi là ==lưu chú trụ== và ==tướng trụ==; 
-  + 2 thứ diệt gọi là ==lưu chú diệt== và ==tướng diệt==.
+  + 2 thứ sanh gọi là **lưu chú sanh** và **tướng sanh**; 
+  + 2 thứ trụ gọi là **lưu chú trụ** và **tướng trụ**; 
+  + 2 thứ diệt gọi là **lưu chú diệt** và **tướng diệt**.
 
 - Đại Huệ! Các thức có 3 thứ tướng, gọi là **Chuyển tướng**, **Nghiệp tướng** và **Chơn tướng**. Nói tóm tắt có 3 thứ thức, nói rộng có 8 thứ tướng. 
 
@@ -705,7 +705,7 @@ Từ CÚ SANH CÚ BẤT SANH cho đến CÚ TỰ CÚ PHI TỰ, chúng tôi lư�
 
 - Đại Huệ! Ngoại đạo nói cái nhân sanh khởi của lưu chú, chẳng do nhãn thức, sắc không và sáng tối hoà hợp mà sanh, ngoài ra còn có các nhân khác. 
 
-- Đại Huệ! Cái nhân của họ nói như thắng diệu, như ==Sĩ Phu== [^5], như tự tại, như thời gian, như vi trần v.v...
+- Đại Huệ! Cái nhân của họ nói như thắng diệu, như **Sĩ Phu** [^5], như tự tại, như thời gian, như vi trần v.v...
 
 - Lại nữa Đại Huệ! Có 7 thứ chủng tánh của tự tánh, gọi là: **Hoà hợp** tự tánh, **tánh** tự tánh, **tướng** tự tánh, **đại chủng** tự tánh, **nhân** tự tánh, **duyên** tự tánh và **thành tựu** tự tánh.
 
@@ -721,7 +721,7 @@ Từ CÚ SANH CÚ BẤT SANH cho đến CÚ TỰ CÚ PHI TỰ, chúng tôi lư�
 
 - Nay ta sẽ thuyết những cảnh huyễn hóa tùy theo kiến chấp của tự tâm sở hiện.
 
-- Đại Huệ! Nếu có Sa Môn, Bà La Môn muốn khiến nhân quả của sự hữu chủng, vô chủng, và sự vật thời gian có sở trụ... và những cái do chấp ==ấm, giới, nhập== [^2] nơi sanh và trụ biến hiện (hoặc nói sanh rồi thì diệt), như sự vật hoặc sanh hoặc hữu, hoặc Niết Bàn, hoặc đạo, hoặc nghiệp, hoặc quả, hoặc chân lý, hoặc thường trụ, đều là đoạn diệt luận. Tại sao? Vì những sự việc kể trên vốn là vô thỉ (chẳng có sự bắt đầu), nên hiện tiền đều bất khả đắc.
+- Đại Huệ! Nếu có Sa Môn, Bà La Môn muốn khiến nhân quả của sự hữu chủng, vô chủng, và sự vật thời gian có sở trụ... và những cái do chấp **ấm, giới, nhập** [^2] nơi sanh và trụ biến hiện (hoặc nói sanh rồi thì diệt), như sự vật hoặc sanh hoặc hữu, hoặc Niết Bàn, hoặc đạo, hoặc nghiệp, hoặc quả, hoặc chân lý, hoặc thường trụ, đều là đoạn diệt luận. Tại sao? Vì những sự việc kể trên vốn là vô thỉ (chẳng có sự bắt đầu), nên hiện tiền đều bất khả đắc.
 
 - Đại Huệ! Ví như cái bình bể chẳng dùng được, như hạt giống cháy chẳng thể nảy mầm. Như thế, Đại Huệ! Nếu tánh ấm, giới, nhập đã diệt, nay diệt, sẽ diệt điều do kiến chấp vọng tưởng của tự tâm vô nhân mà có, thì sự sanh khởi chẳng có thứ lớp.
 
@@ -827,7 +827,7 @@ Tâm gọi Tích tập nghiệp,
 
 Thức do thức nhận biết,
 
-==Hiện cảnh nói có năm== [^3].
+**Hiện cảnh nói có năm** [^3].
 
 ### Đại Huệ Bồ Tát dùng kệ hỏi Phật :
 
@@ -1159,11 +1159,11 @@ Cứu thế phương tiện thuyết.
 
 - Lại nữa, Đại Huệ! Có năm thứ chủng tánh Vô gián. Thế nào là năm? Ấy là : Thanh Văn thừa Vô gián chủng tánh, Duyên Giác thừa Vô gián chủng tánh, Như Lai thừa Vô gián chủng tánh, Bất định chủng tánh và Các biệt chủng tánh (ngoại đạo chủng tánh).
 
-- Thế nào là THANH VĂN THỪA VÔ GIÁN CHỦNG TÁNH? Nếu có người nghe nói đến ấm, giới, nhập, tự cộng tướng, lúc ấy lỗ chân lông toàn thân cảm thấy nhẹ nhàng yên vui và ham tu trí tướng, chẳng tu tướng duyên khởi phát ngộ, khởi tâm đoạn dứt tập khí phiền não, nhưng chẳng đoạn, chẳng độ bất tư nghì biến dịch sanh tử, chỉ độ phần đoạn sanh tử, cho là sanh tử của ta đã hết, phạm hạnh đã lập, sau này chẳng thọ sanh nữa, như thật biết tu tập nhân vô ngã, cho đến chứng đắc Niết Bàn của Thanh Văn, ấy gọi là Thanh Văn Thừa Vô Gián Chủng Tánh.
+- Thế nào là *THANH VĂN THỪA VÔ GIÁN CHỦNG TÁNH*? Nếu có người nghe nói đến ấm, giới, nhập, tự cộng tướng, lúc ấy lỗ chân lông toàn thân cảm thấy nhẹ nhàng yên vui và ham tu trí tướng, chẳng tu tướng duyên khởi phát ngộ, khởi tâm đoạn dứt tập khí phiền não, nhưng chẳng đoạn, chẳng độ bất tư nghì biến dịch sanh tử, chỉ độ phần đoạn sanh tử, cho là sanh tử của ta đã hết, phạm hạnh đã lập, sau này chẳng thọ sanh nữa, như thật biết tu tập nhân vô ngã, cho đến chứng đắc Niết Bàn của Thanh Văn, ấy gọi là Thanh Văn Thừa Vô Gián Chủng Tánh.
 
-- Đại Huệ! Thế nào là DUYÊN GIÁC THỪA VÔ GIÁN CHỦNG TÁNH? Nếu có người nghe nói những khác biệt của nhân duyên Vô Gián, toàn thân lông dựng lên, rơi lệ dầm dề, đối với những tướng chẳng phải mười hai nhân duyên thì cảm thấy không thích, mỗi mỗi tự thân mỗi mỗi thần thông, hoặc lìa hoặc hợp, đủ thứ biến hóa, lúc nghe thuyết này, tâm liền ngộ nhập. Nếu biết họ thuộc về Duyên Giác Thừa Vô Gián chủng tánh rồi, tùy thuận căn tánh của họ mà vì họ thuyết pháp Duyên Giác Thừa, ấy gọi là tướng Duyên Giác Thừa Vô Gián Chủng Tánh.
+- Đại Huệ! Thế nào là *DUYÊN GIÁC THỪA VÔ GIÁN CHỦNG TÁNH*? Nếu có người nghe nói những khác biệt của nhân duyên Vô Gián, toàn thân lông dựng lên, rơi lệ dầm dề, đối với những tướng chẳng phải mười hai nhân duyên thì cảm thấy không thích, mỗi mỗi tự thân mỗi mỗi thần thông, hoặc lìa hoặc hợp, đủ thứ biến hóa, lúc nghe thuyết này, tâm liền ngộ nhập. Nếu biết họ thuộc về Duyên Giác Thừa Vô Gián chủng tánh rồi, tùy thuận căn tánh của họ mà vì họ thuyết pháp Duyên Giác Thừa, ấy gọi là tướng Duyên Giác Thừa Vô Gián Chủng Tánh.
 
-- Đại Huệ! NHƯ LAI THỪA VÔ GIÁN CHỦNG TÁNH có bốn thứ : 
+- Đại Huệ! *NHƯ LAI THỪA VÔ GIÁN CHỦNG TÁNH* có 4 thứ : 
 
   1. Tự tánh pháp Vô Gián chủng tánh. 
   2. Lìa tự tánh pháp Vô Gián chủng tánh. 
@@ -1172,11 +1172,11 @@ Cứu thế phương tiện thuyết.
   
 - Đại Huệ! Nếu người nghe thuyết bốn việc này, và lúc nghe thuyết cảnh giới bất tư nghì thân tài (ngã và ngã sở) kiến lập do tự tâm hiện, tâm chẳng kinh sợ, ấy gọi là tướng Như Lai Thừa Vô Gián Chủng Tánh.
 
-- Đại Huệ! BẤT ĐịNH CHỦNG TÁNH là : Khi người nghe thuyết ba thứ chủng tánh kể trên, tùy theo lúc nghe chủng tánh nào thì ngộ nhập chủng tánh ấy, theo đó tu tập mà thành tựu. Như nghe thuyết thừa Thanh Văn thì thành chủng tánh Thanh Văn, nghe thuyết thừa Duyên Giác thì thành chủng tánh Duyên Giác, nghe thuyết thừa Như Lai thì thành chủng tánh Như La, ấy gọi là Bất Định Chủng Tánh.
+- Đại Huệ! *BẤT ĐỊNH CHỦNG TÁNH* là : Khi người nghe thuyết ba thứ chủng tánh kể trên, tùy theo lúc nghe chủng tánh nào thì ngộ nhập chủng tánh ấy, theo đó tu tập mà thành tựu. Như nghe thuyết thừa Thanh Văn thì thành chủng tánh Thanh Văn, nghe thuyết thừa Duyên Giác thì thành chủng tánh Duyên Giác, nghe thuyết thừa Như Lai thì thành chủng tánh Như La, ấy gọi là Bất Định Chủng Tánh.
 
-- Đại Huệ! CÁC BIệT VÔ GIÁN là : Những chúng sanh còn chấp thật kiến giác như ngã, nhơn, chúng sanh, thọ mạng, tăng trưởng thiện căn, sĩ phu v.v... mà cầu chứng Niết Bàn. Lại nghe lời thuyết pháp của ngoại đạo, cho tất cả tánh đều có kẻ tác, nói đó là Niết Bàn, cho như thế là giác ngộ, đối với pháp Vô Ngã chẳng có phần, nên họ không thể giải thoát. Ấy là những người tu Thanh Văn thừa mà thuộc về ngoại đạo Vô Gián chủng tánh, chẳng xuất luân hồi mà cho là xuất, ấy gọi là Các Biệt Vô Gián Chủng Tánh.
+- Đại Huệ! *CÁC BIỆT VÔ GIÁN* là: Những chúng sanh còn chấp thật kiến giác như ngã, nhơn, chúng sanh, thọ mạng, tăng trưởng thiện căn, sĩ phu v.v... mà cầu chứng Niết Bàn. Lại nghe lời thuyết pháp của ngoại đạo, cho tất cả tánh đều có kẻ tác, nói đó là Niết Bàn, cho như thế là giác ngộ, đối với pháp Vô Ngã chẳng có phần, nên họ không thể giải thoát. Ấy là những người tu Thanh Văn thừa mà thuộc về ngoại đạo Vô Gián chủng tánh, chẳng xuất luân hồi mà cho là xuất, ấy gọi là Các Biệt Vô Gián Chủng Tánh.
 
-- Đại Huệ! Người sơ ==Trị Địa== [^4] nói kiến lập chủng tánh là vì muốn siêu nhập Vô Sở Hữu Địa, nên có sự kiến lập này. Người tự tu tự giác, phải dứt sạch tập khí phiền não, thấy pháp Vô Ngã, từ đắc Tam muội của Thanh Văn, cho đến năm thứ chủng tánh kia, cuối cùng đều sẽ chứng đắc Pháp Thân Tối Thắng của Như Lai.
+- Đại Huệ! Người sơ **Trị Địa** [^4] nói kiến lập chủng tánh là vì muốn siêu nhập Vô Sở Hữu Địa, nên có sự kiến lập này. Người tự tu tự giác, phải dứt sạch tập khí phiền não, thấy pháp Vô Ngã, từ đắc Tam muội của Thanh Văn, cho đến năm thứ chủng tánh kia, cuối cùng đều sẽ chứng đắc Pháp Thân Tối Thắng của Như Lai.
 
 ### Khi ấy, Thế Tôn muốn lặp lại nghĩa này mà thuyết kệ rằng:
 

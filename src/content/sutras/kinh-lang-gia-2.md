@@ -38,7 +38,7 @@ Bốn câu trước là tứ quả của Thanh Văn, PHI THỪA tức là Tối 
 
 - Đại Huệ! Người Nhất Xiển Đề xả bỏ tất cả thiện căn, lại nhờ thần lực Như Lai, cũng có thể tái phát thiện căn. Tại sao? Vì Như Lai chẳng xả bỏ tất cả chúng sanh. Do đó, nên nói Bồ Tát Nhất Xiển Đề chẳng thủ chứng Niết Bàn.
 
-- Lại nữa, Đại Huệ! Đại Bồ Tát phải thấu hiểu ba thứ tự tánh. Thế nào là ba thứ tự tánh (1)? Ấy là : Vọng tưởng tự tánh ( Biến kế sở chấp ), nhân duyên tự tánh ( Y tha khởi ) và thành tựu tự tánh ( Viên thành thật ). Vọng tưởng tự tánh do chấp trước tướng sanh.
+- Lại nữa, Đại Huệ! Đại Bồ Tát phải thấu hiểu ba thứ tự tánh. Thế nào là **ba thứ tự tánh** [^1]? Ấy là : Vọng tưởng tự tánh ( Biến kế sở chấp ), nhân duyên tự tánh ( Y tha khởi ) và thành tựu tự tánh ( Viên thành thật ). Vọng tưởng tự tánh do chấp trước tướng sanh.
 
 (1) BA THỨ TỰ TÁNH : Có hai thứ : A. Là ba tánh : Thiện, ác, vô ký (thuộc về danh số). B. Là ba tánh : Biến kế sở chấp, Y tha khởi và Viên thành thật (thuộc về thuật ngữ).
 
@@ -46,19 +46,19 @@ Bốn câu trước là tứ quả của Thanh Văn, PHI THỪA tức là Tối 
 
 A. Tánh THIỆN, ÁC, VÔ KÝ :
 
-1.- Tánh THIỆN : Là làm những việc có lợi ích cho bản thân và người khác nơi đời hiện tại và vị lai, tin tưởng tâm thiện là do chủng tử thiện căn sở tạo tất cả việc thiện, cũng gọi là thiện nghiệp.
+1.- Tánh **THIỆN**: Là làm những việc có lợi ích cho bản thân và người khác nơi đời hiện tại và vị lai, tin tưởng tâm thiện là do chủng tử thiện căn sở tạo tất cả việc thiện, cũng gọi là thiện nghiệp.
 
-2.- Tánh ÁC : Do ác tâm tham dục sanh khởi, tạo tất cả nghiệp, vì phạm tổn hại đến mình hoặc người khác nơi đời hiện tại và vị lai, thuộc về tánh ác, cũng gọi là ác nghiệp.
+2.- Tánh **ÁC**: Do ác tâm tham dục sanh khởi, tạo tất cả nghiệp, vì phạm tổn hại đến mình hoặc người khác nơi đời hiện tại và vị lai, thuộc về tánh ác, cũng gọi là ác nghiệp.
 
-3.- Tánh VÔ KÝ : Là pháp phi thiện phi ác, chẳng có chút niệm nào dính mắc sự lợi ích hay tổn hại, chẳng thể ghi ra để phân biệt. Trong Duy Thức có hai thứ Vô Ký : Vô Ký có che lấp và Vô ký chẳng che lấp. Nói "Vô Ký có che lấp" là có tác dụng rất yếu của mê vọng, dù chẳng có sức để lợi ích hay tổn hại mình và người, nhưng có cái thể mê vọng che lấp Thánh đạo, những sự vật đồng như chướng này đều thuộc Vô Ký có che lấp, như thức thứ bảy. Nói "Vô Ký chẳng che lấp" là bản thể chẳng phải mê vọng, tự tánh rất yếu, chẳng có chút sức để lợi ích hay tổn hại cho mình và người, gọi là Vô Ký chẳng che lấp, như thức thứ tám và nội căn ngoại khí v.v... Đồng như tánh này đều thuộc Vô Ký chẳng che lấp. Gọi chung là tánh Vô Ký.
+3.- Tánh **VÔ KÝ**: Là pháp phi thiện phi ác, chẳng có chút niệm nào dính mắc sự lợi ích hay tổn hại, chẳng thể ghi ra để phân biệt. Trong Duy Thức có hai thứ Vô Ký : Vô Ký có che lấp và Vô ký chẳng che lấp. Nói "Vô Ký có che lấp" là có tác dụng rất yếu của mê vọng, dù chẳng có sức để lợi ích hay tổn hại mình và người, nhưng có cái thể mê vọng che lấp Thánh đạo, những sự vật đồng như chướng này đều thuộc Vô Ký có che lấp, như thức thứ bảy. Nói "Vô Ký chẳng che lấp" là bản thể chẳng phải mê vọng, tự tánh rất yếu, chẳng có chút sức để lợi ích hay tổn hại cho mình và người, gọi là Vô Ký chẳng che lấp, như thức thứ tám và nội căn ngoại khí v.v... Đồng như tánh này đều thuộc Vô Ký chẳng che lấp. Gọi chung là tánh Vô Ký.
 
 B. Tánh BIẾN, Y, VIÊN :
 
-1.- Tánh BIẾN KẾ SỞ CHẤP : Do tập khí vọng tưởng của phàm phu có tánh chấp thật, so sánh chấp trước tất cả pháp gọi là BIẾN KẾ. Vì vọng tưởng biến kế mê chấp, chấp tất cả tánh thật có hay thật không, như thấy sợi dây lầm tưởng cho là con rắn, nhưng thật thì chẳng có bản thể của rắn, chỉ là vọng tình mê chấp cho là rắn thôi, ấy gọi là Biến Kế Sở Chấp.
+1.- Tánh **BIẾN KẾ SỞ CHẤP**: Do tập khí vọng tưởng của phàm phu có tánh chấp thật, so sánh chấp trước tất cả pháp gọi là BIẾN KẾ. Vì vọng tưởng biến kế mê chấp, chấp tất cả tánh thật có hay thật không, như thấy sợi dây lầm tưởng cho là con rắn, nhưng thật thì chẳng có bản thể của rắn, chỉ là vọng tình mê chấp cho là rắn thôi, ấy gọi là Biến Kế Sở Chấp.
 
-2.- Tánh Y THA KHỞI : Là y theo nhân duyên mà sanh khởi tất cả vạn pháp. Chữ THA thay cho nhân duyên, do chủng tử của thức thứ tám làm đệ nhất nhân, đồng thời nhờ mỗi mỗi trợ duyên khác mà sanh khởi các tướng, lìa vọng tưởng mà tự tồn tại, cũng như sợi dây do bố gai, công cụ, nhân công làm nhân duyên mà sanh khởi, gọi là tánh Y Tha Khởi.
+2.- Tánh **Y THA KHỞI**: Là y theo nhân duyên mà sanh khởi tất cả vạn pháp. Chữ THA thay cho nhân duyên, do chủng tử của thức thứ tám làm đệ nhất nhân, đồng thời nhờ mỗi mỗi trợ duyên khác mà sanh khởi các tướng, lìa vọng tưởng mà tự tồn tại, cũng như sợi dây do bố gai, công cụ, nhân công làm nhân duyên mà sanh khởi, gọi là tánh Y Tha Khởi.
 
-3.- Tánh VIÊN THÀNH THẬT : Nghĩa là viên mãn thành tựu tánh chơn thật, cũng gọi là pháp tánh, cũng gọi là như như, tức là thể tánh của tất cả pháp Vô Vi. Pháp tánh ở đây có hai nghĩa : Nói "Pháp Tánh tùy duyên" là tánh Y Tha Khởi, thuộc nghĩa thật của Đại thữa; hoặc nói "Pháp tánh là Sở Y" do tánh Y tha mà kiến lập, thuộc nghĩa quyền của Đại thừa ( phương tiện sở lập ).
+3.- Tánh **VIÊN THÀNH THẬT**: Nghĩa là viên mãn thành tựu tánh chơn thật, cũng gọi là pháp tánh, cũng gọi là như như, tức là thể tánh của tất cả pháp Vô Vi. Pháp tánh ở đây có hai nghĩa : Nói "Pháp Tánh tùy duyên" là tánh Y Tha Khởi, thuộc nghĩa thật của Đại thữa; hoặc nói "Pháp tánh là Sở Y" do tánh Y tha mà kiến lập, thuộc nghĩa quyền của Đại thừa ( phương tiện sở lập ).
 
 Nhưng trong ba thứ tánh nầy, tánh Biến Kế Sở Chấp là vọng hữu, tánh Y Tha Khởi là giả hữu, tánh Viên Thành Thật là thật hữu. Còn nói ngược lại, tánh Biến Kế Sở Chấp là thật vô, tánh Y Tha Khởi là tương tự hữu, tánh Viên Thành Thật là chơn hữu, ba tánh này đầy đủ trong mọi sự vật. Như pháp quá khứ, vị lai, lông rùa sừng thỏ, cho là thật thì thuộc tánh Biến Kế Sở Chấp v.v... Nói tóm lại, pháp Vô Vi thuộc tánh Viên Thành Thật, ví như bông hoa, do vọng tưởng mê chấp cho là có tướng hoa thật, là tánh Biến Kế Sở Chấp, biết là từ nhân duyên sanh khởi, giả hiện tướng hoa, là tánh Y Tha Khởi, ngộ được thật tế của hoa, ngoài tánh và phi tánh, là tánh Viên Thành Thật vậy.
 

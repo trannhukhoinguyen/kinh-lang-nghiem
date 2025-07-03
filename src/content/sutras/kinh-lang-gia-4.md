@@ -208,7 +208,7 @@ Cũng chẳng phải đoạn diệt.
     + Thế nào là XUẤT THẾ GIAN TRÍ? Là nói tất cả Thanh Văn, Duyên Giác do chấp trước hy vọng chứng quả Niết Bàn, đọa tự tướng sở chứng cho là cộng tướng. 
     + Thế nào là XUẤT THẾ GIAN THỰƠNG TRÍ? Ta nói chư Phật Bồ Tát quán pháp Vô Sanh, thấy bất sanh bất diệt, lìa pháp hữu và vô, duyên Vô Sư Trí, tự chứng đắc nhơn pháp Vô Ngã của địa vị Như Lai.
 
-- Đại Huệ! Sanh diệt là Thức, bất sanh bất diệt là Trí. Lại nữa đọa tướng vô tướng và đọa mỗi mỗi nhân tướng hữu và vô là Thức, siêu việt tướng hữu vô là Trí. Lại nữa, nuôi dưỡng tướng là Thức, chẳng nuôi dưỡng tướng là Trí. Lại nữa, có ba thứ trí : Là biết sanh diệt, biết tự cộng tướng, biết bất sanh bất diệt. Lại nữa, tướng vô ngại là Trí, mỗi mỗi cảnh giới tướng ngại là Thức. Lại nữa, chấp ==ba sự hòa hợp== [^1] sanh tướng phương tiện là Thức, tướng tự tánh chẳng nhờ sự phương tiện là Trí. Lại nữa, đắc tướng là Thức, chẳng đắc tướng là Trí. Vì cảnh giới Tự Giác Thánh Trí chẳng xuất chẳng nhập, như bóng trăng trong nước, chẳng thể đắc vậy.
+- Đại Huệ! Sanh diệt là Thức, bất sanh bất diệt là Trí. Lại nữa đọa tướng vô tướng và đọa mỗi mỗi nhân tướng hữu và vô là Thức, siêu việt tướng hữu vô là Trí. Lại nữa, nuôi dưỡng tướng là Thức, chẳng nuôi dưỡng tướng là Trí. Lại nữa, có ba thứ trí : Là biết sanh diệt, biết tự cộng tướng, biết bất sanh bất diệt. Lại nữa, tướng vô ngại là Trí, mỗi mỗi cảnh giới tướng ngại là Thức. Lại nữa, chấp **3 Sự Hòa Hợp** [^1] sanh tướng phương tiện là Thức, tướng tự tánh chẳng nhờ sự phương tiện là Trí. Lại nữa, đắc tướng là Thức, chẳng đắc tướng là Trí. Vì cảnh giới Tự Giác Thánh Trí chẳng xuất chẳng nhập, như bóng trăng trong nước, chẳng thể đắc vậy.
 
 ### Khi ấy, Thế Tôn muốn lập lại nghĩa này mà thuyết kệ rằng :
 
@@ -240,7 +240,7 @@ Bồ Tát ỏỏ Vô phân biệt ỏỏ
 
 Thanh Văn chẳng thể đến.
 
-==Tịch tịnh thắng tiến nhẫn== [^3]
+**Tịch tịnh thắng tiến nhẫn** [^3]
 
 Trí Như Lai trong sạch.
 
@@ -268,7 +268,7 @@ Siêu việt những tâm lượng,
 
 Là thanh tịnh Như Lai.
 
-- Lại nữa, Đại Huệ! Ngoại đạo có ==9 thứ Chuyển Biến Luận== [^4] sanh kiến chấp chuyển biến của ngoại đạo, ấy là : Hình Xứ chuyển biến, Tướng chuyển biến, Nhân chuyển biến, Thành chuyển biến, Kiến chuyển biến, Tánh chuyển biến, Duyên Phân Minh chuyển biến, Sở Tác Phân Minh chuyển biến, Sự chuyển biến, gọi là chín thứ kiến chấp chuyển biến.
+- Lại nữa, Đại Huệ! Ngoại đạo có **9 thứ Chuyển Biến Luận** [^4] sanh kiến chấp chuyển biến của ngoại đạo, ấy là : Hình Xứ chuyển biến, Tướng chuyển biến, Nhân chuyển biến, Thành chuyển biến, Kiến chuyển biến, Tánh chuyển biến, Duyên Phân Minh chuyển biến, Sở Tác Phân Minh chuyển biến, Sự chuyển biến, gọi là chín thứ kiến chấp chuyển biến.
 
 - 9 thứ chuyển biến này hoặc từ vô thành hữu, hoặc từ hữu thành vô, do đó vọng sanh phân biệt lập ra Chuyển Biến Luận.
 
@@ -324,9 +324,7 @@ Như thành Càn Thát Bà.
 
 - Đại Huệ! Nếu tương tục đoạn dứt thì chẳng có tương tục và bất tương tục.
 
-- Lại nữa, Đại Huệ! Chấp trước ba duyên hòa hợp (1) làm phương tiện thì sanh thức ấm tương tục chẳng ngừng, vì chấp trước phương tiện nên có tương tục. Nếu ba duyên hòa hợp và thức ấm đoạn dứt thì thấy được ba giải thoát, tất cả tương tục đều chẳng sanh.
-
-(1) BA DUYÊN HÒA HƠP : Tức là căn, cảnh, thức. Căn là lục căn, cảnh là lục trần. Thức là lục thức. Tất cả pháp đều do ba thứ nhân duyên này hòa hợp sanh khởi.
+- Lại nữa, Đại Huệ! Chấp trước **3 Duyên Hòa Hợp** [^5] làm phương tiện thì sanh thức ấm tương tục chẳng ngừng, vì chấp trước phương tiện nên có tương tục. Nếu **3 Duyên Hòa Hợp** [^5] và thức ấm đoạn dứt thì thấy được ba giải thoát, tất cả tương tục đều chẳng sanh.
 
 ### Khi ấy, Thế Tôn muốn lặp lại nghĩa này mà thuyết kệ rằng :
 
@@ -921,7 +919,7 @@ Chẳng báng Đại Đạo Sư,
 
 - Đại Huệ! Nơi tất cả pháp vốn Vô Sở Hữu, nếu giác được tự tâm hiện lượng thì lìa được hai thứ vọng tưởng, chư Đại Bồ Tát dựa theo nghĩa này mà chẳng dựa theo văn tự. Nếu thiện nam, tín nữ dựa theo văn tự, là tự hoại Đệ Nhất Nghĩa, chẳng thể tự giác cũng chẳng thể giác tha, đọa nơi ác kiến tương tục mà vì chúng thuyết pháp, chẳng khéo liễu tri tất cả pháp tất cả địa tất cả tướng, cũng chẳng biết nghĩa cú. Nếu khéo biết tất cả Pháp, tất cả Địa, tất cả Tướng, thông đạt nghĩa cú, tánh nghĩa đầy đủ thì họ được dùng sự vui vô tướng của chánh Pháp mà tự thọ sự vui, kiến lập Đại thừa bình đẳng cho chúng sanh.
 
-- Đại Huệ! Người nhiếp thọ Đại thừa thì nhiếp thọ Chư Phật, Bồ Tát, Thanh Văn, Duyên Giác. Vì nhiếp thọ chư Phật, Bồ Tát, Thanh Văn, Duyên Giác thì nhiếp thọ tất cả chúng sanh, nhiếp thọ tất cả chúng sanh thì nhiếp thọ chánh pháp, nhiếp thọ chánh pháp thì Phật chủng chẳng dứt, Phật chủng chẳng dứt thì hay liễu tri chỗ đắc nhập thù thắng. Liễu tri chỗ đắc nhập thù thắng ấy là Đại Bồ Tát thường được ý sanh hóa thân, tùy nghi kiến lập pháp Đại thừa bình đẳng, dùng sức ==Thập Tự Tại== [^2] hiện nhiều sắc tướng, thông đạt hình loại phiền não, các tướng hy vọng của chúng sanh mà thuyết pháp như thật. Nói NHƯ THẬT tức là chẳng có khác biệt, tướng như thật là bất khứ, bất lai, tất cả hư ngụy đều dứt, gọi là Như Thật. 
+- Đại Huệ! Người nhiếp thọ Đại thừa thì nhiếp thọ Chư Phật, Bồ Tát, Thanh Văn, Duyên Giác. Vì nhiếp thọ chư Phật, Bồ Tát, Thanh Văn, Duyên Giác thì nhiếp thọ tất cả chúng sanh, nhiếp thọ tất cả chúng sanh thì nhiếp thọ chánh pháp, nhiếp thọ chánh pháp thì Phật chủng chẳng dứt, Phật chủng chẳng dứt thì hay liễu tri chỗ đắc nhập thù thắng. Liễu tri chỗ đắc nhập thù thắng ấy là Đại Bồ Tát thường được ý sanh hóa thân, tùy nghi kiến lập pháp Đại thừa bình đẳng, dùng sức **Thập Tự Tại** [^2] hiện nhiều sắc tướng, thông đạt hình loại phiền não, các tướng hy vọng của chúng sanh mà thuyết pháp như thật. Nói NHƯ THẬT tức là chẳng có khác biệt, tướng như thật là bất khứ, bất lai, tất cả hư ngụy đều dứt, gọi là Như Thật. 
 
 - Đại Huệ! Thiện nam, tín nữ chẳng nên nhiếp thọ sự tùy ngôn thuyết chấp trước, vì nghĩa chơn thật lìa nơi văn tự.
 
@@ -947,12 +945,14 @@ Chẳng báng Đại Đạo Sư,
 
 - Đại Huệ! Nói Niết Bàn là thấy nghĩa chơn thật, lìa pháp tâm, tâm số của vọng tưởng, cho đến đắc Như Lai Tự Giác Thánh Trí, Ta nói là Niết Bàn.
 
-[^1] 
+***
+
+[^1] 3 Sự Hòa Hợp:
 1. Căn bản duyên của thức thứ tám. 
 2. Tác ý, tức tự thể của thức thứ sáu. 
 3. Chủng tử, tức do thức thứ sáu huân tập mà thành.
 
-[^2] Nói tắt là Thập Lực, làmười thứ sức tự tại của Như Lai. Ấy là:
+[^2] Nói tắt là Thập Lực, là 10 thứ sức tự tại của Như Lai. Ấy là:
 1. Chỗ tri giác chẳng phải chỗ trí lực. Sự biết nghĩa lý của các vật là do sức tự tại của tự tâm tự biết, chẳng phải do trí lực mà biết.
 2. Sức tự tại biết nhân quả nghiệp báo của tất cả chúng sanh nơi tam thế.
 3. Sức tự tại biết các thứ thiền định giải thoát tam muội.
@@ -977,3 +977,4 @@ Chẳng báng Đại Đạo Sư,
 8. SỞ TÁC PHÂN MINH chuyển biến : Do duyên sở tác thành quả, có sanh rồi lại diệt, chuyển biến chẳng đồng.
 9. SỰ chuyển biến : Nói căn, thân, khí giới (vũ trụ vạn vật) các pháp hữu vi cuối cùng đều phải biến hoại.
 
+[^5] 3 DUYÊN HÒA HỢP: Tức là căn, cảnh, thức. Căn là lục căn, cảnh là lục trần. Thức là lục thức. Tất cả pháp đều do ba thứ nhân duyên này hòa hợp sanh khởi.

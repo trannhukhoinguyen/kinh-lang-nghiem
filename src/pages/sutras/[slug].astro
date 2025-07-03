@@ -4,6 +4,7 @@ import PostLayout from "../../layouts/PostLayout.astro";
 import Button from "../../components/UI/Button.astro";
 import { getCollection } from "astro:content";
 import { formatDate } from "../../utils/dateUtils";
+import LogoYoutube from "../../components/LogoYoutube.astro";
 
 // Generate static paths for all items
 const topic = "sutra";
@@ -129,7 +130,9 @@ if (entry.data.series) {
       {
         entry.data.videoUrl && (
           <div>
-            <h3 class="text-xl font-bold mb-4">Watch</h3>
+            <h3 class="text-xl font-bold mb-4" title="Watch">
+              <LogoYoutube className="h-6 w-6" />
+            </h3>
             <div
               class="
                 aspect-w-16
@@ -153,7 +156,7 @@ if (entry.data.series) {
       {
         entry.data.audioUrl && (
           <div>
-            <h3 class="text-xl font-bold mb-4">Listen</h3>
+            <h3 class="text-xl font-bold mb-4" title="Listen">🎧</h3>
             <audio controls class="w-full">
               <source src={entry.data.audioUrl} type="audio/mpeg">
               Your browser does not support the audio element.
