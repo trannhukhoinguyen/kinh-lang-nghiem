@@ -947,12 +947,12 @@ Chẳng báng Đại Đạo Sư,
 
 ***
 
-[^1] 3 Sự Hòa Hợp:
-1. Căn bản duyên của thức thứ tám. 
-2. Tác ý, tức tự thể của thức thứ sáu. 
-3. Chủng tử, tức do thức thứ sáu huân tập mà thành.
+[^1]: 3 Sự Hòa Hợp:
+1. Căn bản duyên của thức thứ 8. 
+2. Tác ý, tức tự thể của thức thứ 6. 
+3. Chủng tử, tức do thức thứ 6 huân tập mà thành.
 
-[^2] Nói tắt là Thập Lực, là 10 thứ sức tự tại của Như Lai. Ấy là:
+[^2]: Nói tắt là Thập Lực, là 10 thứ sức tự tại của Như Lai. Ấy là:
 1. Chỗ tri giác chẳng phải chỗ trí lực. Sự biết nghĩa lý của các vật là do sức tự tại của tự tâm tự biết, chẳng phải do trí lực mà biết.
 2. Sức tự tại biết nhân quả nghiệp báo của tất cả chúng sanh nơi tam thế.
 3. Sức tự tại biết các thứ thiền định giải thoát tam muội.
@@ -964,9 +964,9 @@ Chẳng báng Đại Đạo Sư,
 9. Biết Túc mạng và Vô lậu Niết Bàn của tất cả chúng sanh.
 10. Biết tất cả tập khí mê vọng, dứt hẳn chẳng sanh, đúng như thật tế. Gọi là Thập Tự Tại Lực.
 
-[^3] TỊCH TỊNH THẮNG TIẾN NHẪN : Trong Kinh Nhơn Vương nói năm thứ nhẫn là : Điều phục nhẫn, Tín nhẫn, Thuận nhẫn, Vô Sanh nhẫn và Tịch diệt nhẫn.
+[^3]: TỊCH TỊNH THẮNG TIẾN NHẪN : Trong Kinh Nhơn Vương nói năm thứ nhẫn là : Điều phục nhẫn, Tín nhẫn, Thuận nhẫn, Vô Sanh nhẫn và Tịch diệt nhẫn.
 
-[^4] 9 THỨ CHUYỂN BIẾN LUẬN CỦA NGOẠI ĐẠO:
+[^4]: 9 THỨ CHUYỂN BIẾN LUẬN CỦA NGOẠI ĐẠO:
 1. HÌNH XỨ chuyển biến : Là nói chúng sanh luân hồi trong lục đạo, mỗi mỗi hình tướng và vứ sở chuyển biến chẳng đồng.
 2. TƯỚNG chuyển biến : Là tướng của tứ đại ngũ ấm sanh, trụ, diệt chuyển biến chẳng đồng.
 3. NHÂN chuyển biến : Do chủng tử làm nhân, nhân diệt thì quả sanh, chuyển biến chẳng đồng.
@@ -977,4 +977,4 @@ Chẳng báng Đại Đạo Sư,
 8. SỞ TÁC PHÂN MINH chuyển biến : Do duyên sở tác thành quả, có sanh rồi lại diệt, chuyển biến chẳng đồng.
 9. SỰ chuyển biến : Nói căn, thân, khí giới (vũ trụ vạn vật) các pháp hữu vi cuối cùng đều phải biến hoại.
 
-[^5] 3 DUYÊN HÒA HỢP: Tức là căn, cảnh, thức. Căn là lục căn, cảnh là lục trần. Thức là lục thức. Tất cả pháp đều do ba thứ nhân duyên này hòa hợp sanh khởi.
+[^5]: 3 DUYÊN HÒA HỢP: Tức là căn, cảnh, thức. Căn là lục căn, cảnh là lục trần. Thức là lục thức. Tất cả pháp đều do ba thứ nhân duyên này hòa hợp sanh khởi.

@@ -911,4 +911,8 @@ Là lời ta thường thuyết.
 
 ***
 
-[^1] TỨ TRỤ ĐỊA VÔ MINH: Dục ái, sắc ái, hữu ái và kiến ái vô minh.
+[^1]: TỨ TRỤ ĐỊA VÔ MINH: 
+- *Dục ái*, 
+- *sắc ái*, 
+- *hữu ái* 
+- và *kiến ái vô minh*.

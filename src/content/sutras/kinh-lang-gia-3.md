@@ -1086,7 +1086,7 @@ Thân người vốn chẳng thật.
 
 ***
 
-[^1] THẬP VÔ TẬN CÚ: Cũng là mười thứ bất nhị của Như Lai. Chư Phật có mười thứ quyết định bất nhị: 
+[^1]: THẬP VÔ TẬN CÚ: Cũng là mười thứ bất nhị của Như Lai. Chư Phật có mười thứ quyết định bất nhị: 
 1. Tất cả chư Phật khéo thuyết lời thọ ký bất nhị. 
 2. Hay tùy thuận tâm niệm chúng sanh, khiến họ thỏa nguyện bất nhị. 
 3. Khéo biết tam thế tất cả Phật và Phật sở giáo hóa tất cả chúng sanh thể tánh bình đẳng bất nhị. 
@@ -1098,6 +1098,6 @@ Thân người vốn chẳng thật.
 9. Biết tam thế tất cả cõi Phật vào trong mộy cõi bất nhị. 
 10. Biết lời nói của tất cả tam thế chư Phật tức là lời nói của một Phật bất nhị.
 
-[^2] *TÂM là tâm vương, gồm tám thứ thức, chấp cho là ngã. TÂM SỐ gồm năm mươi mốt thứ, như tham, sân, si... cho là sở hữu của Ngã, chấp là Ngã Sở*
+[^2]: *TÂM là tâm vương, gồm tám thứ thức, chấp cho là ngã. TÂM SỐ gồm năm mươi mốt thứ, như tham, sân, si... cho là sở hữu của Ngã, chấp là Ngã Sở*
 
-[^3] *tức là đắc nhơn vô ngã thì lý nghi dứt*
+[^3]: *tức là đắc nhơn vô ngã thì lý nghi dứt*
