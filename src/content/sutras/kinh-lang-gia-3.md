@@ -1,14 +1,14 @@
 ---
 title: "Kinh Lăng Già 3"
-date: 2025-07-02
-speaker: "..."
-series: "Kinh Lăng Già 3"
+date: 2025-07-03
+speaker: "Thích Duy Lực"
+series: "Kinh Lăng Già"
 scripture: "Kinh Lăng Già 3"
 audioUrl: "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%203.mp3"
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 image: "/uploads/sutras/kinh-lang-gia.jpg"
 summary: "..."
-tags: ["kinh lăng già"]
+tags: ["Kinh Lăng Già", "Thích Duy Lực"]
 draft: false
 ---
 

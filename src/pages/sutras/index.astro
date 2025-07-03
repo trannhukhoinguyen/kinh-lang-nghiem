@@ -5,91 +5,93 @@ import Card from "../../components/UI/Card.astro";
 import { getCollection } from "astro:content";
 import { formatDate } from "../../utils/dateUtils";
 
-// Get all items
 const topic = "sutra";
 const collection = `${topic}s`;
 const title = collection.charAt(0).toUpperCase() + collection.slice(1);
 const subtitle = "";
 const description = "";
+const backgroundImage = "/uploads/zen-meditation-1600x100.jpg";
 const path = `/${collection}`;
-const alItems = await getCollection("sutras", ({ data }) => {
+
+// Get all sutras
+const allSutras = await getCollection("sutras", ({ data }) => {
   return import.meta.env.PROD ? !data.draft : true;
 });
 
 // Sort by date (newest first)
-const items = alItems.sort((a, b) =>
-  new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+const sutras = allSutras.sort((a, b) =>
+    new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
 );
 
 // Get unique series and speakers for filters
-const series = [...new Set(items.map(item => item.data.series).filter(Boolean))];
-const speakers = [...new Set(items.map(item => item.data.speaker))];
+const series = [...new Set(sutras.map(sutra => sutra.data.series).filter(Boolean))];
+const speakers = [...new Set(sutras.map(sutra => sutra.data.speaker))];
 ---
 
 <BaseLayout
-  title={title}
-  description={description}
+    title={title}
+    description={description}
 >
   <PageHeader
-    title={title}
-    subtitle={subtitle}
-    backgroundImage={`/uploads/item-header-bg.webp`}
+      title={title}
+      subtitle={subtitle}
+      backgroundImage={backgroundImage}
   />
 
-  <!-- List -->
+  <!-- Sutras List -->
   <section class="py-16">
     <div class="container">
       <div class="grid grid-cols-1 lg:grid-cols-4 gap-8">
         <!-- Filters Sidebar -->
         <div class="lg:col-span-1">
           <div class="bg-white p-6 rounded-lg shadow-sm sticky top-24">
-            <h2 class="text-xl font-bold mb-6">Filter</h2>
+            <h2 class="text-xl font-bold mb-6">Filter Sutras</h2>
 
             <!-- Search -->
             <div class="mb-6">
               <label for="search" class="block text-sm font-medium text-gray-700 mb-1">Search</label>
               <input
-                type="text"
-                id="search"
-                placeholder="Search items..."
-                class="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-primary-500 focus:border-primary-500"
+                  type="text"
+                  id="search"
+                  placeholder="Search sutras..."
+                  class="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-primary-500 focus:border-primary-500"
               />
             </div>
 
             <!-- Series Filter -->
             {
-              series.length > 0 && (
-                <div class="mb-6">
-                  <label for="series" class="block text-sm font-medium text-gray-700 mb-1">Series</label>
-                  <select
-                    id="series"
-                    class="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-primary-500 focus:border-primary-500"
-                  >
-                    <option value="">All Series</option>
-                    {series.map(s => (
-                      <option value={s}>{s}</option>
-                    ))}
-                  </select>
-                </div>
-              )
+                series.length > 0 && (
+                    <div class="mb-6">
+                      <label for="series" class="block text-sm font-medium text-gray-700 mb-1">Series</label>
+                      <select
+                          id="series"
+                          class="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-primary-500 focus:border-primary-500"
+                      >
+                        <option value="">All Series</option>
+                        {series.map(s => (
+                            <option value={s}>{s}</option>
+                        ))}
+                      </select>
+                    </div>
+                )
             }
 
             <!-- Speaker Filter -->
             {
-              speakers.length > 0 && (
-                <div class="mb-6">
-                  <label for="speaker" class="block text-sm font-medium text-gray-700 mb-1">Speaker</label>
-                  <select
-                    id="speaker"
-                    class="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-primary-500 focus:border-primary-500"
-                  >
-                    <option value="">All Speakers</option>
-                    {speakers.map(s => (
-                      <option value={s}>{s}</option>
-                    ))}
-                  </select>
-                </div>
-              )
+                speakers.length > 0 && (
+                    <div class="mb-6">
+                      <label for="speaker" class="block text-sm font-medium text-gray-700 mb-1">Speaker</label>
+                      <select
+                          id="speaker"
+                          class="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-primary-500 focus:border-primary-500"
+                      >
+                        <option value="">All Speakers</option>
+                        {speakers.map(s => (
+                            <option value={s}>{s}</option>
+                        ))}
+                      </select>
+                    </div>
+                )
             }
 
             <!-- Date Range Filter -->
@@ -99,94 +101,94 @@ const speakers = [...new Set(items.map(item => item.data.speaker))];
               <div>
                 <label for="from-date" class="block text-xs text-gray-500 mb-1">From</label>
                 <input
-                  type="date"
-                  id="from-date"
-                  class="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-primary-500 focus:border-primary-500"
+                    type="date"
+                    id="from-date"
+                    class="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-primary-500 focus:border-primary-500"
                 />
               </div>
 
               <div>
                 <label for="to-date" class="block text-xs text-gray-500 mb-1">To</label>
                 <input
-                  type="date"
-                  id="to-date"
-                  class="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-primary-500 focus:border-primary-500"
+                    type="date"
+                    id="to-date"
+                    class="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-primary-500 focus:border-primary-500"
                 />
               </div>
             </div>
 
             <!-- Reset Filters Button -->
             <button
-              id="reset-filters"
-              class="w-full mt-6 px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-md hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2"
+                id="reset-filters"
+                class="w-full mt-6 px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-md hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2"
             >
               Reset Filters
             </button>
           </div>
         </div>
 
-        <!-- Grid -->
+        <!-- Sutras Grid -->
         <div class="lg:col-span-3">
-          <h2 class="text-2xl font-bold mb-6">All</h2>
+          <h2 class="text-2xl font-bold mb-6">All Sutras</h2>
 
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-8" id="item-grid">
-            {items.map((item) => (
-              <Card
-                title={item.data.title}
-                image={{
-                  src: item.data.image || "/uploads/zen-meditation-1280x765.jpg",
-                  alt: item.data.title
-                }}
-                href={`${path}/${item.slug}`}
-                className="item-card"
-                data-series={item.data.series || ""}
-                data-speaker={item.data.speaker}
-                data-date={item.data.date.toISOString().slice(0, 10)}
-              >
-                <div class="mb-3 flex items-center text-gray-600">
-                  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
-                  </svg>
-                  <span>{formatDate(item.data.date)}</span>
-                </div>
-
-                <div class="mb-3 flex items-center text-gray-600">
-                  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
-                  </svg>
-                  <span>{item.data.speaker}</span>
-                </div>
-
-                {item.data.series && (
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-8" id="sutras-grid">
+            {sutras.map((sutra) => (
+                <Card
+                    title={sutra.data.title}
+                    image={{
+                      src: sutra.data.image || backgroundImage,
+                      alt: sutra.data.title
+                    }}
+                    href={`${path}/${sutra.slug}`}
+                    className="sutra-card"
+                    data-series={sutra.data.series || ""}
+                    data-speaker={sutra.data.speaker}
+                    data-date={sutra.data.date.toISOString().slice(0, 10)}
+                >
                   <div class="mb-3 flex items-center text-gray-600">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                     </svg>
-                    <span>Series: {item.data.series}</span>
+                    <span>{formatDate(sutra.data.date)}</span>
                   </div>
-                )}
 
-                {item.data.scripture && (
                   <div class="mb-3 flex items-center text-gray-600">
                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
                     </svg>
-                    <span>{item.data.scripture}</span>
+                    <span>{sutra.data.speaker}</span>
                   </div>
-                )}
 
-                <p class="text-gray-700 mb-4">{item.data.summary}</p>
+                  {sutra.data.series && (
+                      <div class="mb-3 flex items-center text-gray-600">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+                        </svg>
+                        <span>Series: {sutra.data.series}</span>
+                      </div>
+                  )}
 
-                <a href={`${path}/${item.slug}`} class="text-primary-600 font-medium hover:text-primary-700">
-                  Listen/Watch →
-                </a>
-              </Card>
+                  {sutra.data.scripture && (
+                      <div class="mb-3 flex items-center text-gray-600">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                        </svg>
+                        <span>{sutra.data.scripture}</span>
+                      </div>
+                  )}
+
+                  <p class="text-gray-700 mb-4">{sutra.data.summary}</p>
+
+                  <a href={`${path}/${sutra.slug}`} class="text-primary-600 font-medium hover:text-primary-700">
+                    Listen/Watch →
+                  </a>
+                </Card>
             ))}
           </div>
 
           <!-- No Results Message (Hidden by default) -->
           <div id="no-results" class="hidden text-center py-12 bg-gray-50 rounded-lg mt-8">
-            <p class="text-gray-600">No items match your search criteria. Please try different filters.</p>
+            <p class="text-gray-600">No sutras match your search criteria. Please try different filters.</p>
           </div>
         </div>
       </div>
@@ -202,12 +204,12 @@ const speakers = [...new Set(items.map(item => item.data.speaker))];
       const fromDateInput = document.getElementById('from-date');
       const toDateInput = document.getElementById('to-date');
       const resetButton = document.getElementById('reset-filters');
-      const itemsGrid = document.getElementById('items-grid');
+      const sutrasGrid = document.getElementById('sutras-grid');
       const noResults = document.getElementById('no-results');
-      const itemCards = document.querySelectorAll('.item-card');
+      const sutraCards = document.querySelectorAll('.sutra-card');
 
-      // Function to filter items
-      const filterItems = () => {
+      // Function to filter sutras
+      const filterSutras = () => {
         const searchTerm = searchInput?.value.toLowerCase() || '';
         const selectedSeries = seriesSelect?.value || '';
         const selectedSpeaker = speakerSelect?.value || '';
@@ -216,21 +218,21 @@ const speakers = [...new Set(items.map(item => item.data.speaker))];
 
         let visibleCount = 0;
 
-        itemCards.forEach(card => {
+        sutraCards.forEach(card => {
           const title = card.querySelector('h3')?.textContent.toLowerCase() || '';
           const summary = card.querySelector('p')?.textContent.toLowerCase() || '';
           const series = card.getAttribute('data-series') || '';
           const speaker = card.getAttribute('data-speaker') || '';
           const date = card.getAttribute('data-date') || '';
 
-          // Check if item matches all filters
+          // Check if sutra matches all filters
           const matchesSearch = title.includes(searchTerm) || summary.includes(searchTerm);
           const matchesSeries = !selectedSeries || series === selectedSeries;
           const matchesSpeaker = !selectedSpeaker || speaker === selectedSpeaker;
           const matchesFromDate = !fromDate || date >= fromDate;
           const matchesToDate = !toDate || date <= toDate;
 
-          // Show/hide the item card
+          // Show/hide the sutra card
           if (matchesSearch && matchesSeries && matchesSpeaker && matchesFromDate && matchesToDate) {
             card.style.display = 'block';
             visibleCount++;
@@ -246,11 +248,11 @@ const speakers = [...new Set(items.map(item => item.data.speaker))];
       };
 
       // Add event listeners
-      searchInput?.addEventListener('input', filterItems);
-      seriesSelect?.addEventListener('change', filterItems);
-      speakerSelect?.addEventListener('change', filterItems);
-      fromDateInput?.addEventListener('change', filterItems);
-      toDateInput?.addEventListener('change', filterItems);
+      searchInput?.addEventListener('input', filterSutras);
+      seriesSelect?.addEventListener('change', filterSutras);
+      speakerSelect?.addEventListener('change', filterSutras);
+      fromDateInput?.addEventListener('change', filterSutras);
+      toDateInput?.addEventListener('change', filterSutras);
 
       // Reset filters
       resetButton?.addEventListener('click', () => {
@@ -260,7 +262,7 @@ const speakers = [...new Set(items.map(item => item.data.speaker))];
         if (fromDateInput) fromDateInput.value = '';
         if (toDateInput) toDateInput.value = '';
 
-        filterItems();
+        filterSutras();
       });
     });
   </script>
