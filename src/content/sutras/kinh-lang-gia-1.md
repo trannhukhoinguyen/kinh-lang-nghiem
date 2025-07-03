@@ -702,7 +702,7 @@ Từ CÚ SANH CÚ BẤT SANH cho đến CÚ TỰ CÚ PHI TỰ, chúng tôi lư�
 - Lại nữa Đại Huệ! Có 7 thứ chủng tánh của tự tánh, gọi là: **Hoà hợp** tự tánh, **tánh** tự tánh, **tướng** tự tánh, **đại chủng** tự tánh, **nhân** tự tánh, **duyên** tự tánh và **thành tựu** tự tánh.
 
 - Lại nữa Đại Huệ! Có 7 thứ Đệ Nhất Nghĩa, gọi là: Cảnh giới **Tâm**, cảnh giới **Huệ**, cảnh giới **Trí**, cảnh giới **Kiến**, cảnh giới **Siêu Nhị Kiến**, cảnh giới **Siêu Tử Địa** (siêu việt phiền não), và cảnh giới **Như Lai Tự Tại**. 
-- 
+
 - Đại Huệ! Đây là Đệ Nhất Nghĩa tâm của tự tánh, cũng là quá khứ, hiện tại, vị lai chư Phật Ứng Cúng Đẳng Chánh Giác thành tựu pháp thế gian và xuất thế gian, cho đến xuất thế gian thượng thượng pháp, do huệ nhãn của bậc Thánh soi vào tự cộng tướng mà kiến lập, kiến lập này chẳng đồng với lập luận ác kiến của ngoại đạo.
 
 - Đại Huệ! Thế nào là lập luận ác kiến của ngoại đạo? Ấy là cảnh giới vọng tưởng của tự kiến chấp, chẳng biết do chấp tự tâm sở hiện, vì chẳng thông đạt ngằn mé (tự tánh cùng khắp không gian thời gian, vốn chẳng có ngằn mé, vì khởi tâm chấp thật thành có ngằn mé). Đại Huệ! Vì tánh ngu si của phàm phu, ở nơi bất nhị của tự tánh vô tánh (Đệ Nhất Nghĩa) lập ra nhị kiến luận (pháp tương đối).
@@ -711,13 +711,11 @@ Từ CÚ SANH CÚ BẤT SANH cho đến CÚ TỰ CÚ PHI TỰ, chúng tôi lư�
 
 - Nay ta sẽ thuyết những cảnh huyễn hóa tùy theo kiến chấp của tự tâm sở hiện.
 
-- Đại Huệ! Nếu có Sa Môn, Bà La Môn muốn khiến nhân quả của sự hữu chủng, vô chủng, và sự vật thời gian có sở trụ... và những cái do chấp ấm, giới, nhập (1) nơi sanh và trụ biến hiện (hoặc nói sanh rồi thì diệt), như sự vật hoặc sanh hoặc hữu, hoặc Niết Bàn, hoặc đạo, hoặc nghiệp, hoặc quả, hoặc chân lý, hoặc thường trụ, đều là đoạn diệt luận. Tại sao? Vì những sự việc kể trên vốn là vô thỉ (chẳng có sự bắt đầu), nên hiện tiền đều bất khả đắc.
+- Đại Huệ! Nếu có Sa Môn, Bà La Môn muốn khiến nhân quả của sự hữu chủng, vô chủng, và sự vật thời gian có sở trụ... và những cái do chấp ấm, giới, nhập [^2] nơi sanh và trụ biến hiện (hoặc nói sanh rồi thì diệt), như sự vật hoặc sanh hoặc hữu, hoặc Niết Bàn, hoặc đạo, hoặc nghiệp, hoặc quả, hoặc chân lý, hoặc thường trụ, đều là đoạn diệt luận. Tại sao? Vì những sự việc kể trên vốn là vô thỉ (chẳng có sự bắt đầu), nên hiện tiền đều bất khả đắc.
 
 - Đại Huệ! Ví như cái bình bể chẳng dùng được, như hạt giống cháy chẳng thể nảy mầm. Như thế, Đại Huệ! Nếu tánh ấm, giới, nhập đã diệt, nay diệt, sẽ diệt điều do kiến chấp vọng tưởng của tự tâm vô nhân mà có, thì sự sanh khởi chẳng có thứ lớp.
 
 - Đại Huệ! Nếu lại nói cái thức Vô Chủng, Hữu chủng do ba duyên kiến, tướng, thức hòa hợp sanh khởi, thì con rùa nên mọc lông, ép cát phải ra dầu, tông họ ắt phải tự hoại, vì trái với nghĩa quyết định. Cái thuyết hữu chủng, vô chủng có lỗi như thế, nếu theo đó kiến lập sự nghiệp đều hư dối vô nghĩa.
-
-(1) ẤM, NHẬP, GIỚI : Ấm là ngũ ấm, tức sắc, thọ tưởng, hành, thức. Nhập là lục nhập, tức lục căn nhiếp thọ lục trần, có sự cảm thọ, gọi là lục nhập. Giới là thập bát giới, tức lục căn tiếp xúc lục trần sinh ra lục thức, gọi là thập bát giới.
 
 - Đại Huệ! Cái thuyết ba duyên hợp sanh của ngoại đạo, lập ra phương tiện nhân quả tự tướng nơi quá khứ, hiện tại, vị lai, tưởng hữu chủng, vô chủng từ xưa đến nay đã thành sự thật, giác tưởng xoay chuyển, thừa kế với nhau, là do lỗi tập khí tự sanh kiến chấp mà thuyết như thế.
 
@@ -1182,3 +1180,4 @@ Cũng chẳng có tâm lượng.
 ***
 
 [^1]: *Theo Thật Dụng Phật Học Tự điển giải thích thì gồm có bốn nghĩa: Sở tri, cảnh giới, trí mẫu, trí cảnh. Bốn từ ngữ này cũng có tương tự cũng có hơi khác, như nghĩa SỞ TRI và CẢNH GIỚI thì thông cả trí và ngu, còn TRÍ CẢNH và TRÍ M"U thì riêng cho bậc trí, lại gồm cả năng sở: Mẹ của trí là năng sanh, cảnh của trí là sở sanh, vì bao gồm nhiều nghĩa như thế, nên người dịch chỉ dịch nguyên âm, chúng tôi cũng chỉ dịch nguyên âm mà tùy theo trường hợp ghi chú*
+[^2]: *Ấm là ngũ ấm, tức sắc, thọ tưởng, hành, thức. Nhập là lục nhập, tức lục căn nhiếp thọ lục trần, có sự cảm thọ, gọi là lục nhập. Giới là thập bát giới, tức lục căn tiếp xúc lục trần sinh ra lục thức, gọi là thập bát giới.*
