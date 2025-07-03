@@ -48,16 +48,19 @@ Nên luân hồi tam giới.
 
 ### LƯỢC GIẢI :
 
-Tư tưởng có hai thứ : Thế lưu bố tưởng và chấp trước tưởng. Phàm phu ở nơi tướng mê hoặc của Thế lưu bốt tưởng sanh khởi chấp trước tưởng, thì thành điên đảo tưởng. Bậc Thánh ngay nơi tướng mê hoặc của Thế lưu bố tưởng mà chẳng khởi chấp trước tưởng, nên không có điên đảo tưởng. Cho nên nói tướng mê hoặc là " THƯờNG ", cũng là " NHƯ ", đều thuộc nghĩa này vậy.
+Tư tưởng có 2 thứ: 
+- Thế lưu bố tưởng 
+- và chấp trước tưởng. 
 
-**Lược giải hết**
+Phàm phu ở nơi tướng mê hoặc của Thế lưu bố tưởng sanh khởi chấp trước tưởng, thì thành điên đảo tưởng. Bậc Thánh ngay nơi tướng mê hoặc của Thế lưu bố tưởng mà chẳng khởi chấp trước tưởng, nên không có điên đảo tưởng. Cho nên nói tướng mê hoặc là " THƯờNG ", cũng là " NHƯ ", đều thuộc nghĩa này vậy.
 
+**LƯỢC GIẢI HẾT**
 
 ## CHÁNH VĂN :
 
 ### Đại Huệ Bồ Tát bạch Phật rằng :
 
-- Thế Tôn! Mê hoặc là hữu hay vô?
+> Thế Tôn! Mê hoặc là hữu hay vô?
 
 ### Phật bảo Đại Huệ :
 
@@ -149,7 +152,7 @@ Như voi mắc đầm lầy.
 
 ### Khi ấy, Thế Tôn muốn lặp lại nghĩa này mà thuyết kệ rằng :
 
-Ký luận có bốn thứ (1) :
+*Ký luận* có 4 thứ (1) :
 
 Nhất hướng, phản cật vấn.
 
@@ -157,7 +160,7 @@ Phân biệt và chỉ luận,
 
 Để đối trị ngoại đạo.
 
-Thầy Số Luận (2)
+Thầy *Số Luận* (2)
 
 Thắng Luận Hiển thị như thế này :
 
@@ -173,14 +176,14 @@ Vì lìa nơi ngôn thuyết,
 
 Nên nói lìa tự tánh.
 
-(1) KÝ LUẬN CÓ 4 THỨ: Phật Thích Ca vì phá chấp của ngoại đạo, có bốn cách đáp sự vấn nạn họ :
+(1) **KÝ LUẬN** CÓ 4 THỨ: Phật Thích Ca vì phá chấp của ngoại đạo, có bốn cách đáp sự vấn nạn họ :
 
-1.- **Nhất Hướng**: Khẳng định đáp.
-2.- **Phản Cật Vấn*: Hỏi ngược lại.
-3.- **Phân biệt**: Bất định đáp (đáp cả hai mặt).
-4.- **Chỉ Luận**: Tức là lương cửu, im lặng đáp.
+1.- *Nhất Hướng*: Khẳng định đáp.
+2.- *Phản Cật Vấn*: Hỏi ngược lại.
+3.- *Phân biệt*: Bất định đáp (đáp cả 2 mặt).
+4.- *Chỉ Luận*: Tức là lương cửu, im lặng đáp.
 
-(2) SỐ LUẬN: Do môn đồ của Ngoại Đạo Tóc Vàng kiến lập, nói SỐ là số lượng để đo lường trí huệ, từ số mà sanh khởi Luận, luận cũng hay sanh ra số, nên gọi là Số Luận. Người tạo ra Số Luận và người học Số Luận gọi là Số Luận Sư.
+(2) **SỐ LUẬN**: Do môn đồ của Ngoại Đạo Tóc Vàng kiến lập, nói SỐ là số lượng để đo lường trí huệ, từ số mà sanh khởi Luận, luận cũng hay sanh ra số, nên gọi là Số Luận. Người tạo ra Số Luận và người học Số Luận gọi là Số Luận Sư.
 
 ### Khi ấy, Đại Huệ Bồ Tát lại bạch Phật rằng :
 
@@ -264,7 +267,8 @@ Dù vọng tưởng vô lượng,
 
 Giác ngộ liền giải thoát.
 
-BỐN CÂU TRƯỚC CỦA BAÌ KỆ là chỉ các thứ thiền phàm phu, ngoại đạo và Tiểu thừa, đã được giải ở trên.
+4 CÂU TRƯỚC CỦA BÀI KỆ là chỉ các thứ thiền phàm phu, ngoại đạo và Tiểu thừa, đã được giải ở trên.
+
 - Lại nữa, Đại Huệ! Có hai thứ giác, là quán sát giác và Tướng vọng tưởng nhiếp thọ chấp trước kiến lập giác. Đại Huệ! Nói QUÁN SÁT GIÁC là tướng tự tánh của giác tánh, nếu quán sát sự phân biệt, lìa tứ cú bất khả đắc, ấy gọi là quán sát giác. Đại Huệ! Nói TỨ CÚ là lìa nhất, dị, đồng, chẳng đồng, hữu vô, phi hữu phi vô, thường, vô thường gọi là tứ cú. Đại Huệ! Lìa tứ cú này gọi là Nhất Thiết Pháp. Tứ cú quán sát Nhất Thiết Pháp này cần nên tu học.
 
 - Đại Huệ! Thế nào là TƯớNG VọNG TƯởNG NHIếP THọ CHẤP TRƯớC KIếN LậP GIÁC? Là nói tướng vọng tưởng nhiếp thọ chấp trước, tướng vọng tưởng chẳng thật, như điạ, thủy, hỏa, phong; tứ đại chủng và tướng tông, nhơn, thí dụ, giác được chỗ kiến lập chẳng thật mà chấp trước kiến lập, ấy gọi là tướng vọng tưởng nhiếp thọ chấp trước kiến lập giác.
@@ -662,11 +666,11 @@ Mỗi mỗi ý sanh thân,
 
 Hoa trang nghiêm tự tại.
 
-Lược giải :
+#### LƯỢC GIẢI
 
 Bài kệ ở cuối quyển hai nói VÔ THỪA và chẳng kiến lập THỪA, nên ta nói " NHẤT THỪA", đã chỉ rõ ba thứ ý sanh thân kia. Hai thứ ý sanh thân trước thuộc về Đại thừa, một thứ ý sanh thân sau thuộc về phi thừa, nên bài kệ này chỉ tụng về CHỦNG LOẠI VÔ HÀNH TÁC Ý SANH THÂN, duy có Nhất Thừa này, chẳng có thừa khác, nên nói NHẤT THỪA tức là PHI THỪA vậy. Phi thừa chẳng phải Đại Thừa, nhưng phải nhờ nghĩa Đại Thừa để hiển bày nghĩa Phi Thừa, cũng là nghĩa của bài kệ này vậy.
 
-**Lược giải hết**
+**LƯỢC GIẢI HẾT**
 
 ## CHÁNH VĂN :
 
@@ -700,7 +704,7 @@ Bài kệ ở cuối quyển hai nói VÔ THỪA và chẳng kiến lập THỪA
 
 - Ngoại trừ pháp này ra, còn có các pháp, nhờ thần lực biến hóa mà hiện Vô Gián. Như thần lực biến hóa của Thanh Văn, thần lực biến hóa của Bồ Tát, thần lực biến hóa của Như Lai v.v...Đối với những kẻ tạo tội Vô Gián, vì sự sám hối tội lỗi và trừ nghi cho họ, cũng vì khuyến phát nhân lành cho họ, nên nhờ thần lực biến hóa mà hiện Vô Gián. Trừ khi người giác được tự tâm hiện lượng, lìa được vọng tưởng thân tài, lìa sự nhiếp thọ ngã và ngã sở, hoặc lúc gặp thiện tri thức khiến khai ngộ bản tâm thì mới được giải thoát sự sanh tử tương tục nơi các cõi, chứ chẳng phải trước kia đã tạo tội Vô gián mà chẳng bị đọa địa ngục Vô Gián vậy.
 
-Lược giải :
+#### LƯỢC GIẢI
 
 "Ba cửa Giải Thoát" tại sao chẳng thể chứng đắc pháp Ngũ Vô Gián? Vì pháp đã Không, Vô tướng, Vô nguyện thì năng sở đều bặt, dĩ nhiên không có kẻ năng chứng để chứng cái pháp sở chứng, thì làm sao có sự chứng đắc ư?
 
@@ -716,7 +720,7 @@ Nói về THẦN LỰC BIẾN HÓA, cũng như năm trăm vị Tỳ Kheo trong h
 
 Nay nói thần lực biến hóa của Như Lai, là dùng phương tiện khiến những kẻ tạo tội Vô Gián đều được giải thoát, cũng chứng tỏ "Nhất thiết duy tâm tạo" vậy.
 
-Lược giải hết
+**LƯỢC GIẢI HẾT**
 
 ## CHÁNH VĂN
 

@@ -16,7 +16,7 @@ draft: false
 
 Bốn câu trước là tứ quả của Thanh Văn, PHI THỪA tức là Tối Thượng Thừa, chẳng thuộc tam thừa và Nhất thừa, nên nói Phi Thừa. TịCH đối với động, còn nằm trong tương đói, chư Thánh chẳng trụ nơi tịch, nên nói XA LÌA TịCH. Trụ Nơi Vô Sở Hữu là trụ nơi vô sở trụ, chứ chẳng phải chấp không. LẬP TAM THỪA là tạm thiết lập phương tiện để độ chúng sanh. Pháp Thiền Vô Lượng, chẳng thể kể xiết, như phàm phu thiền, ngoại đạo thiền, Tiểu thừa thiền, Đại thừa thiền, mỗi mỗi đều có nhiều thứ. Nay nói VÔ SẮC, là gồm có bốn thứ thiền quán của Vô Sắc Giới. TAM MA ĐỀ là thay cho ba thứ thiền quán của giáo môn. Nói chung tất cả thiền đều muốn đối trị các bệnh chấp ngũ uẩn. Hai thứ Thọ Tưởng là thay cho ngũ uẩn ( Sắc, thọ, tưởng, hành, thức), nên nói Thọ Tưởng Thảy Đều Diệt. Tâm Lượng là chỉ số lượng của tâm, vì bản thể của tâm cùng khắp không gian và thời gian, chẳng có số lượng, nên nói Chẳng Có Tâm Lượng.
 
-**Lược Giải hết**
+**LƯỢC GIẢI HẾT**
 
 ## CHÁNH VĂN
 
@@ -601,11 +601,11 @@ Nhất thời xoa đầu họ,
 
 Thuận nhập tướng Chơn Như.
 
-Lược GIẢI :
+#### LƯỢC GIẢI
 
 Phàm phu thiền chỉ dứt trừ vọng tưởng, Bồ Tát thì xu hướng Chơn Như, đều chẳng phải thật trong sạch. Nếu là Như Lai Thanh Tịnh Thiền thì Thánh phàm bình đẳng, thể tự như như, dùng cái tâm chẳng sanh diệt làm nhân địa, để tu chứng thành tựu quả địa Phật. Ngoại đạo thì chấp tướng mà cầu nhập định, lúc thấy hình nhựt nguyệt sáng tỏ, hoặc thấy hoa sen mọc nơi đất bùn mà chẳng nhiễm, cho là sự chứng đắc. Thanh Văn, Duyên Giác thì chán sanh tử nên xả thân diệt trí, lần lượt diệt sạch thì đọa nơi chấp không. Đạo của ngoại đạo vì không phá ngã chấp, dù tu thiền đắc được thần thông, cũng chẳng thể ra khỏi luân hồi. Như Lai Thiền thì xa lìa tất cả. Nói VÔ SỞ HữU có nghĩ là vô sở trụ, chẳng phải chấp thật không, nên được vào tướng Chơn Như, chứng quả bất tư nghì, khởi dụng bất tư nghì. Ấy là Như Lai Thanh Tịnh Thiền vậy.
 
-Lược giải hết
+**LƯỢC GIẢI HẾT**
 
 ## CHÁNH VĂN :
 

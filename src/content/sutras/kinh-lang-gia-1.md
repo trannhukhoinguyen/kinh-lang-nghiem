@@ -56,13 +56,11 @@ Mà khởi tâm đại bi.
 
 Biết nhơn pháp Vô ngã
 
-Phiền não và nhĩ diệm (1)
+Phiền não và **nhĩ diệm** (*Theo Thật Dụng Phật Học Tự điển giải thích thì gồm có bốn nghĩa: Sở tri, cảnh giới, trí mẫu, trí cảnh. Bốn từ ngữ này cũng có tương tự cũng có hơi khác, như nghĩa SỞ TRI và CẢNH GIỚI thì thông cả trí và ngu, còn TRÍ CẢNH và TRÍ M"U thì riêng cho bậc trí, lại gồm cả năng sở: Mẹ của trí là năng sanh, cảnh của trí là sở sanh, vì bao gồm nhiều nghĩa như thế, nên người dịch chỉ dịch nguyên âm, chúng tôi cũng chỉ dịch nguyên âm mà tùy theo trường hợp ghi chú*)
 
 Thường trong sạch vô tướng,
 
 Mà khởi tâm đại bi.
-
-(1) NHĨ DIỆM : Theo Thật Dụng Phật Học Tự điển giải thích thì gồm có bốn nghĩa: Sở tri, cảnh giới, trí mẫu, trí cảnh. Bốn từ ngữ này cũng có tương tự cũng có hơi khác, như nghĩa SỞ TRI và CẢNH GIỚI thì thông cả trí và ngu, còn TRÍ CẢNH và TRÍ M"U thì riêng cho bậc trí, lại gồm cả năng sở: Mẹ của trí là năng sanh, cảnh của trí là sở sanh, vì bao gồm nhiều nghĩa như thế, nên người dịch chỉ dịch nguyên âm, chúng tôi cũng chỉ dịch nguyên âm mà tùy theo trường hợp ghi chú.
 
 Niết bàn chẳng thể lập,
 
@@ -368,7 +366,8 @@ Thế nào là Thích Chủng?
 
 Nhân gì được Thích Chủng?
 
-Thế nào dòng Cam Giá (1)?
+Thế nào dòng *Cam Giá* (*Dòng họ Thích Ca, là con của vua Cam Giá*)?
+
 Xin Thế Tôn giải thuyết.
 
 Những Tiên nhơn khổ hạnh,
@@ -400,8 +399,6 @@ Cõi nước rất thù thắng,
 Trùm khắp cả thế giới?
 
 Như lưới báu Đế Thích,
-
-(1) DÒNG CAM GIÁ : Dòng họ Thích Ca, là con của vua Cam Giá, nên gọi là dòng Cam Giá.
 
 Tất cả những trân bửu.
 
@@ -553,7 +550,7 @@ Phật từ Tam muội khởi,
 
 Thuyết pháp độ chúng sanh.
 
-Tâm (thức thứ tám), Ý (thức thứ bảy), và Ý thức (thức thứ sáu),
+Tâm (thức thứ 8), Ý (thức thứ 7), và Ý thức (thức thứ 6),
 
 Năm pháp và Vô ngã,
 
@@ -659,9 +656,9 @@ Trăm lẻ tám câu này,
 
 Như chư Phật sở thuyết.
 
-Cú sanh cú bất sanh, cú thường cú vô thường, cú trụ dị phi trụ dị, cú sát na cú phi sát na, cú tự tánh cú phi tự tánh, cú không cú bất không, cú đoạn cú bất đoạn, cú biên cú phi biên, cú trung cú phi trung, cú duyên cú phi duyên, cú nhân cú phi nhân, cú phiền não cú phi phiền não, cú ái cú phi ái, cú phương tiện cú phi phương tiện, cú xảo cú phi xảo, cú tịnh cú phi tịnh, cú thành cú phi thành, cú ví dụ cú phi ví dụ, cú đệ tử cú phi đệ tử, cú sư cú phi sư, cú chủng tánh cú phi chủng tánh, cú tam thừa, cú phi tam thừa, cú sở hữu cú phi sở hữu, cú nguyện cú phi nguyện, cú tam luân cú phi tam luân, cú hữu phẩm cú phi hữu phẩm, cú câu cú phi câu, cú duyên tự Thánh trí hiện pháp lạc cú phi hiện pháp lạc, cú sát độ cú phi sát độ, cú thủy cú phi thủy, cú cung cú phi cung, cú thật cú phi thật, cú số cú phi số, cú minh cú phi minh, cú hư không cú phi hư không, cú vân cú phi vân, cú công xảo kỹ thuật minh xứ, cú phi công xảo kỹ thuật minh xứ, cú phong cú phi phong, cú địa cú phi địa, cú tâm cú phi tâm, cú thi thiết cú phi thi thiết, cú ấm cú phi ấm, cú chúng sanh cú phi chúng sanh, cú huệ cú phi huệ, cú Niết Bàn cú phi Niết Bàn, cú nhĩ diệm cú phi nhĩ diệm, cú ngoại đạo cú phi ngoại đạo, cú hoang loạn cú phi hoang loạn, cú huyễn cú phi huyễn, cú mộng cú phi mộng, cú diệm cú phi diệm, cú tượng cú phi tượng, cú luân cú phi luân, cú Càn Thát Bà cú phi Càn Thát Bà, cú thiên cú phi thiên, cú ẩm thực cú phi ẩm thực, cú dâm dục cú phi dâm dục, cú kiến cú phi kiến, cú Ba La Mật cú phi Ba La Mật, cú giới cú phi giới, cú nhựt nguyệt tinh tú cú phi nhựt nguyệt tinh tú, cú đế cú phi đế, cú quả cú phi quả, cú khởi diệt cú phi khởi diệt, cú trị cú phi trị, cú chi cú phi chi, cú thiền cú phi thiền, cú mê cú phi mê, cú hiện cú phi hiện, cú hộ cú phi hộ, cú tục cú phi tục, cú tiên cú phi tiên, cú vương cú phi vương, cú nhiếp thọ cú phi nhiếp thọ, cú bảo cú phi bảo, cú ký cú phi ký, cú Nhất Xiển Đề cú phi Nhất Xiển Đề, cú nữ nam bất nam cú phi nữ nam bất nam, cú vị cú phi vị, cú sự cú phi sự, cú thân cú phi thân, cú giác cú phi giác, cú động cú phi động, cú căn cú phi căn, cú hữu vi cú phi hữu vi, cú vô vi cú phi vô vi, cú nhân quả cú phi nhân quả, cú sắc cứu cánh cú phi sắc cứu cánh, cú thiết cú phi thiết, cú tòng thọ cát đằng cú phi tòng thọ cát đằng, cú tạp cú phi tạp, cú thuyết cú phi thuyết, cú Tỳ Ni cú phi Tỳ Ni, cú Tỳ Kheo cú phi Tỳ Kheo, cú xứ cú phi xứ, cú tự cú phi tự.
+Cú sanh cú bất sanh, cú thường cú vô thường, cú trụ dị phi trụ dị, cú sát na cú phi sát na, cú tự tánh cú phi tự tánh, cú không cú bất không, cú đoạn cú bất đoạn, cú biên cú phi biên, cú trung cú phi trung, cú duyên cú phi duyên, cú nhân cú phi nhân, cú phiền não cú phi phiền não, cú ái cú phi ái, cú phương tiện cú phi phương tiện, cú xảo cú phi xảo, cú tịnh cú phi tịnh, cú thành cú phi thành, cú ví dụ cú phi ví dụ, cú đệ tử cú phi đệ tử, cú sư cú phi sư, cú chủng tánh cú phi chủng tánh, cú tam thừa, cú phi tam thừa, cú sở hữu cú phi sở hữu, cú nguyện cú phi nguyện, cú tam luân cú phi tam luân, cú hữu phẩm cú phi hữu phẩm, cú câu cú phi câu, cú duyên tự Thánh trí hiện pháp lạc cú phi hiện pháp lạc, cú sát độ cú phi sát độ, cú thủy cú phi thủy, cú cung cú phi cung, cú thật cú phi thật, cú số cú phi số, cú minh cú phi minh, cú hư không cú phi hư không, cú vân cú phi vân, cú công xảo kỹ thuật minh xứ, cú phi công xảo kỹ thuật minh xứ, cú phong cú phi phong, cú địa cú phi địa, cú tâm cú phi tâm, cú thi thiết cú phi thi thiết, cú ấm cú phi ấm, cú chúng sanh cú phi chúng sanh, cú huệ cú phi huệ, cú Niết Bàn cú phi Niết Bàn, cú *nhĩ diệm* cú *phi nhĩ diệm*, cú ngoại đạo cú phi ngoại đạo, cú hoang loạn cú phi hoang loạn, cú huyễn cú phi huyễn, cú mộng cú phi mộng, cú diệm cú phi diệm, cú tượng cú phi tượng, cú luân cú phi luân, cú Càn Thát Bà cú phi Càn Thát Bà, cú thiên cú phi thiên, cú ẩm thực cú phi ẩm thực, cú dâm dục cú phi dâm dục, cú kiến cú phi kiến, cú Ba La Mật cú phi Ba La Mật, cú giới cú phi giới, cú nhựt nguyệt tinh tú cú phi nhựt nguyệt tinh tú, cú đế cú phi đế, cú quả cú phi quả, cú khởi diệt cú phi khởi diệt, cú trị cú phi trị, cú chi cú phi chi, cú thiền cú phi thiền, cú mê cú phi mê, cú hiện cú phi hiện, cú hộ cú phi hộ, cú tục cú phi tục, cú tiên cú phi tiên, cú vương cú phi vương, cú nhiếp thọ cú phi nhiếp thọ, cú bảo cú phi bảo, cú ký cú phi ký, cú Nhất Xiển Đề cú phi Nhất Xiển Đề, cú nữ nam bất nam cú phi nữ nam bất nam, cú vị cú phi vị, cú sự cú phi sự, cú thân cú phi thân, cú giác cú phi giác, cú động cú phi động, cú căn cú phi căn, cú hữu vi cú phi hữu vi, cú vô vi cú phi vô vi, cú nhân quả cú phi nhân quả, cú sắc cứu cánh cú phi sắc cứu cánh, cú thiết cú phi thiết, cú tòng thọ cát đằng cú phi tòng thọ cát đằng, cú tạp cú phi tạp, cú thuyết cú phi thuyết, cú Tỳ Ni cú phi Tỳ Ni, cú Tỳ Kheo cú phi Tỳ Kheo, cú xứ cú phi xứ, cú tự cú phi tự.
 
-Lược giải :
+#### LƯỢC GIẢI
 
 Từ CÚ SANH CÚ BẤT SANH cho đến CÚ TỰ CÚ PHI TỰ, chúng tôi lược giải chung như sau : Tất cả pháp thế gian, cho đến xuất thế gian, lời nói diễn tả được đều nằm trong tương đối; như sanh, trụ, dị, diệt, sáng, tối và sắc, không v.v... mỗi mỗi gồm có tứ cú, thật ra chẳng thể kể xiết. Như tứ cú của chữ SANH : Cú thứ nhất là SANH, cú thứ nhì BẤT SANH, cú thứ ba CHẲNG SANH, CHẲNG BẤT SANH, cú thứ tư CŨNG SANH, CŨNG BẤT SANH. Chữ THỪƠNG cũng vậy : Cú thứ nhất THỪƠNG, cú thứ nhì VÔ THỪƠNG, cú thứ ba CHẲNG THỪƠNG, CHẲNG VÔ THỪƠNG, cú thứ tư CŨNG THỪƠNG, CŨNG VÔ THỪƠNG... Những chữ khác cũng đều như thế cả.
 
