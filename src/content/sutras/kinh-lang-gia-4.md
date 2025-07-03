@@ -500,15 +500,15 @@ Thật thì có nhĩ diệm,
 
 - Lại nữa, Đại Huệ! Phàm phu ngu si chẳng khéo liễu tri, chấp tướng ngoài tánh tự tâm hiện, bị vọng tưởng tà ác hư ngụy từ vô thỉ xoay chuyển. Lúc xoay chuyển thì chẳng thể đạt đến Tự Tông Thông và Thuyết Thông, nên chấp cái thuyết phương tiện, mà chẳng khéo phân biệt tứ cú của Tự Tông và Tướng Thông trong sạch.
 
-Đại Huệ Bồ Tát bạch Phật rằng :
+### Đại Huệ Bồ Tát bạch Phật rằng :
 
-- Đúng như Phật dạy, cúi xin Thế Tôn vì chúng con phân biệt Thuyết Thông và Tông Thông, khiến con và các Đại Bồ Tát thấu rõ hai thứ thông, cũng khiến phàm phu, Thanh Văn và Duyên Giác đời vị lai chẳng mắc lỗi lầm.
+> Đúng như Phật dạy, cúi xin Thế Tôn vì chúng con phân biệt Thuyết Thông và Tông Thông, khiến con và các Đại Bồ Tát thấu rõ hai thứ thông, cũng khiến phàm phu, Thanh Văn và Duyên Giác đời vị lai chẳng mắc lỗi lầm.
 
 ### Phật bảo Đại Huệ :
 
 - Lành thay, lành thay! Hãy chú ý nghe và khéo ghi nhớ, Ta sẽ vì ngươi mà thuyết.
 
-Đại Huệ Bồ Tát bạch Phật rằng :
+### Đại Huệ Bồ Tát bạch Phật rằng :
 
 - Cúi xin thọ giáo.
 
@@ -538,9 +538,9 @@ Tông thông là giải thoát.
 
 - Đại Huệ! Bọn Thế Luận chỉ nói cảnh giới thân giác mà thôi. Đại Huệ! Có trăm ngàn Thế Luận kia, sau khi Phật diệt độ năm trăm năm, sẽ phá hoại sự kết tập kinh điển, do ác giác họ thịnh hành nơi thế gian, có nhiều ác đệ tử ham thọ pháp họ. Đại Huệ! Họ dùng đủ thứ nghĩa cú nhân duyên thí dụ trang nghiệm để thuyết việc ngoại đạo dùng Thế Luận để phá hoại sự kết tập kinh điển, vì tự chấp nhân duyên, chẳng có tự thông. Đại Huệ! Bọn ngoại đạo kia chẳng có Tự Thông Luận, lập ra Thế Luận, rộng thuyết vô lượng trăm ngàn sự môn, chẳng thể tự thông, cũng chẳng tự biết ngu si, chấp Thế Luận là chơn lý.
 
-Khi ấy Đại Huệ Bồ Tát bạch Phật rằng :
+### Khi ấy Đại Huệ Bồ Tát bạch Phật rằng :
 
-- Thế Tôn! Nếu ngoại đạo sở thuyết mỗi mỗi nghĩa cú nhân duyên thí dụ trang nghiêm của Thế Luận, do tự chấp trước, chẳng có tự thông. Thì Thế Tôn cũng thuyết thế luận vì mỗi mỗi Trời, Người, và A Tu La từ các phương đến tụ hội, Phật cũng rộng thuyết vô lượng nghĩa cú, há cũng chẳng phải không có tự thông ư! Há cũng lọt vào số ngôn thuyết trí huệ của tất cả ngoại đạo ư?
+> Thế Tôn! Nếu ngoại đạo sở thuyết mỗi mỗi nghĩa cú nhân duyên thí dụ trang nghiêm của Thế Luận, do tự chấp trước, chẳng có tự thông. Thì Thế Tôn cũng thuyết thế luận vì mỗi mỗi Trời, Người, và A Tu La từ các phương đến tụ hội, Phật cũng rộng thuyết vô lượng nghĩa cú, há cũng chẳng phải không có tự thông ư! Há cũng lọt vào số ngôn thuyết trí huệ của tất cả ngoại đạo ư?
 
 ### Phật bảo Đại Huệ :
 
@@ -558,15 +558,15 @@ Khi ấy Đại Huệ Bồ Tát bạch Phật rằng :
 
 ### Khi ấy, Bà La Môn lại lược thuyết sự nhận thức của họ, hoặc khứ hoặc lai, hoặc sanh hoặc tử, hoặc vui hoặc khổ, hoặc chìm hoặc nổi, hoặc ẩn hoặc hiện, hoặc hòa hợp hoặc tương tục, hoặc ái hoặc nhân ái, chấp trước đủ thứ tướng. Ta nói : " Bà La Môn! So Đo như thế đều là Thế Luận của bọn ngươi chẳng phải ta có ". Đại Huệ! Thế Luận Bà La Môn hỏi như thế, ta đáp như thế, họ liền im lặng chẳng từ giả mà lui ra, lại còn suy tư chỗ Tự Thông mà nghĩ rằng : "Sa Môn Thích thử vượt ra ngoài tướng thông, nói Vô Sanh, Vô Tướng, Vô Nhân, giác được tướng hiện của tự vọng tưởng thì vọng tưởng chẳng sanh." Đại Huệ! Đây tức là chỗ ngươi hỏi Ta "Tại sao nói gần gũi Thế Luận đủ thứ biện luận, là nhiếp thọ tham dục, chẳng nhiếp thọ pháp?"
 
-Đại Huệ Bồ Tát bạch Phật rằng :
+### Đại Huệ Bồ Tát bạch Phật rằng :
 
-- Thế Tôn! Nhiếp thọ tham dục và pháp có nghĩa cú gì?
+> Thế Tôn! Nhiếp thọ Tham dục và Pháp có Nghĩa cú gì?
 
 ### Phật bảo Đại Huệ :
 
 - Lành thay, lành thay! Ngươi khéo vì chúng sanh đời vị lai tư duy xin hỏi nghĩa cú như thế. Ta sẽ vì người mà thuyết, hãy chú ý nghe và khéo ghi nhớ.
 
-Đại Huệ Bồ Tát bach Phật rằng :
+### Đại Huệ Bồ Tát bach Phật rằng :
 
 - Cúi xin thọ giáo.
 

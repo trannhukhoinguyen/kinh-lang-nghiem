@@ -493,7 +493,7 @@ Vọng tưởng là khán giả.
 
 - Nay ta thuyết năm pháp tự tánh thức, hai thứ Vô Ngã và phân biệt Trí tướng. NĂM PHÁP TỰ TÁNH là : Danh, Tướng, Vọng tưởng, Chánh trí, Như như. Nếu người tu hành tu theo pháp này thì vào Tự Giác Thánh Trí của Như Lai, lìa những kiến chấp đoạn thường hữu vô v.v..., hiện tiền trụ nơi chánh định, hiện thọ pháp lạc. Đại Huệ! Nếu chẳng biết năm thứ tự tánh thức, hai thứ Vô Ngã và ngoài tánh tự tâm hiện, là phàm phu vọng tưởng, chẳng phải Thánh Hiền.
 
-Đại Huệ Bồ Tát bạch Phật rằng :
+### Đại Huệ Bồ Tát bạch Phật rằng :
 
 > Thế Tôn! Thế nào là sanh khởi vọng tưởng phàm phu, chẳng phải Thánh Hiền?
 
@@ -556,7 +556,7 @@ Nên gọi THÀNH TỰ TÁNH.
 
 - Đại Huệ! Ví như cát sông Hằng trôi theo dòng nước, cát chẳng thể không có nước mà tự trôi được. Các pháp của Như Lai thuyết trôi theo dòng nước Niết Bàn cũng như thế, pháp chẳng thể lìa Niết Bàn mà tự ra, cũng như cát chẳng thể lìa nước mà tự trôi. Niết Bàn là bản tế của sanh tử, là tướng tịch diệt nên chẳng thể biết. Biết còn chẳng được, làm sao nói nghĩa đoạn dứt ư?
 
-Đại Huệ Bồ Tát bạch Phật rằng :
+### Đại Huệ Bồ Tát bạch Phật rằng :
 
 > Thế Tôn! Nếu bản tế của sanh tử chẳng thể biết thì tại sao giải thoát của chúng sanh có thể biết?
 

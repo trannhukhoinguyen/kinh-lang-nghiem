@@ -679,11 +679,16 @@ Lược giải hết
 
 ### Phật bảo Đại Huệ :
 
-- Các thức có hai thứ sanh, trụ, diệt, chẳng phải suy nghĩ biết được. Hai thứ sanh gọi là lưu chú sanh và tướng sanh; hai thứ trụ gọi là lưu chú trụ và tướng trụ; hai thứ diệt gọi là lưu chú diệt và tướng diệt.
+- Các thức có hai thứ **Sanh, Trụ, Diệt**, chẳng phải suy nghĩ biết được. 
+  + 2 thứ sanh gọi là **lưu chú sanh** và **tướng sanh**; 
+  + 2 thứ trụ gọi là **lưu chú trụ** và **tướng trụ**; 
+  + 2 thứ diệt gọi là **lưu chú diệt** và **tướng diệt**.
 
-- Đại Huệ! Các thức có ba thứ tướng, gọi là chuyển tướng, nghiệp tướng và chơn tướng. Nói tóm tắt có ba thứ thức, nói rộng có tám thứ tướng. Ba thứ thức ấy là : Chơn thức, hiện thức và phân biệt sự thức. Đại Huệ! Ví như gương sáng hiện những sắc tướng, chỗ hiện của hiện thức cũng như thế.
+- Đại Huệ! Các thức có 3 thứ tướng, gọi là **Chuyển tướng**, **Nghiệp tướng** và **Chơn tướng**. Nói tóm tắt có 3 thứ thức, nói rộng có 8 thứ tướng. 
 
-- Đại Huệ! Hiện thức và phân biệt sự thức, hai thức này tướng hoại và chẳng hoại làm nhân với nhau. Đại Huệ! Sự huân tập bất tư nghì và sự chuyển biến bất tư nghì là cái nhân của hiện thức. Nhận lấy các cảnh trần và huân tập vọng tưởng từ vô thỉ là cái nhân của phân biệt sự thức.
+- 3 thứ thức ấy là: **Chơn thức**, **Hiện thức** và **Phân biệt sự thức**. Đại Huệ! Ví như gương sáng hiện những sắc tướng, chỗ hiện của hiện thức cũng như thế.
+
+- Đại Huệ! Hiện thức và Phân biệt sự thức, hai thức này tướng hoại và chẳng hoại làm nhân với nhau. Đại Huệ! Sự huân tập bất tư nghì và sự chuyển biến bất tư nghì là cái nhân của hiện thức. Nhận lấy các cảnh trần và huân tập vọng tưởng từ vô thỉ là cái nhân của phân biệt sự thức.
 
 - Đại Huệ! Nếu mỗi mỗi sự hư vọng chẳng thật che khuất chơn thức đều tiêu diệt thì tất cả căn thức đều diệt, ấy gọi là tướng diệt.
 
@@ -691,15 +696,15 @@ Lược giải hết
 
 - Đại Huệ! Ví như cục đất với vi trần có khác, cũng không có khác, dùng vàng ròng làm ra những đồ trang sức cũng vậy. Đaị Huệ! Nếu cục đất với vi trần có khác thì cục đất chẳng do vi trần họp thành, mà thật thì do vi trần họp thành, nên nói chẳng khác. Nếu chấp thật chẳng khác thì cục đất với vi trần chẳng có phân biệt.
 
-- Như thế, Đại Huệ! Chơn tướng của chuyển thức với Tạng thức nếu là khác thì Tạng thức chẳng phải cái nhân của chuyển thức; nếu là chẳng khác thì chuyển thức diệt, Tạng thức cũng phải diệt, mà chơn tướng của nó thật chẳng diệt. Cho nên Đại Huệ! Chẳng phải tự thức của chơn tướng diệt, chỉ là nghiệp tướng diệt. Nếu tự thức của chơn tướng diệt thì tạng thức cũng phải diệt. Đại Huệ! Nếu Tạng thức diệt thì chẳng khác gì đoạn kiến của ngoại đạo.
+- Như thế, Đại Huệ! Chơn tướng của **Chuyển thức** với **Tạng thức** nếu là khác thì **Tạng thức** chẳng phải cái nhân của **Chuyển thức**; nếu là chẳng khác thì **Chuyển thức** diệt, Tạng thức cũng phải diệt, mà chơn tướng của nó thật chẳng diệt. Cho nên Đại Huệ! Chẳng phải tự thức của chơn tướng diệt, chỉ là nghiệp tướng diệt. Nếu tự thức của chơn tướng diệt thì tạng thức cũng phải diệt. Đại Huệ! Nếu Tạng thức diệt thì chẳng khác gì đoạn kiến của ngoại đạo.
 
-- Đại Huệ! Các phái ngoại đạo lập luận như thế này : "Cảnh giới nhiếp thọ diệt thì sự lưu chú của thức cũng diệt". Nếu sự lưu chú của thức diệt thì sự lưu chú từ vô thỉ phải đoạn dứt. Đại Huệ! Ngoại đạo nói cái nhân sanh khởi của lưu chú, chẳng do nhãn thức, sắc không và sáng tối hoà hợp mà sanh, ngoài ra còn có các nhân khác. Đại Huệ! Cái nhân của họ nói như thắng diệu, như sĩ phu (1), như tự tại, như thời gian, như vi trần v.v...
+- Đại Huệ! Các phái ngoại đạo lập luận như thế này: "*Cảnh giới nhiếp thọ diệt thì sự lưu chú của thức cũng diệt*". Nếu sự lưu chú của thức diệt thì sự lưu chú từ vô thỉ phải đoạn dứt. Đại Huệ! Ngoại đạo nói cái nhân sanh khởi của lưu chú, chẳng do nhãn thức, sắc không và sáng tối hoà hợp mà sanh, ngoài ra còn có các nhân khác. Đại Huệ! Cái nhân của họ nói như thắng diệu, như **Sĩ Phu** (*nghĩa Hán là bậc trí thức, ở đây ám chỉ Năng tác hoặc Sở tác*), như tự tại, như thời gian, như vi trần v.v...
 
-(1) SĨ PHU : nghĩa Hán là bậc trí thức, ở đây ám chỉ Năng tác hoặc Sở tác.
+- Lại nữa Đại Huệ! Có 7 thứ chủng tánh của tự tánh, gọi là: **Hoà hợp** tự tánh, **tánh** tự tánh, **tướng** tự tánh, **đại chủng** tự tánh, **nhân** tự tánh, **duyên** tự tánh và **thành tựu** tự tánh.
 
-- Lại nữa Đại Huệ! Có bảy thứ chủng tánh của tự tánh, gọi là : Hoà hợp tự tánh, tánh tự tánh, tướng tự tánh, đại chủng tự tánh, nhân tự tánh, duyên tự tánh và thành tựu tự tánh.
-
-- Lại nữa Đại Huệ! Có bảy thứ Đệ Nhất Nghĩa, gọi là : Cảnh giới Tâm, cảnh giới Huệ, cảnh giới Trí, cảnh giới Kiến, cảnh giới Siêu nhị kiến, cảnh giới Siêu tử địa (siêu việt phiền não), và cảnh giới Như Lai tự tại. Đại Huệ! Đây là Đệ Nhất Nghĩa tâm của tự tánh, cũng là quá khứ, hiện tại, vị lai chư Phật Ứng Cúng Đẳng Chánh Giác thành tựu pháp thế gian và xuất thế gian, cho đến xuất thế gian thượng thượng pháp, do huệ nhãn của bậc Thánh soi vào tự cộng tướng mà kiến lập, kiến lập này chẳng đồng với lập luận ác kiến của ngoại đạo.
+- Lại nữa Đại Huệ! Có 7 thứ Đệ Nhất Nghĩa, gọi là: Cảnh giới **Tâm**, cảnh giới **Huệ**, cảnh giới **Trí**, cảnh giới **Kiến**, cảnh giới **Siêu Nhị Kiến**, cảnh giới **Siêu Tử Địa** (siêu việt phiền não), và cảnh giới **Như Lai Tự Tại**. 
+- 
+- Đại Huệ! Đây là Đệ Nhất Nghĩa tâm của tự tánh, cũng là quá khứ, hiện tại, vị lai chư Phật Ứng Cúng Đẳng Chánh Giác thành tựu pháp thế gian và xuất thế gian, cho đến xuất thế gian thượng thượng pháp, do huệ nhãn của bậc Thánh soi vào tự cộng tướng mà kiến lập, kiến lập này chẳng đồng với lập luận ác kiến của ngoại đạo.
 
 - Đại Huệ! Thế nào là lập luận ác kiến của ngoại đạo? Ấy là cảnh giới vọng tưởng của tự kiến chấp, chẳng biết do chấp tự tâm sở hiện, vì chẳng thông đạt ngằn mé (tự tánh cùng khắp không gian thời gian, vốn chẳng có ngằn mé, vì khởi tâm chấp thật thành có ngằn mé). Đại Huệ! Vì tánh ngu si của phàm phu, ở nơi bất nhị của tự tánh vô tánh (Đệ Nhất Nghĩa) lập ra nhị kiến luận (pháp tương đối).
 
@@ -709,9 +714,7 @@ Lược giải hết
 
 - Đại Huệ! Ví như cái bình bể chẳng dùng được, như hạt giống cháy chẳng thể nảy mầm. Như thế, Đại Huệ! Nếu tánh ấm, giới, nhập đã diệt, nay diệt, sẽ diệt điều do kiến chấp vọng tưởng của tự tâm vô nhân mà có, thì sự sanh khởi chẳng có thứ lớp.
 
-- Đại Huệ! Nếu lại nói cái thức Vô Chủng, Hữu chủng do ba duyên kiến, tướng, thức hòa hợp sanh khởi, thì con rùa nên mọc lông, ép cát phải ra dầu, tông họ ắt phải tự hoại, vì trái với nghĩa quyết định. Cái thuyết hữu chủng, vô chủng có lỗi như thế, nếu theo đó
-
-kiến lập sự nghiệp đều hư dối vô nghĩa.
+- Đại Huệ! Nếu lại nói cái thức Vô Chủng, Hữu chủng do ba duyên kiến, tướng, thức hòa hợp sanh khởi, thì con rùa nên mọc lông, ép cát phải ra dầu, tông họ ắt phải tự hoại, vì trái với nghĩa quyết định. Cái thuyết hữu chủng, vô chủng có lỗi như thế, nếu theo đó kiến lập sự nghiệp đều hư dối vô nghĩa.
 
 (1) ẤM, NHẬP, GIỚI : Ấm là ngũ ấm, tức sắc, thọ tưởng, hành, thức. Nhập là lục nhập, tức lục căn nhiếp thọ lục trần, có sự cảm thọ, gọi là lục nhập. Giới là thập bát giới, tức lục căn tiếp xúc lục trần sinh ra lục thức, gọi là thập bát giới.
 
@@ -727,15 +730,21 @@ kiến lập sự nghiệp đều hư dối vô nghĩa.
 
 ### Khi ấy Đại Huệ Bồ Tát lại bạch Phật rằng :
 
-- Thế Tôn nói tâm, ý, ý thức, tướng năm pháp tự tánh là tất cả chư Phật, Bồ Tát sở hành, cảnh giới sở duyên chẳng phải hòa hợp, hiển bày tất cả pháp do tự tâm hiện, thành tướng chơn thật. NHẤT THIẾT PHẬT NGỮ TÂM là Phật thuyết cảnh giới Tạng thức của pháp thân, ở nơi trụ xứ của chư Đại Bồ Tát tại núi Ma La Da trong biển thuộc nước Lăng Già.
+- Thế Tôn nói Tâm, ý, ý thức, tướng năm pháp tự tánh là tất cả chư Phật, Bồ Tát sở hành, cảnh giới sở duyên chẳng phải hòa hợp, hiển bày tất cả pháp do tự tâm hiện, thành tướng chơn thật. NHẤT THIẾT PHẬT NGỮ TÂM là Phật thuyết cảnh giới Tạng thức của pháp thân, ở nơi trụ xứ của chư Đại Bồ Tát tại núi Ma La Da trong biển thuộc nước Lăng Già.
 
 ### Khi ấy, Thế Tôn bảo Đại Huệ Bồ Tát rằng :
 
-- Do bốn nhân duyên mà nhãn thức chuyển. Thế nào là bốn? 1.- Tự tâm bất giác hiện ra nhiếp thọ. 2.- Lỗi tập khí hư ngụy từ vô thỉ. 3.- Chấp trước tự tánh của tánh thức. 4.- Muốn thấy đủ thứ sắc tướng. Ấy gọi là bốn thứ nhân duyên từ dòng suối chảy của Tạng thức, sanh ra làn sóng của chuyển thức.
+- Do 4 nhân duyên mà nhãn thức chuyển. Thế nào là 4? 
+  1. Tự tâm bất giác hiện ra nhiếp thọ. 
+  2. Lỗi tập khí hư ngụy từ vô thỉ. 
+  3. Chấp trước tự tánh của tánh thức. 
+  4. Muốn thấy đủ thứ sắc tướng. 
+  
+  Ấy gọi là 4 thứ nhân duyên từ dòng suối chảy của Tạng thức, sanh ra làn sóng của chuyển thức.
 
 - Như nhãn thức chuyển thì tất cả vi trần, lỗ chân lông của tất cả các căn đều sanh, các cảnh giới khác theo đó sanh khởi cũng như thế. Ví như gương sáng hiện các sắc tướng, ví như gió lớn thổi nước biển thì gió cảnh giới bên ngoài thổi biển của tâm, nổi làn sóng thức cũng vậy. Bởi vì tướng sở tác khác hay chẳng khác, do nghiệp duyên hòa hợp sanh tướng, lại chấp trước sâu vào, chẳng thể liễu tri tự tánh của các sắc, nên cái thân năm thức theo đó mà chuyển.
 
-- Đại Huệ! Cái thân năm thứ thức kia đều do cái biết của tướng phần đoạn sai biệt mà có, nên biết đó là cái thân của ý thức. Cái thân chuyển kia chẳng tự cho là tướng của Ta chuyển, vì tự tâm hiện vọng tưởng chấp trước mà chuyển, nên mỗi mỗi tướng hư vọng cùng chuyển; do phần đoạn sai biệt, phân biệt cảnh giới gọi là chuyển. Như người tu hành vào thiền chánh định, chuyển tập khí vi tế mà chẳng tự biết, lại cho là thức diệt rồi mới nhập thiền định, thật thì thức chẳng diệt mà nhập chánh định.Vì chủng tử tập khí chẳng diệt nên cảnh giới chuyển mà thức chẳng diệt, chẳng vì không nhiếp thọ mà diệt vậy.
+- Đại Huệ! Cái thân 5 thứ thức kia đều do cái biết của tướng phần đoạn sai biệt mà có, nên biết đó là cái thân của ý thức. Cái thân chuyển kia chẳng tự cho là tướng của Ta chuyển, vì tự tâm hiện vọng tưởng chấp trước mà chuyển, nên mỗi mỗi tướng hư vọng cùng chuyển; do phần đoạn sai biệt, phân biệt cảnh giới gọi là chuyển. Như người tu hành vào thiền chánh định, chuyển tập khí vi tế mà chẳng tự biết, lại cho là thức diệt rồi mới nhập thiền định, thật thì thức chẳng diệt mà nhập chánh định.Vì chủng tử tập khí chẳng diệt nên cảnh giới chuyển mà thức chẳng diệt, chẳng vì không nhiếp thọ mà diệt vậy.
 
 - Đại Huệ! Bờ bến cứu cánh của Tạng thức vi tế như thế, ngoài chư Phật và Trụ Địa Bồ Tát ra, các Thanh Văn, Duyên Giác, ngoại đạo tu hành sở đắc, dù có sức trí huệ của Tam muội, tất cả chẳng thể đo lường liễu tri được.
 
@@ -811,7 +820,7 @@ Thức do thức nhận biết,
 
 Hiện cảnh nói có năm (1).
 
-(1) HIỆN CẢNH NÓI CÓ NĂM : Tiền ngũ thức nhãn, nhĩ, tỹ, thiệt, thân, hiện cảnh tiền trần là sắc, thanh, hương, vị, xúc.
+(1) HIỆN CẢNH NÓI CÓ NĂM: Tiền ngũ thức nhãn, nhĩ, tỹ, thiệt, thân, hiện cảnh tiền trần là sắc, thanh, hương, vị, xúc.
 
 ### Đại Huệ Bồ Tát dùng kệ hỏi Phật :
 
@@ -986,7 +995,7 @@ Thuyết cảnh giới tự giác.
 
 ### Khi ấy, Đại Huệ Bồ Tát biết tâm niệm của chúng Đại Bồ Tát đang nghĩ tên Kinh Thánh Trí Phân Biệt Tự Tánh, nên thừa sức oai thần của tất cả Phật, bạch rằng :
 
-- Thế Tôn! Cúi xin Phật thuyết kinh Thánh Trí Phân Biệt Tự Tánh, y theo Như Lai Ứng Cúng Đẳng Chánh Giác, phân biệt nghĩa một trăm lẻ tám câu, theo đó thuyết Đại Bồ Tát vào tự tướng và cộng tướng của vọng tưởng tự tánh. Vì phân biệt thuyết tự tánh vọng tưởng thì được khéo quan sát nhơn pháp Vô ngã, tẩy sạch vọng tưởng, soi sáng chư Địa, siêu việt tất cả Thanh Văn, Duyên Giác và thiền định của ngoại đạo, biết khắp cảnh giới sở hành bất khả tư nghì của Như Lai, lìa bỏ năm pháp tự tánh. Dùng pháp thân trí huệ của chư Phật Như Lai khéo tự trang nghiêm, khởi cảnh giới huyễn, lên Đâu Suất Thiên Cung, Sắc Cứu Cánh Thiên Cung trong tất cả cõi Phật, cho đến được Pháp thân thường trụ của Như Lai (như Phật Thích Ca từ Đâu Suất Thiên Cung giáng sinh thành Phật).
+> Thế Tôn! Cúi xin Phật thuyết kinh Thánh Trí Phân Biệt Tự Tánh, y theo Như Lai Ứng Cúng Đẳng Chánh Giác, phân biệt nghĩa một trăm lẻ tám câu, theo đó thuyết Đại Bồ Tát vào tự tướng và cộng tướng của vọng tưởng tự tánh. Vì phân biệt thuyết tự tánh vọng tưởng thì được khéo quan sát nhơn pháp Vô ngã, tẩy sạch vọng tưởng, soi sáng chư Địa, siêu việt tất cả Thanh Văn, Duyên Giác và thiền định của ngoại đạo, biết khắp cảnh giới sở hành bất khả tư nghì của Như Lai, lìa bỏ năm pháp tự tánh. Dùng pháp thân trí huệ của chư Phật Như Lai khéo tự trang nghiêm, khởi cảnh giới huyễn, lên Đâu Suất Thiên Cung, Sắc Cứu Cánh Thiên Cung trong tất cả cõi Phật, cho đến được Pháp thân thường trụ của Như Lai (như Phật Thích Ca từ Đâu Suất Thiên Cung giáng sinh thành Phật).
 
 ### Phật bảo Đại Huệ :
 
@@ -1010,7 +1019,7 @@ Thuyết cảnh giới tự giác.
 
 ### Khi ấy, Thế Tôn bảo Đại Huệ Bồ Tát rằng :
 
-- Nên lìa sừng thỏ, sừng trâu, sắc tướng hư không, kiến chấp vọng tưởng. Các Đại Bồ Tát nên suy xét vọng tưởng do tự tâm hiện, Bồ Tát vào tất cả quốc độ, dùng phương tiện của tự tâm dạy bảo chúng sanh.
+> Nên lìa sừng thỏ, sừng trâu, sắc tướng hư không, kiến chấp vọng tưởng. Các Đại Bồ Tát nên suy xét vọng tưởng do tự tâm hiện, Bồ Tát vào tất cả quốc độ, dùng phương tiện của tự tâm dạy bảo chúng sanh.
 
 ### Khi ấy, Thế Tôn muốn lặp lại nghĩa này mà thuyết kệ rằng :
 
@@ -1067,7 +1076,7 @@ Cứu thế phương tiện thuyết.
 
 ### Khi ấy, Đại Huệ Bồ Tát vì trừ sạch dòng suối ý thức do tự tâm hiện, lại hỏi Như Lai rằng :
 
-- Bạch Thế Tôn! Làm sao trừ sạch dòng suối ý thức do tự tâm hiện của tất cả chúng sanh? Ấy là pháp đốn hay tiệm ư?
+> Bạch Thế Tôn! Làm sao trừ sạch dòng suối ý thức do tự tâm hiện của tất cả chúng sanh? Ấy là pháp đốn hay tiệm ư?
 
 ### Phật bảo Đại Huệ :
 
@@ -1093,7 +1102,7 @@ Cứu thế phương tiện thuyết.
 
 ### Khi ấy, Đại Huệ Bồ Tát bạch Phật rằng :
 
-- Thế Tôn! Thế Tôn sở thuyết cảnh giới thường bất tư nghì của Đệ Nhất Thánh Trí và cảnh giới Đệ Nhất Nghĩa, chẳng phải những ngoại đạo sở thuyết nhân duyên thường bất tư nghì ư?
+> Thế Tôn! Thế Tôn sở thuyết cảnh giới thường bất tư nghì của Đệ Nhất Thánh Trí và cảnh giới Đệ Nhất Nghĩa, chẳng phải những ngoại đạo sở thuyết nhân duyên thường bất tư nghì ư?
 
 ### Phật bảo Đại Huệ :
 

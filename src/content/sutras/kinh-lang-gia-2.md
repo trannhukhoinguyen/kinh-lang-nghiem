@@ -92,7 +92,7 @@ Thành tựu năm pháp tướng.
 
 ### Khi ấy, Đại Huệ Bồ Tát lại bạch Phật rằng:
 
-- Thế Tôn! Cúi xin Phật thuyết pháp kiến lập và phủ định, khiến con và chư Đại Bồ Tát lìa kiến lập và phủ định của ác kiến nhị biên, chóng được Vô Thượng Chánh Đẳng Chánh Giác.
+> Thế Tôn! Cúi xin Phật thuyết pháp kiến lập và phủ định, khiến con và chư Đại Bồ Tát lìa kiến lập và phủ định của ác kiến nhị biên, chóng được Vô Thượng Chánh Đẳng Chánh Giác.
 
 ### Thế Tôn hứa khả sự thỉnh cầu của Đại Huệ Bồ Tát mà thuyết kệ rằng :
 
@@ -150,7 +150,7 @@ Sở tác vô chướng ngại.
 
 ### Khi ấy, Đại Huệ Bồ Tát bạch Phật rằng: 
 
-> Cúi xin Thế Tôn vì chúng con thuyết tất cả pháp tánh không, lìa tướng tự tánh vốn Vô Sanh bất nhị, khiến chúng con và chư Bồ Tát giác ngộ, lìa hai thứ vọng tưởng Có và Không, Vô Sanh, bất nhị và lìa tướng tự tánh.
+> Cúi xin Thế Tôn vì chúng con thuyết tất cả Pháp Tánh Không, lìa tướng tự tánh vốn Vô Sanh Bất Nhị, khiến chúng con và chư Bồ Tát Giác Ngộ, lìa 2 thứ Vọng tưởng Có & Không, Vô Sanh, bất nhị và lìa tướng tự tánh.
 
 ### Phật bảo Đại Huệ :
 
@@ -202,7 +202,7 @@ Bậc Thánh lìa hữu vô.
 
 ### Khi ấy, Đại Huệ Bồ Tát bạch Phật rằng :
 
-- Thế Tôn! Pháp sở thuyết trong kinh Phật nói tự Tánh của Như Lai Tạng vốn trong sạch thường trụ chẳng đoạn, chẳng có biến đổi. đầy đủ ba mươi hai tướng nơi thân của tất cả chúng sanh, vì áo nhơ ấm, giới, nhập che khuất, nên bị cấu bẩn vọng phân biệt tham, sân, si sở ô nhiễm, giống như bửu vật vô giá ẩn trong áo nhơ. Mà ngoại đạo có cái thuyết '' Chơn Ngã là kẻ tác giả thường trụ, lìa nơi y chỉ, tự tại chẳng diệt''. Vậy, cái nghĩa '' Như Lai Tạng '' của Phật sở thuyết, há chẳng đồng như cái thuyết '' Chơn Ngã '' của ngoại đạo ư?
+> Thế Tôn! Pháp sở thuyết trong kinh Phật nói tự Tánh của Như Lai Tạng vốn trong sạch thường trụ chẳng đoạn, chẳng có biến đổi, đầy đủ 32 tướng nơi thân của tất cả chúng sanh, vì áo nhơ ấm, giới, nhập che khuất, nên bị cấu bẩn vọng phân biệt tham, sân, si sở ô nhiễm, giống như bửu vật vô giá ẩn trong áo nhơ. Mà ngoại đạo có cái thuyết '' Chơn Ngã là kẻ tác giả thường trụ, lìa nơi y chỉ, tự tại chẳng diệt''. Vậy, cái nghĩa '' Như Lai Tạng '' của Phật sở thuyết, há chẳng đồng như cái thuyết '' Chơn Ngã '' của ngoại đạo ư?
 
 ### Phật bảo Đại Huệ :
 
@@ -219,7 +219,7 @@ Duy tâm vọng phân biệt.
 
 ### Khi ấy, Đại Huệ Bồ Tát quán chúng sanh đời vị lai, lại thỉnh Thế Tôn :
 
-> Cúi xin Thế Tôn thuyết về đại phương tiện tu hành chẳng gián đoạn của chư Đại Bồ Tát.
+> Cúi xin Thế Tôn thuyết về Đại Phương tiện tu hành chẳng gián đoạn của chư Đại Bồ Tát.
 
 ### Phật bảo Đại Huệ :
 
@@ -245,7 +245,7 @@ Duy tâm vọng phân biệt.
 
 ### Đại Huệ Bồ Tát hỏi :
 
-- Bạch Thế Tôn! Thế nào là Ý Sanh Thân?
+> Bạch Thế Tôn! Thế nào là **Ý Sanh Thân**?
 
 ### Phật bảo Đại Huệ :
 
@@ -255,7 +255,7 @@ Nói tóm lại, thành tựu bốn pháp đại phương tiện tu hành của 
 
 ### Khi ấy, Đại Huệ Bồ Tát lại bạch Thế Tôn rằng :
 
-- Cúi xin Phật thuyết tướng nhân duyên của tất cả các pháp, do giác đựơc tướng nhân duyên, khiến con và các Bồ Tát được lìa tất cả tánh của vọng kiến hữu vô, chẳng vọng chấp các pháp tiệm sanh, hoặc đốn sanh, hoặc tiệm đốn cộng sanh.
+> Cúi xin Phật thuyết Tướng Nhân Duyên của tất cả các pháp, do Giác đựơc Tướng Nhân Duyên, khiến con và các Bồ Tát được lìa tất cả Tánh của Vọng Kiến Hữu Vô, chẳng Vọng Chấp các Pháp tiệm sanh, hoặc đốn sanh, hoặc tiệm đốn cộng sanh.
 
 ### Phật bảo Đại Huệ :
 
@@ -359,7 +359,7 @@ Thảy chỉ là ngôn thuyết.
 
 ### Đại Huệ Bồ Tát bạch Phật rằng :
 
-> Thế Tôn! Ngôn thuyết với vọng tưởng là khác hay chẳng khác?
+> Thế Tôn! Ngôn thuyết với Vọng tưởng là Khác hay Chẳng Khác?
 
 ### Phật bảo Đại Huệ :
 
@@ -409,7 +409,7 @@ Pháp thật tế tự chứng.
 
 ### Khi ấy, Đại Huệ Bồ Tát bạch Phật rằng :
 
-> Cúi xin Thế Tôn thuyết những pháp : Nhất hay dị, đồng hay chẳng đồng, hữu và vô, hay chẳng hữu chẳng vô, thường hay vô thường, chổ chẳng hành của tất cả ngoại đạo, là chổ hành của Tự Giác Thánh Trí, lìa vọng tưởng tự tướng cộng tướng, vào Đệ Nhất Nghĩa chơn thật. Các địa tương tục, dần dần tiến lên, đến chổ tướng cùng tột thanh tịnh, liền vào tướng địa của Như Lai, chẳng mở mang bản nguyện. Ví như hạt châu Ma Ni có nhiều hình sắc cảnh giới vô biên tướng hạnh, nay chỉ hiện tượng bộ phận trong tự tâm, nơi tất cả các pháp, nếu con và các vị Đại Bồ Tát, lìa kiến chấp tự tướng cộng tướng của vọng tưởng tự tánh như trên, sẽ chứng được Vô Thượng Bồ Đề, khiến tất cả chúng sanh đầy đủ sung mãn tất cả an lạc.
+> Cúi xin Thế Tôn thuyết những pháp: Nhất - Dị, Đồng - Chẳng Đồng, Hữu - Vô, hay Chẳng Hữu - Chẳng Vô, Thường - Vô Thường; chổ Chẳng Hành của tất cả Ngoại đạo, là chổ Hành của Tự Giác Thánh Trí, lìa vọng tưởng tự tướng cộng tướng, vào Đệ Nhất Nghĩa chơn thật. Các địa tương tục, dần dần tiến lên, đến chổ tướng cùng tột thanh tịnh, liền vào tướng địa của Như Lai, chẳng mở mang bản nguyện. Ví như hạt châu Ma Ni có nhiều hình sắc cảnh giới vô biên tướng hạnh, nay chỉ hiện tượng bộ phận trong tự tâm, nơi tất cả các pháp, nếu con và các vị Đại Bồ Tát, lìa kiến chấp tự tướng cộng tướng của vọng tưởng tự tánh như trên, sẽ chứng được Vô Thượng Bồ Đề, khiến tất cả chúng sanh đầy đủ sung mãn tất cả an lạc.
 
 ### Phật bảo Đại Huệ :
 
@@ -611,7 +611,7 @@ Lược giải hết
 
 ### Khi ấy Đại Huệ Bồ Tát lại bạch Phật rằng:
 
-> Thế Tôn nói pháp NIẾT BàN, thuyết pháp nào gọi là Niết Bàn?
+> Thế Tôn nói pháp NIẾT BÀN, thuyết pháp nào gọi là Niết Bàn?
 
 ### Phật bảo Đại Huệ :
 
@@ -637,7 +637,7 @@ Lược giải hết
 
 ### Đại Huệ Bồ Tát lại bạch Phật rằng :
 
-> Thế Tôn! Do nhân duyên nào, Như Lai Ứng Cúng Đẳng Chánh Giác gia hộ thần lực cho bậc Bồ Tát đang trụ Tam muội chánh thọ và khi được Thắng Tiến Địa quán đảnh?
+> Thế Tôn! Do Nhân Duyên nào, Như Lai Ứng Cúng Đẳng Chánh Giác gia hộ thần lực cho bậc Bồ Tát đang trụ Tam muội chánh thọ và khi được Thắng Tiến Địa quán đảnh?
 
 ### Phật bảo Đại Huệ :
 
