@@ -5,19 +5,23 @@ import ItemList from "../components/Sections/ItemList.astro";
 import Button from "../components/UI/Button.astro";
 
 const title = "Kinh Lăng Già";
-const subtitle = "...";
-const ctaText = "...";
+const subtitle = "Khi chưa có trời đất... Ta là cái gì?";
+const questFirstPart = "Khi chưa có trời đất...";
+const questSecondPart = "Ta là cái gì?";
+const ctaText = "Chiếu cố thoại đầu!";
 const path = "/sutras";
+const imgSrc = "/uploads/zen-meditation-1280x765.jpg";
+const backgroundImageSrc = "/uploads/zen-meditation-1200x733.jpg";
 ---
 
 <BaseLayout>
   <HeroSection
     title={title}
     subtitle={subtitle}
-    backgroundImage="/uploads/zen-meditation-1200x733.jpg"
+    backgroundImage={backgroundImageSrc}
     ctaText={ctaText}
     ctaLink={path}
-    secondaryCtaText="Watch"
+    secondaryCtaText={ctaText}
     secondaryCtaLink={path}
   />
 
@@ -25,26 +29,26 @@ const path = "/sutras";
   <section class="py-16 bg-white">
     <div class="container">
       <div class="max-w-4xl mx-auto text-center">
-        <h2 class="text-3xl md:text-4xl font-bold mb-6">Chiếu cố thoại đầu!</h2>
+        <h2 class="text-3xl md:text-4xl font-bold mb-6">{ctaText}</h2>
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
           <div class="bg-gray-50 p-8 rounded-lg shadow-sm">
-            <h3 class="text-xl font-bold mb-3">...</h3>
-            <p class="text-2xl font-bold text-primary-600 mb-2">...</p>
-            <p class="text-gray-600 mb-4">...</p>
-            <p class="italic text-gray-500">...</p>
+            <h3 class="text-xl font-bold mb-3">{questFirstPart}</h3>
+            <p class="text-2xl font-bold text-primary-600 mb-2">{questSecondPart}</p>
+            <p class="text-gray-600 mb-4">{questFirstPart}</p>
+            <p class="italic text-gray-500">{questSecondPart}</p>
           </div>
 
           <div class="bg-gray-50 p-8 rounded-lg shadow-sm">
-            <h3 class="text-xl font-bold mb-3">...</h3>
+            <h3 class="text-xl font-bold mb-3">{subtitle}</h3>
             <p class="text-2xl font-bold text-primary-600 mb-2">...</p>
-            <p class="text-gray-600 mb-4">...</p>
-            <p class="italic text-gray-500">...</p>
+            <p class="text-gray-600 mb-4">{questFirstPart}</p>
+            <p class="italic text-gray-500">{questSecondPart}</p>
           </div>
         </div>
 
-        <Button href="/sutras" variant="outline">
-          Khi chưa có trời đất... Ta là cái gì?
+        <Button href={path} variant="outline">
+          {ctaText}
         </Button>
       </div>
     </div>
@@ -56,23 +60,23 @@ const path = "/sutras";
       <div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
         <div>
           <img
-            src="/uploads/zen-meditation-1280x765.jpg"
-            alt="..."
+            src={imgSrc}
+            alt={subtitle}
             class="rounded-lg shadow-lg object-cover w-full h-full"
           />
         </div>
 
         <div>
-          <h2 class="text-3xl md:text-4xl font-bold mb-6">...</h2>
+          <h2 class="text-3xl md:text-4xl font-bold mb-6">{subtitle}</h2>
           <p class="text-gray-700 mb-6 text-lg">
-            ...
+            {questFirstPart}
           </p>
           <p class="text-gray-700 mb-8 text-lg">
-            ...
+            {questSecondPart}
           </p>
 
-          <Button href="/about-us">
-            ...
+          <Button href={path}>
+            {ctaText}
           </Button>
         </div>
       </div>
@@ -84,7 +88,7 @@ const path = "/sutras";
 
   <!-- Preview -->
   <section class="py-16 bg-gray-50">
-    <span></span>
+    <span>{subtitle}</span>
   </section>
 
   <!-- Call to Action -->
@@ -94,18 +98,18 @@ const path = "/sutras";
   >
     <div class="container">
       <div class="max-w-3xl mx-auto text-center">
-        <h2 class="text-3xl md:text-4xl font-bold mb-6 text-white">Ready?</h2>
+        <h2 class="text-3xl md:text-4xl font-bold mb-6 text-white">{questFirstPart}</h2>
         <p class="text-xl mb-8">
-          ...
+          {questSecondPart}
         </p>
 
         <div class="flex flex-wrap justify-center gap-4">
-          <Button href="/sutras" variant="primary" size="lg">
-            Khi chưa có trời đất...
+          <Button href={path} variant="primary" size="lg">
+            {questFirstPart}
           </Button>
 
-          <Button href="/sutras" variant="outline" size="lg" class="bg-white/10 text-white border-white hover:bg-white hover:text-gray-900 backdrop-blur-sm">
-            Ta là cái gì?
+          <Button href={path} variant="outline" size="lg" class="bg-white/10 text-white border-white hover:bg-white hover:text-gray-900 backdrop-blur-sm">
+            {questSecondPart}
           </Button>
         </div>
       </div>
