@@ -948,33 +948,33 @@ Chẳng báng Đại Đạo Sư,
 ***
 
 [^1]: 3 Sự Hòa Hợp:
-1. Căn bản duyên của thức thứ 8. 
-2. Tác ý, tức tự thể của thức thứ 6. 
-3. Chủng tử, tức do thức thứ 6 huân tập mà thành.
+  - Căn bản duyên của thức thứ 8. 
+  - Tác ý, tức tự thể của thức thứ 6. 
+  - Chủng tử, tức do thức thứ 6 huân tập mà thành.
 
 [^2]: Nói tắt là Thập Lực, là 10 thứ sức tự tại của Như Lai. Ấy là:
-1. Chỗ tri giác chẳng phải chỗ trí lực. Sự biết nghĩa lý của các vật là do sức tự tại của tự tâm tự biết, chẳng phải do trí lực mà biết.
-2. Sức tự tại biết nhân quả nghiệp báo của tất cả chúng sanh nơi tam thế.
-3. Sức tự tại biết các thứ thiền định giải thoát tam muội.
-4. Biết mỗi mỗi tri giải trí lực của tất cả chúng sanh.
-5. Biết mỗi mỗi cảnh giới chẳng đồng cuả chúng sanh thế gian.
-6. Biết phổ biến tất cả pháp đúng như thật tế.
-7. Biết mỗi mỗi hành và nhân của các pháp thế gian hữu lậu và các pháp Xuất thế gian Vô lậu từ Ngũ giới Thập thiện cho đến Niết bàn.
-8. Có Thiên nhãn vô ngại, thấy biết nghiệp duyên thiện ác và sanh tử của tất cả chúng sanh.
-9. Biết Túc mạng và Vô lậu Niết Bàn của tất cả chúng sanh.
-10. Biết tất cả tập khí mê vọng, dứt hẳn chẳng sanh, đúng như thật tế. Gọi là Thập Tự Tại Lực.
+  - Chỗ tri giác chẳng phải chỗ trí lực. Sự biết nghĩa lý của các vật là do sức tự tại của tự tâm tự biết, chẳng phải do trí lực mà biết.
+  - Sức tự tại biết nhân quả nghiệp báo của tất cả chúng sanh nơi tam thế.
+  - Sức tự tại biết các thứ thiền định giải thoát tam muội. 
+  - Biết mỗi mỗi tri giải trí lực của tất cả chúng sanh. 
+  - Biết mỗi mỗi cảnh giới chẳng đồng cuả chúng sanh thế gian. 
+  - Biết phổ biến tất cả pháp đúng như thật tế. 
+  - Biết mỗi mỗi hành và nhân của các pháp thế gian hữu lậu và các pháp Xuất thế gian Vô lậu từ Ngũ giới Thập thiện cho đến Niết bàn. 
+  - Có Thiên nhãn vô ngại, thấy biết nghiệp duyên thiện ác và sanh tử của tất cả chúng sanh. 
+  - Biết Túc mạng và Vô lậu Niết Bàn của tất cả chúng sanh. 
+  - Biết tất cả tập khí mê vọng, dứt hẳn chẳng sanh, đúng như thật tế. Gọi là Thập Tự Tại Lực.
 
 [^3]: TỊCH TỊNH THẮNG TIẾN NHẪN : Trong Kinh Nhơn Vương nói năm thứ nhẫn là : Điều phục nhẫn, Tín nhẫn, Thuận nhẫn, Vô Sanh nhẫn và Tịch diệt nhẫn.
 
 [^4]: 9 THỨ CHUYỂN BIẾN LUẬN CỦA NGOẠI ĐẠO:
-1. HÌNH XỨ chuyển biến : Là nói chúng sanh luân hồi trong lục đạo, mỗi mỗi hình tướng và vứ sở chuyển biến chẳng đồng.
-2. TƯỚNG chuyển biến : Là tướng của tứ đại ngũ ấm sanh, trụ, diệt chuyển biến chẳng đồng.
-3. NHÂN chuyển biến : Do chủng tử làm nhân, nhân diệt thì quả sanh, chuyển biến chẳng đồng.
-4. THÀNH chuyển biến : Là nói do nhân duyên thành tựu các pháp, có thành có hoại, chuyển biến chẳng đồng.
-5. KIẾN chuyển biến : Nói các pháp tùy thời gian biến đổi, trước thấy thì đúng, sau thấy thì sai, chuyển biến chẳng đồng.
-6. TÁNH chuyển biến : Nói các pháp chuyển lạ thành quen, chuyển đắng thành ngọt, chuyển biến chẳng đồng.
-7. DUYÊN PHÂN MINH chuyển biến : Nói mười hai nhân duyên sanh diệt chẳng ngừng, phân minh chuyển biến chẳng đồng.
-8. SỞ TÁC PHÂN MINH chuyển biến : Do duyên sở tác thành quả, có sanh rồi lại diệt, chuyển biến chẳng đồng.
-9. SỰ chuyển biến : Nói căn, thân, khí giới (vũ trụ vạn vật) các pháp hữu vi cuối cùng đều phải biến hoại.
+  - HÌNH XỨ chuyển biến : Là nói chúng sanh luân hồi trong lục đạo, mỗi mỗi hình tướng và vứ sở chuyển biến chẳng đồng.
+  - TƯỚNG chuyển biến : Là tướng của tứ đại ngũ ấm sanh, trụ, diệt chuyển biến chẳng đồng.
+  - NHÂN chuyển biến : Do chủng tử làm nhân, nhân diệt thì quả sanh, chuyển biến chẳng đồng.
+  - THÀNH chuyển biến : Là nói do nhân duyên thành tựu các pháp, có thành có hoại, chuyển biến chẳng đồng.
+  - KIẾN chuyển biến : Nói các pháp tùy thời gian biến đổi, trước thấy thì đúng, sau thấy thì sai, chuyển biến chẳng đồng.
+  - TÁNH chuyển biến : Nói các pháp chuyển lạ thành quen, chuyển đắng thành ngọt, chuyển biến chẳng đồng.
+  - DUYÊN PHÂN MINH chuyển biến : Nói mười hai nhân duyên sanh diệt chẳng ngừng, phân minh chuyển biến chẳng đồng.
+  - SỞ TÁC PHÂN MINH chuyển biến : Do duyên sở tác thành quả, có sanh rồi lại diệt, chuyển biến chẳng đồng.
+  - SỰ chuyển biến : Nói căn, thân, khí giới (vũ trụ vạn vật) các pháp hữu vi cuối cùng đều phải biến hoại.
 
 [^5]: 3 DUYÊN HÒA HỢP: Tức là căn, cảnh, thức. Căn là lục căn, cảnh là lục trần. Thức là lục thức. Tất cả pháp đều do ba thứ nhân duyên này hòa hợp sanh khởi.
