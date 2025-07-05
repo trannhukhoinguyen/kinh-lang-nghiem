@@ -20,7 +20,9 @@ Bốn câu trước là tứ quả của Thanh Văn, PHI THỪA tức là Tối 
 
 ## CHÁNH VĂN
 
-- Đại Huệ! Nói NHẤT XIỂN ĐỀ thật chẳng phải Nhất Xiển Đề. Nếu Nhất Xiển Đề là thật, thì ai chuyển được ai? Vậy thế gian làm sao giải thoát? Đại Huệ! Có hai thứ Nhất Xiển Đề :
+- Đại Huệ! Nói NHẤT XIỂN ĐỀ thật chẳng phải Nhất Xiển Đề. Nếu Nhất Xiển Đề là thật, thì ai chuyển được ai? Vậy thế gian làm sao giải thoát? 
+
+- Đại Huệ! Có hai thứ Nhất Xiển Đề :
 
 1. Xả bỏ tất cả thiện căn và xả bỏ phát nguyện chúng sanh từ vô thỉ. Sao nói xả bỏ tất cả thiện căn? Ấy là vì phỉ báng Bồ Tát Tạng và nói lời ác rằng : "Chẳng phải tùy thuận kinh luật mà được giải thoát". Vì xả bỏ tất cả thiện căn nên chẳng thể chứng nhập Niết Bàn.
 
@@ -158,13 +160,20 @@ Sở tác vô chướng ngại.
 
 ### Phật bảo Đại Huệ :
 
-- Đại Huệ! Nói sơ lược có bảy thứ không là : Tướng không, tự tánh không, hành không, vô hành không, tất cả pháp lìa ngôn thuyết không, Đệ Nhất Nghĩa Thánh Trí Đại không và Bỉ bỉ không.
+- Đại Huệ! Nói sơ lược có 7 thứ KHÔNG là: 
+  + Tướng Không, 
+  + Tự tánh Không, 
+  + Hành Không, 
+  + Vô hành Không, 
+  + Tất cả pháp lìa ngôn thuyết Không, 
+  + Đệ Nhất Nghĩa Thánh Trí Đại Không 
+  + và Bỉ bỉ Không.
 
-- Thế nào là TƯỚNG KHÔNG? ấy là tự tướng cộng tướng của tất cả pháp không, vì tướng tự tha và cộng đều chẳng thể sanh, do vọng tưởng phân biệt đối đãi với nhau tích tụ mới có. Nếu quán sát phân tích thì cứu cánh là vô tánh. Vì vô tánh nên tánh chẳng trụ, nên nói tất cả tánh tướng không, gọi là Tướng Không.
+- Thế nào là TƯỚNG KHÔNG? ấy là tự tướng cộng tướng của Tất cả pháp Không, vì tướng tự tha và cộng đều chẳng thể sanh, do vọng tưởng phân biệt đối đãi với nhau tích tụ mới có. Nếu quán sát phân tích thì cứu cánh là vô tánh. Vì vô tánh nên tánh chẳng trụ, nên nói tất cả tánh tướng không, gọi là Tướng Không.
 
 - Thế nào là TÁNH TỰ TÁNH KHÔNG? Ấy là tự tánh của chính mình vốn Vô Sanh, tức là tự tánh của tất cả pháp không, nên nói Tánh của Tự Tánh Không.
 
-- Thế nào là HAÀNH KHÔNG? Ấy là hành ấm lìa ngã, Ngã sở, do tác nghiệp sở thành, nghĩa là từ nhân duyên hòa hợp mà sanh, ấy gọi là Hành Không.
+- Thế nào là HÀNH KHÔNG? Ấy là hành ấm lìa ngã, Ngã sở, do tác nghiệp sở thành, nghĩa là từ nhân duyên hòa hợp mà sanh, ấy gọi là Hành Không.
 
 - Thế nào là VÔ HÀNH KHÔNG? Duyên nhau sanh khởi theo Hành Không như thế này, tự tánh vốn vô tánh, ấy gọi là Vô Hành Không.
 
@@ -174,7 +183,7 @@ Sở tác vô chướng ngại.
 
 - Thế nào BÆ BÆ KHÔNG? Nghĩa là ở nơi kia chẳng có cái không kia, gọi là Bỉ Bỉ Không. 
 
-- Đại Huệ! Ví như người mẹ của Lộc Tử là nữ cư sĩ Tỳ Xá, vì xây dựng Tịnh xá cho Tỳ Kheo ở, chẳng nuôi voi, ngựa, trâu, dê v.v... Nay nói Bỉ Không, chẳng phải nơi kia không có chúng Tỳ Kheo, cũng chẳng phải Tịnh xá trống rỗng không, cũng chẳng phải Tỳ Kheo tánh không, cũng chẳng phải chỗ khác không có voi, ngựa, nghĩa là tự tướng của tất cả pháp, cái kia, ở nơi kia chẳng có cái kia, ấy gọi là Bỉ Bỉ Không. nói chung trong bảy thứ Không, Bỉ Bỉ Không là cái không rất thô, ngươi nên xa lìa.
+- Đại Huệ! Ví như người mẹ của Lộc Tử là nữ cư sĩ Tỳ Xá, vì xây dựng Tịnh xá cho Tỳ Kheo ở, chẳng nuôi voi, ngựa, trâu, dê... Nay nói Bỉ Không, chẳng phải nơi kia không có chúng Tỳ Kheo, cũng chẳng phải Tịnh xá trống rỗng không, cũng chẳng phải Tỳ Kheo tánh không, cũng chẳng phải chỗ khác không có voi, ngựa, nghĩa là tự tướng của tất cả pháp, cái kia, ở nơi kia chẳng có cái kia, ấy gọi là Bỉ Bỉ Không. nói chung trong bảy thứ Không, Bỉ Bỉ Không là cái không rất thô, ngươi nên xa lìa.
 
 - Đại Huệ! Nói CHẲNG TỰ SANH chẳng phải Vô Sanh, ngoài trụ chánh định ra, gọi là Vô sanh, nghĩa là lìa tự tánh tức là Vô Sanh. Sự lưu chú tương tục từng sát na vốn lìa tự tánh và tánh dị thục ( lúc sau chín mùi ) hiện ra tất cả tánh đều lìa tự tánh, cho nên nói tất cả tánh lìa lự tánh.
 

@@ -480,7 +480,9 @@ Ngôn thuyết bất khả đắc.
 
 - Ngoại đạo do thức thứ bảy chấp thức thứ tám làm Thần ngã thì lưu chuyển chẳng diệt, do đó các thức phan duyên, chẳng phải cảnh giới tu hành của Thanh Văn, Duyên Giác, vì chẳng giác được Vô Ngã, có tự tướng cộng tướng nhiếp thọ, sanh ấm giới nhập. Nếu thấy tánh Như Lai Tạng thì năm pháp tự tánh và nhơn pháp Vô Ngã đều diệt.
 
-- Từng Địa thứ lớp tương tục tiến lên, chẳng bị kiến chấp ngoại đạo lay động, ấy gọi là trụ Bồ Tát Bất Động Địa, chứng đắc mười thứ đạo môn an vui của Tam Muội, mà tự nguyện chẳng thọ môn vui của Tam Muội, do huệ giác của Tam Muội sở trì, quán sát Phật Pháp bất khả tư nghì và thật tế hướng lên Tự Giác Thánh Trí, chẳng cùng lối tu hành của tất cả Thanh Văn, Duyên Giác và ngoại đạo, đắc mười thứ chủng tánh Hiền Thánh, lìa Tam Muội hạnh, vào nơi Như Lai ý sanh thân của Trí thân. Cho nên, Đại Huệ! Đại Bồ Tát muốn cầu thắng tiến, nên tẩy sạch danh tướng Như Lai Tạng và Thức tạng.
+- Từng Địa thứ lớp tương tục tiến lên, chẳng bị kiến chấp ngoại đạo lay động, ấy gọi là trụ Bồ Tát Bất Động Địa, chứng đắc mười thứ đạo môn an vui của Tam Muội, mà tự nguyện chẳng thọ môn vui của Tam Muội, do huệ giác của Tam Muội sở trì, quán sát Phật Pháp bất khả tư nghì và thật tế hướng lên Tự Giác Thánh Trí, chẳng cùng lối tu hành của tất cả Thanh Văn, Duyên Giác và ngoại đạo, đắc mười thứ chủng tánh Hiền Thánh, lìa Tam Muội hạnh, vào nơi Như Lai ý sanh thân của Trí thân. 
+
+- Cho nên, Đại Huệ! Đại Bồ Tát muốn cầu thắng tiến, nên tẩy sạch danh tướng Như Lai Tạng và Thức tạng.
 
 - Đại Huệ! Nếu chẳng có danh tướng Thức tạng và Như Lai Tạng thì chẳng có sanh diệt, nhưng các bậc phàm phu Hiền Thánh đều có sanh diệt. Người tu hành Tự Giác Thánh Trí chẳng xả phương tiện mà hiện pháp lạc trụ. 
 
