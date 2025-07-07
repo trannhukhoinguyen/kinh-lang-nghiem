@@ -2,6 +2,8 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
+import seo from 'astro-seo'
+import robotsTxt from 'astro-robots-txt'
 
 // https://astro.build/config
 export default defineConfig({
@@ -9,6 +11,19 @@ export default defineConfig({
   integrations: [
     tailwind(),
     sitemap(),
+    seo({
+      // Tuỳ chỉnh nếu muốn, mặc định đã đủ dùng
+      site: 'https://kinh-lang-gia.vercel.app', // <-- Thay bằng domain thật của bạn
+    }),
+    robotsTxt({
+      policy: [
+        {
+          userAgent: '*',
+          allow: '/',
+        },
+      ],
+      sitemap: 'https://kinh-lang-gia.vercel.app/sitemap-index.xml', // Đường dẫn đến sitemap nếu dùng @astrojs/sitemap
+    }),
   ],
   markdown: {
     shikiConfig: {
