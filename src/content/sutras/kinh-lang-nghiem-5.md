@@ -1,14 +1,14 @@
 ---
-title: "Kinh Lăng Già 5"
+title: "Kinh Lăng Nghiêm 5"
 date: 2025-07-05
 speaker: "Thích Duy Lực"
-series: "Kinh Lăng Già"
-scripture: "Kinh Lăng Già 5"
-audioUrl: "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%205.mp3"
-videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
-image: "/uploads/sutras/kinh-lang-gia.jpg"
+series: "Kinh Lăng Nghiêm"
+scripture: "Kinh Lăng Nghiêm 5"
+audioUrl: "http://tosuthien.info/audio_storage/htduyluc/kinhlangnghiem/kinh%20lang%20nghiem%2005.mp3"
+videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
+image: "/uploads/sutras/kinh-lang-nghiem.jpg"
 summary: "..."
-tags: ["Kinh Lăng Già", "Thích Duy Lực"]
+tags: ["Kinh Lăng Nghiêm", "Thích Duy Lực"]
 draft: false
 ---
 
@@ -862,7 +862,7 @@ Cũng như mèo chồn kia.
 Trong các Kinh Đại Thừa,
 Như Phược Tượng, Đại Vân.
 Cho đến Kinh Niết Bàn,
-Và Kinh Lăng Già nàî
+Và Kinh Lăng Nghiêm nàî
 Ta đều khuyến người tu,
 Nên đoạn dứt ăn thịt.
 Bồ Tát và Thanh Văn,

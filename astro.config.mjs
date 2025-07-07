@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://kinh-lang-gia.vercel.app', // Replace with your site URL
+  site: 'https://kinh-lang-nghiem.vercel.app', // Replace with your site URL
   integrations: [
     tailwind(),
     sitemap(),

@@ -1,14 +1,14 @@
 ---
-title: "Kinh Lăng Già 2"
+title: "Kinh Lăng Nghiêm 2"
 date: 2025-07-02
 speaker: "Thích Duy Lực"
-series: "Kinh Lăng Già"
-scripture: "Kinh Lăng Già 2"
-audioUrl: "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%202.mp3"
-videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
-image: "/uploads/sutras/kinh-lang-gia.jpg"
+series: "Kinh Lăng Nghiêm"
+scripture: "Kinh Lăng Nghiêm 2"
+audioUrl: "http://tosuthien.info/audio_storage/htduyluc/kinhlangnghiem/kinh%20lang%20nghiem%2002.mp3"
+videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
+image: "/uploads/sutras/kinh-lang-nghiem.jpg"
 summary: "..."
-tags: ["Kinh Lăng Già", "Thích Duy Lực"]
+tags: ["Kinh Lăng Nghiêm", "Thích Duy Lực"]
 draft: false
 ---
 

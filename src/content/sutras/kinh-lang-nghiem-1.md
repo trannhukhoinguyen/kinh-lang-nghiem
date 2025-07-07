@@ -1,20 +1,20 @@
 ---
-title: "Kinh Lăng Già 1"
+title: "Kinh Lăng Nghiêm 1"
 date: 2025-07-01
 speaker: "Thích Duy Lực"
-series: "Kinh Lăng Già"
-scripture: "Kinh Lăng Già 1"
-audioUrl: "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3"
-videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
-image: "/uploads/sutras/kinh-lang-gia.jpg"
+series: "Kinh Lăng Nghiêm"
+scripture: "Kinh Lăng Nghiêm 1"
+audioUrl: "http://tosuthien.info/audio_storage/htduyluc/kinhlangnghiem/kinh%20lang%20nghiem%2001.mp3"
+videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
+image: "/uploads/sutras/kinh-lang-nghiem.jpg"
 summary: "..."
-tags: ["Kinh Lăng Già", "Thích Duy Lực"]
+tags: ["Kinh Lăng Nghiêm", "Thích Duy Lực"]
 draft: false
 ---
 
 ## LỜI DỊCH GIẢ
 
-Kinh Lăng Già có ba bản dịch từ Phạn sang Hán: Tống dịch, Ngụy dịch, và Đường dịch. Hiện đang phổ biến lưu thông là bản Tống dịch, dịch giả bản này là người Ấn Độ, đối với Hán văn chưa được thông thạo lắm, nên lời văn đảo qua lộn lại, có chỗ thì trùng lắm quá dư thừa, dẫu cho nhà Nho tinh thông tiếng Hán cũng cảm thấy khó hiểu .
+Kinh Lăng Nghiêm có ba bản dịch từ Phạn sang Hán: Tống dịch, Ngụy dịch, và Đường dịch. Hiện đang phổ biến lưu thông là bản Tống dịch, dịch giả bản này là người Ấn Độ, đối với Hán văn chưa được thông thạo lắm, nên lời văn đảo qua lộn lại, có chỗ thì trùng lắm quá dư thừa, dẫu cho nhà Nho tinh thông tiếng Hán cũng cảm thấy khó hiểu .
 
 Chúng tôi dịch Kinh này phải tham khảo thêm hai bản dịch đời Ngụy và đời Đường, đồng thời dựa theo quyển Lăng Gìa Tông Thông của Ngài Tăng Phụng Nghi (Cư sĩ kiến tánh đời Minh), xếp lời văn cho xuôi và tăng bổ từ ngữ để sáng tỏ nghĩa Kinh, cũng có lược bỏ vài chỗ quá dư thừa . Đối với những danh từ tiếng Hán hay tiếng Phạn không thể dịch sang tiếng Việt thì chúng tôi ghi chú, còn những câu nghĩa lý quá thâm sâu thì chúng tôi lược giải thêm.
 
@@ -24,7 +24,7 @@ Nói tóm lại, chúng tôi dịch Kinh này rất cố gắng giữ nguyên ý
 
 ## PHẨM NHẤT THIẾT PHẬT NGỮ TÂM - QUYỂN THỨ NHẤT
 
-Ta nghe như vầy, một hôm Phật ở trên đảnh núi Lăng Già tại bờ biển Nam, có đủ các thứ hoa báu trang nghiêm, khi ấy các Đại Tỳ Kheo Tăng và chúng Đại Bồ Tát từ các cõi Phật đến, những Đại Bồ Tát ấy đều đủ sức tự tại, vô lượng chánh định, du hý thần thông.
+Ta nghe như vầy, một hôm Phật ở trên đảnh núi Lăng Nghiêm tại bờ biển Nam, có đủ các thứ hoa báu trang nghiêm, khi ấy các Đại Tỳ Kheo Tăng và chúng Đại Bồ Tát từ các cõi Phật đến, những Đại Bồ Tát ấy đều đủ sức tự tại, vô lượng chánh định, du hý thần thông.
 
 Bồ Tát Đại Huệ là bậc thượng thủ (đại diện đương cơ của Kinh này), được tất cả chư Phật đích thân làm phép quán đảnh, cảnh giới tự tâm hiện lượng của Ngài đối với mọi chúng sanh, mọi tâm và sắc, vô lượng pháp môn, cho đến năm pháp của tự tánh và hai thứ Vô ngã đều được từng loại phổ hiện, khéo giải nghĩa lý, thông đạt cứu cánh.
 
@@ -458,7 +458,7 @@ Thế nào là Thất Địa?
 
 Cúi xin Phật diễn thuyết.
 
-Tăng Già có mấy loại?
+Tăng Nghiêm có mấy loại?
 
 Thế nào phá hoại Tăng?
 
@@ -739,7 +739,7 @@ Từ CÚ SANH CÚ BẤT SANH cho đến CÚ TỰ CÚ PHI TỰ, chúng tôi lư�
 
 ### Khi ấy Đại Huệ Bồ Tát lại bạch Phật rằng :
 
-- Thế Tôn nói Tâm, ý, ý thức, tướng năm pháp tự tánh là tất cả chư Phật, Bồ Tát sở hành, cảnh giới sở duyên chẳng phải hòa hợp, hiển bày tất cả pháp do tự tâm hiện, thành tướng chơn thật. NHẤT THIẾT PHẬT NGỮ TÂM là Phật thuyết cảnh giới Tạng thức của pháp thân, ở nơi trụ xứ của chư Đại Bồ Tát tại núi Ma La Da trong biển thuộc nước Lăng Già.
+- Thế Tôn nói Tâm, ý, ý thức, tướng năm pháp tự tánh là tất cả chư Phật, Bồ Tát sở hành, cảnh giới sở duyên chẳng phải hòa hợp, hiển bày tất cả pháp do tự tâm hiện, thành tướng chơn thật. NHẤT THIẾT PHẬT NGỮ TÂM là Phật thuyết cảnh giới Tạng thức của pháp thân, ở nơi trụ xứ của chư Đại Bồ Tát tại núi Ma La Da trong biển thuộc nước Lăng Nghiêm.
 
 ### Khi ấy, Thế Tôn bảo Đại Huệ Bồ Tát rằng :
 

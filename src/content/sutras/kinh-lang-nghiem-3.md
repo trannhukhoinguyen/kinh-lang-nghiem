@@ -1,14 +1,14 @@
 ---
-title: "Kinh Lăng Già 3"
+title: "Kinh Lăng Nghiêm 3"
 date: 2025-07-03
 speaker: "Thích Duy Lực"
-series: "Kinh Lăng Già"
-scripture: "Kinh Lăng Già 3"
-audioUrl: "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%203.mp3"
-videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
-image: "/uploads/sutras/kinh-lang-gia.jpg"
+series: "Kinh Lăng Nghiêm"
+scripture: "Kinh Lăng Nghiêm 3"
+audioUrl: "http://tosuthien.info/audio_storage/htduyluc/kinhlangnghiem/kinh%20lang%20nghiem%2003.mp3"
+videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
+image: "/uploads/sutras/kinh-lang-nghiem.jpg"
 summary: "..."
-tags: ["Kinh Lăng Già", "Thích Duy Lực"]
+tags: ["Kinh Lăng Nghiêm", "Thích Duy Lực"]
 draft: false
 ---
 
@@ -852,7 +852,7 @@ Gọi là tri giác Phật.
 
 - Thế nào là TỰ ĐẲNG? Là danh tự xưng Ta là Phật, cũng xưng tất cả chư Phật, mà tự tánh của danh tự chẳng có sai biệt, ấy gọi là Tự Đẳng.
 
-- Thế nào là NGỮ ĐẲNG? Ta dùng sáu mươi bốn thứ Phạm âm hiển bày tướng ngôn ngữ, các bậc Như Lai Ứng Cúng Đẳng Chánh Giác cũng dùng sáu mươi bốn thứ Phạm âm hiển bày tướng ngôn ngữ như thế, chẳng thêm, chẳng bớt, chẳng có sai biệt. Tánh Phạm âm vi diệu như Ca Lăng Tần Già, gọi là Ngữ Đẳng.
+- Thế nào là NGỮ ĐẲNG? Ta dùng sáu mươi bốn thứ Phạm âm hiển bày tướng ngôn ngữ, các bậc Như Lai Ứng Cúng Đẳng Chánh Giác cũng dùng sáu mươi bốn thứ Phạm âm hiển bày tướng ngôn ngữ như thế, chẳng thêm, chẳng bớt, chẳng có sai biệt. Tánh Phạm âm vi diệu như Ca Lăng Tần Nghiêm, gọi là Ngữ Đẳng.
 
 - Thế nào là THÂN ĐẲNG? Nói thân Ta với pháp thân chư Phật, sắc thân và tướng tốt chẳng có sai biệt, trừ khi vì điều phục các loại chúng sanh sai biệt, mới thị hiện mỗi mỗi sắc thân sai biệt, ấy gọi là Thân Đẳng.
 
