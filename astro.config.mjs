@@ -2,7 +2,7 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import sitemap from '@astrojs/sitemap';
-import seo from 'astro-seo'
+import { SEO } from 'astro-seo'
 import robotsTxt from 'astro-robots-txt'
 
 // https://astro.build/config
@@ -11,7 +11,7 @@ export default defineConfig({
   integrations: [
     tailwind(),
     sitemap(),
-    seo({
+    SEO({
       // Tuỳ chỉnh nếu muốn, mặc định đã đủ dùng
       site: 'https://kinh-lang-gia.vercel.app', // <-- Thay bằng domain thật của bạn
     }),
