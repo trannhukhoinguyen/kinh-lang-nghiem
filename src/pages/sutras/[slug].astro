@@ -153,7 +153,7 @@ if (entry.data.series) {
         )
       }
 
-      {
+<!--      {
         entry.data.audioUrl && (
           <div>
             <h3 class="text-xl font-bold mb-4" title="Listen">🎧</h3>
@@ -163,6 +163,17 @@ if (entry.data.series) {
             </audio>
           </div>
         )
+      } -->
+      {
+        entry.data.audioUrls.length && (entry.data.audioUrls.map((url, index) => <div>
+                <h3 class="text-xl font-bold mb-4" title="Listen">🎧</h3>
+                <h4 class="text-xl font-bold mb-4" title={entry.data.title}>{index}</h4>
+                <audio controls class="w-full">
+                  <source src={url} type="audio/mpeg">
+                  Your browser does not support the audio element.
+                </audio>
+              </div>
+        ))
       }
     </div>
 

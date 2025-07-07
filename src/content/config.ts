@@ -10,6 +10,7 @@ const sutrasCollection = defineCollection({
     series: z.string().optional(),
     scripture: z.string().optional(),
     audioUrl: z.string().url().optional(),
+    audioUrls: z.array(z.string().url()).optional(),
     videoUrl: z.string().url().optional(),
     image: z.string().startsWith('/uploads/sutras/').optional(), // Thumbnail
     summary: z.string().optional(),
