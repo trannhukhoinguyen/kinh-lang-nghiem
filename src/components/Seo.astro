@@ -1,0 +1,39 @@
+---
+import { SEO } from 'astro-seo'
+import {slugify, stringify} from '../utils/slugify'
+
+const topic = 'Kinh Lăng Nghiêm'
+const siteUrl = `https://${slugify(topic)}.vercel.app`
+const username = `@${stringify(topic)}`
+const {
+	title = topic,
+	description = `Ngộ nhập ${topic}`,
+	slug = '',
+	image = `${siteUrl}/og-default.png`,
+	speaker,
+	tags = [],
+	date,
+} = Astro.props
+
+const url = `${siteUrl}/sutras/${slug}`
+const fullTitle = `${title} | ${speaker ?? topic}`
+---
+
+<SEO
+	title={fullTitle}
+	description={description}
+	siteUrl={url}
+	image={{
+		url: image,
+		alt: title,
+	}}
+	twitter={{
+		site: username,
+		cardType: 'summary_large_image',
+	}}
+	openGraph={{
+		type: 'article',
+		publishedTime: date,
+		tags: tags,
+	}}
+/>
