@@ -1,0 +1,80 @@
+---
+import { Markdown } from 'astro/components'
+import { JSDOM } from 'jsdom'
+
+// Props: compiledContent(), frontmatter
+const { compiledContent, frontmatter } = Astro.props
+
+const html = await compiledContent()
+
+// Parse tiêu đề từ HTML
+const dom = new JSDOM(html)
+const document = dom.window.document
+
+const headings = Array.from(document.querySelectorAll('h2, h3')).map(el => ({
+    id: el.id,
+    text: el.textContent,
+    level: el.tagName === 'H3' ? 3 : 2,
+}))
+
+// Sử dụng innerHTML để render toàn bộ content đã render
+---
+
+<div class="layout">
+    <!-- Sidebar TOC -->
+    <aside class="toc">
+        <ul>
+            {headings.map(heading => (
+                    <li class={`level-${heading.level}`}>
+                        <a href={`#${heading.id}`}>{heading.text}</a>
+                    </li>
+            ))}
+        </ul>
+    </aside>
+
+    <!-- Main content -->
+    <article class="content" innerHTML={html} />
+</div>
+
+<style>
+    .layout {
+        display: flex;
+        gap: 2rem;
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 2rem;
+    }
+    .toc {
+        width: 240px;
+        position: sticky;
+        top: 4rem;
+        height: calc(100vh - 4rem);
+        overflow-y: auto;
+        padding-right: 1rem;
+        flex-shrink: 0;
+        font-size: 0.875rem;
+        line-height: 1.4;
+    }
+    .toc ul {
+        padding-left: 0;
+        list-style: none;
+    }
+    .toc li {
+        margin-bottom: 0.5rem;
+    }
+    .toc li.level-3 {
+        padding-left: 1rem;
+        font-size: 0.85em;
+    }
+    .toc a {
+        color: #334155;
+        text-decoration: none;
+    }
+    .toc a:hover {
+        text-decoration: underline;
+    }
+    .content {
+        flex: 1;
+        max-width: 700px;
+    }
+</style>
