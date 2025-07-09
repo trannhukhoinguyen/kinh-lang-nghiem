@@ -1617,7 +1617,7 @@ Như người đang ngủ mê trên giường, trong nhà có người giã gạ
 
 ***
 
-## QUYỂN NĂM
+## QUYỂN V
 
 A Nan bạch Phật rằng:
 
@@ -1963,11 +1963,11 @@ Di Lặc Bồ Tát liền đứng dậy, đảnh lễ bạch Phật:
 >
 > Đại nguyện nếu chỉ dùng tâm nghĩ miệng nói ấy là nguyện suông, cần phải thực hành đúng theo đại nguyện của chính mình phát ra, mới là nguyện chơn thật, và mới có thể tương ưng với đại nguyện của Phật.
 
-## QUYỂN NĂM HẾT
+## QUYỂN V HẾT
 
 ***
 
-## QUYỂN SÁU
+## QUYỂN VI
 
 Lúc bấy giờ, Quán Thế Âm Bồ Tát liền đứng dậy, đảnh lễ bạch Phật:
 
@@ -2103,7 +2103,7 @@ Lúc đó, Như Lai bảo Văn Thù Sư Lợi Pháp Vương Tử rằng:
 
 Văn Thù Sư Lợi Pháp Vương Tử vâng theo ý chỉ của Phật, liền đứng dậy đảnh lễ chân Phật, thừa oai thần của Phật, nói kệ đáp rằng:
 
-CHÁNH VĂN DỊCH NGHĨA
+#### CHÁNH VĂN DỊCH NGHĨA
 
 - Giác hải tánh trừng viên, - Biển giác tánh trong lặng,
 
@@ -2595,41 +2595,21 @@ Chơn thật tâm như thị. Thế là tâm chơn thật.
 
 #### GHI CHÚ
 
-(1): Dược xoa (nhẹ nhàng, nhanh chóng), có ba loại:
+[^8]: Dược xoa (nhẹ nhàng, nhanh chóng), có 3 loại: *Địa Hành Dược Xoa* (Dùng tài thí nên chẳng thể bay), *Không Hành Dược Xoa*, *Thiên Hành Dược Xoa* (Dùng xe cộ bố thí nên bay được). Khi Phật chuyển pháp luân. Địa Dược Xoa ca ngợi, Không Dược Xoa nghe. Thiên Dược Xoa ca ngợi. Tứ Thiên Vương cho đến Phạm Thiên nghe.
 
-Địa Dược Xoa: Dùng tài thí nên chẳng thể bay.
+[^9]: Càn Thát Bà (tìm mùi hương): Nhạc thần của Đế Thích.
 
-Không Dược Xoa: Thiên Dược Xoa: Dùng xe cộ bố thí nên bay được.
+[^10]: Khẩn Na La: Phi nhân, giống người mà đầu có sừng.
 
-Khi Phật chuyển pháp luân. Địa Dược Xoa ca ngợi, Không Dược Xoa nghe. Thiên Dược Xoa ca ngợi. Tứ Thiên Vương cho đến Phạm Thiên nghe.
+[^11]: Ma Hầu La Già: Đại mãnh xà, bụng lớn.
 
-(2) Càn Thát Bà (tìm mùi hương): Nhạc thần của Đế Thích.
+[^12]: Thân với xúc đồng nhau, chẳng phải viên giác quán:Sự xúc giác rõ ràng, chỉ có thân mới biết, quên thân thuần giác, cũng chẳng phải viên giác, phải như Viên Giác Quán, thân tâm đều siêu việt, chẳng có ngằn mé, mới có thể chẳng nhờ thân biết mà thầm hội (ngộ) vạn pháp. Nay có thân có xúc, thì sự biết có ngằn mé, chẳng phải viên thông vậy.
 
-(3) Khẩn Na La: Phi nhân, giống người mà đầu có sừng.
+[^13]: Trụ thành chấp sở trụ, làm sao được viên thông. Sự nhiếp tâm thật là khó, trước kia tán loạn chỉ e chẳng trụ, sau được tịch tịnh, lại thành sở trụ của tâm. Trụ và chẳng trụ đều chẳng phải bản thể của vô trụ, nên chẳng được viên thông.
 
-(4) Ma Hầu La Già: Đại mãnh xà, bụng lớn.
+[^14]: Ngôi học còn dính bụi, cực sáng tức Như Lai: Theo Hoa Nghiêm Hợp Luận: Sơ tâm Bồ Tát vì lòng tin Chơn Như vững chắc, được thấy biết ít phần của thân Như Lai chẳng đoạn diệt, chẳng khứ lai, nhưng Bồ Tát này còn chưa thể lìa sự phân biệt vi tế, nên chỉ thấy thô dụng, chưa được vào ngôi pháp thân. Tịnh tâm Bồ Tát còn thấy vi tế dụng, như thế dần dần tiến lên, cho đến bậc Bồ Tát cứu cánh, mới hết thấy vi tế dụng, gọi là thân thọ dụng. Vì có nghiệp thức, mới có tâm thấy thọ dụng, nếu lìa nghiệp thức thì chẳng thể thấy. Tại sao? Vì tất cả Như Lai đều là pháp thân; pháp thân chẳng có sắc tướng sai biệt để thấy nhau, nên chẳng thể thấy. Tại sao hết thấy vi tế dụng, gọi là thân thọ dụng? Vì còn có thân thọ dụng để biết sự "hết thấy", vẫn là tướng vi tế của nghiệp thức. Các bậc hữu học và vô học còn dính mắc tướng vi tế này, như gương dính bụi, nên nói "Ngôi học còn dính bụi". Nếu nghiệp thức vi tế đã sạch, chẳng thấy có sự thọ dụng, gọi là pháp thân Như Lai. Vậy bụi sạch gương sáng tỏ, nên nói "Cực sáng tức Như Lai".
 
-(5) Thân với xúc đồng nhau, chẳng phải viên giác quán:
-
-Sự xúc giác rõ ràng, chỉ có thân mới biết, quên thân thuần giác, cũng chẳng phải viên giác, phải như Viên Giác Quán, thân tâm đều siêu việt, chẳng có ngằn mé, mới có thể chẳng nhờ thân biết mà thầm hội (ngộ) vạn pháp. Nay có thân có xúc, thì sự biết có ngằn mé, chẳng phải viên thông vậy.
-
-(6) Trụ thành chấp sở trụ, làm sao được viên thông.
-
-Sự nhiếp tâm thật là khó, trước kia tán loạn chỉ e chẳng trụ, sau được tịch tịnh, lại thành sở trụ của tâm. Trụ và chẳng trụ đều chẳng phải bản thể của vô trụ, nên chẳng được viên thông.
-
-(7) Ngôi học còn dính bụi, cực sáng tức Như Lai:
-
-Theo Hoa Nghiêm Hợp Luận: Sơ tâm Bồ Tát vì lòng tin Chơn Như vững chắc, được thấy biết ít phần của thân Như Lai chẳng đoạn diệt, chẳng khứ lai, nhưng Bồ Tát này còn chưa thể lìa sự phân biệt vi tế, nên chỉ thấy thô dụng, chưa được vào ngôi pháp thân.
-
-Tịnh tâm Bồ Tát còn thấy vi tế dụng, như thế dần dần tiến lên, cho đến bậc Bồ Tát cứu cánh, mới hết thấy vi tế dụng, gọi là thân thọ dụng.
-
-Vì có nghiệp thức, mới có tâm thấy thọ dụng, nếu lìa nghiệp thức thì chẳng thể thấy. Tại sao? Vì tất cả Như Lai đều là pháp thân; pháp thân chẳng có sắc tướng sai biệt để thấy nhau, nên chẳng thể thấy.
-
-Tại sao hết thấy vi tế dụng, gọi là thân thọ dụng? Vì còn có thân thọ dụng để biết sự "hết thấy", vẫn là tướng vi tế của nghiệp thức. Các bậc hữu học và vô học còn dính mắc tướng vi tế này, như gương dính bụi, nên nói "Ngôi học còn dính bụi". Nếu nghiệp thức vi tế đã sạch, chẳng thấy có sự thọ dụng, gọi là pháp thân Như Lai. Vậy bụi sạch gương sáng tỏ, nên nói "Cực sáng tức Như Lai".
-
-(8) Phản văn bản tánh văn:
-
-Nếu chấp cái nghe là thật, thì không nghe ngoài phải nghe trong, không nghe động phải nghe tịnh. Nghe trong, ngoài, động, tịnh, đều là bỏ gốc theo ngọn, nên gọi là cái nghe điên đảo. Xoay cái nghe điên đảo này về chánh, chánh thì chẳng có năng văn, sở văn, vậy mới gọi là Phản văn, cũng là Bản tánh văn; nghịch cảnh trần, hợp giác tánh, nên gọi là chánh. Đã trở về bản văn, tức thấy bản lai diện mục, cũng là tánh Văn này, liền thành vô thượng Bồ Đề.
+[^15]: Phản văn bản tánh văn: Nếu chấp cái nghe là thật, thì không nghe ngoài phải nghe trong, không nghe động phải nghe tịnh. Nghe trong, ngoài, động, tịnh, đều là bỏ gốc theo ngọn, nên gọi là cái nghe điên đảo. Xoay cái nghe điên đảo này về chánh, chánh thì chẳng có năng văn, sở văn, vậy mới gọi là Phản văn, cũng là Bản tánh văn; nghịch cảnh trần, hợp giác tánh, nên gọi là chánh. Đã trở về bản văn, tức thấy bản lai diện mục, cũng là tánh Văn này, liền thành vô thượng Bồ Đề.
 
 ***
 
@@ -2720,11 +2700,11 @@ Sự đốt tay, đốt liều là để tăng cường lòng chánh tín, quên
 
 - Như lời ta thuyết gọi là Phật thuyết, chẳng thuyết như thế tức tà ma thuyết.
 
-## QUYỂN SÁU HẾT
+## QUYỂN VI HẾT
 
 ***
 
-## QUYỂN BẢY
+## QUYỂN VII
 
 - A Nan! Ngươi hỏi cách nhiếp tâm, trước ta đã nói về pháp môn vi diệu, tu tập Tam Ma Địa. Người cầu đạo bồ đề trước tiên phải giữ bốn thứ luật nghi kể trên, trong sáng như băng tuyết để làm căn bản, tự nhiên chẳng sanh tất cả nhánh lá; nhờ đó, ba ý nghiệp và bốn khẩu nghiệp ắt chẳng có nhân để sanh khởi. A Nan, nếu giữ kỹ bốn giới chẳng bỏ sót, tâm còn chẳng duyên theo Sắc, Thanh, Hương, Vị, Xúc, thì tất cả ma sự làm sao còn sanh khởi được?
 
@@ -2758,93 +2738,87 @@ A Nan đảnh lễ chân Phật và bạch rằng:
 
 Khi ấy, Thế Tôn từ nơi nhục kế phóng ra trăm thứ hào quang, trong hào quang hiện ra bửu liên hoa ngàn cánh có hóa thân Phật ngồi trong liên hoa, trên đảnh phóng ra mười tia ánh sáng, trong mỗi tia đều hiện ra mười hằng sa Hộ Pháp Kim Cang, đội núi, cầm chày, khắp cõi hư không. Đại chúng ngó thấy đều kính mến, cầu Phật gia hộ, một lòng nghe Phóng Quang Như Lai nơi Vô Kiến Đảnh Tướng của Phật tuyên thuyết thần chú.
 
+## CHÚ LĂNG NGHIÊM
 
+### ĐỆ NHỨT
 
-CHÚ LĂNG NGHIÊM
+> Nam mô tát đát tha tô già đa da a ra ha đế tam miệu tam bồ đà tỏa. Tát đát tha Phật đà cu tri sắc ni san.
+>
+> Nam mô tát bà bột đà bột địa, tát đa bệ tệ.
+>
+> Nam mô tát đa nẩm tam miệu tam bồ đà cu tri nẩm. Ta xá ra bà ca tăng già nẩm.
+>
+> Nam mô lô kê a la hán đa nẩm.
+>
+> Nam mô tô lô đa ba na nẩm.
+>
+> Nam mô ta yết rị đà già di nẩm.
+>
+> Nam mô lô kê tam miệu già đa nẩm. Tam miệu già ba ra để ba đa na nẩm.
+>
+> Nam mô đề bà ly sắc nỏa.
+>
+> Nam mô tất đà da tỳ địa da đà ra ly sắt nỏa. Xá ba noa yết ra ha ta ha ta ra ma tha nẩm.
+>
+> Nam mô bạt ra ha ma ni.
+>
+> Nam mô nhơn đà ra da.
+>
+> Nam mô bà già bà đế, lô đà ra da. Ô ma bát đế, ta hê dạ da.
+>
+> Nam mô bà già bà đế. Na ra dỏa noa da. Bàn giá ma ha tam mộ đà ra.
+>
+> Nam mô tất yết rị đa da.
+>
+> Nam mô bà già bà đế, ma ha ca ra da. Địa rị bác lặc na già ra. Tỳ đà ra ba noa ca ra da. A địa mục đế. Thi ma xá na nê bà tất nê. Ma đát rị già noa.
+>
+> Nam mô tất yết rị đa da.
+>
+> Nam mô bà già bà đế. Đa tha già đà cu ra da.
+>
+> Nam mô bát đầu ma cu ra da.
+>
+> Nam mô bạt xà ra cu ra da.
+>
+> Nam mô ma ni cu ra da.
+>
+> Nam mô già xà cu ra gia.
+>
+> Nam nô bà già bà đế, đế rị trà du tây na, ba ra ha ra noa ra xà dà, đa tha già đa da.
+>
+> Nam mô bà già bà đế.
+>
+> Nam mô a di đa bà da, đa tha dà đa la, a ra ha đế, tam miệu tam bồ đà da.
+>
+> Nam mô bà già bà đế, a sô bệ da, đa tha già đa da, a ra ha đế, tam miệu tam bồ đà da.
+>
+> Nam mô bà già bà đế, bệ sa xà da cu lô phệ trụ rị da bát ra bà ra xà da, đa tha già đa da.
+>
+> Nam mô bà già bà đế, tam bổn sư bí da, tát lân nại ra lặc xà da, đa tha già đa da, a ra ha đế, tam miệu tam bồ đà da.
+>
+> Nam mô bà già bà đế, xá kê dã mẫu na duệ, đa tha già đa da, a ra ha đế, tam miệu tam bồ đà da.
+>
+> Nam mô bà già bà đế, lặc đác na kê đô ra xà da, đa tha già đa da, a ra ha đế, tam miệu tam bồ đà da, đế biều nam mô tát yết rị đa, ế đàm bà giá bà đa, tát đác tha già đô sắc ni sam, tát đác đa bác đác lam.
+>
+> Nam mô a bà ra thị đam, bác ra đế dương kỳ ra, tát ra bà bộ đa yết ra ha, ni yết ra ha yết ca ra ha ni, bạc ra bí địa da sất đà nể, a ca ra mật rị trụ, bát rị đát ra da nảnh yết rị, tát ra bà bàn đà na mục xoa ni, tát ra bà đột sắc tra đột tất phạp bát na nể phạt ra ni, giả đô ra thất đế nẫm, yết ra ha ta ha tát ra nhã xà, tỳ đa băng ta na yết rị, a sắc tra băng xá đế nẫm, na xoa sát đác ra nhã xà, ba ra tát đà na yết rị, a sắc tra nẫm, ma ha yết ra ha nhã xà, tỳ đa băng tát na yết rị, tát bà xá đô lô nể bà ra nhã xà, hô lam đột tất phạp nan giá na xá ni, bí sa xá tất đác ra, a kiết ni ô đà ca ra nhã xà, a bát ra thị đa cu ra ma ha bác ra chiến trì, ma ha điệp đa, ma ha đế xà, ma ha thuế đa xà bà ra, ma ha bạt ra bàn đà ra bà tất nể, a rị da đa ra, tỳ rị cu tri, thệ bà tỳ xà da, bạc xà ra ma lễ để, tỳ xá lô đa, bột đằng dõng ca, bạt xà ra chế hắt na a giá, ma ra chế bà bác ra chất đa, bạc xà ra thiện trì, tỳ xá ra giá, phiến đa xá bệ đề bà bổ thị đa,tô ma lô ba, ma ha thuế đa, a rị da đa ra, ma ha bà ra, a bác ra, bạt xà ra thương yết ra chế bà, bạt xà ra cu ma rị, cu lam đà rị, bạt xà ra hắc tát đa giá tỳ địa gia kiền giá na ma rị ca, khuất tô mẫu bà yết ra đá na, bệ lô giá na cu rị da, dạ ra thố sắt ni sam, tỳ chiết lam bà ma ni giá, bạt xà ra ca na ca ba ra bà, lô xà na bạt xà ra đốn trỉ giá, thuế đa giá ca ma ra sát xa thi ba ra bà, ế đế di đế, mẫu đà ra yết noa, ta bệ ra sám, quật phạm đô, ấn thố na mạ mạ tỏa.
 
-ĐỆ NHỨT
+### ĐỆ NHỊ
 
-Nam mô tát đát tha tô già đa da a ra ha đế tam miệu tam bồ đà tỏa. Tát đát tha Phật đà cu tri sắc ni san.
+> Ô hồng, rị sắt yết noa, bác lặc xá tất đa, tát đát tha già đô sắc ni sam. Hổ hồng, đô lô ung chiêm bà na, Hổ hồng, đô lô ung tất đam bà na. Hổ hồng, đô lô ung ba ra sắc địa da tam bát xá noa yết ra. Hổ Hồng, đô lô ung, tát bà dược xoa hắt ra sát ta, yết ra ha nhã xà, tỳ đằng băng tát na yết ra. Hổ hồng, đô lô ung, giả đô ra thi để nẫm, yết ra ha, ta ha thi để nẫm, yết ra ha, ta ha tát ra nẫm, tỳ đằng băng tát na ra. Hổ hồng, đô lô ung, ra xoa, bà già phạm tát đát tha già đô sắc ni sam, ba ra điểm xà kiết rị, ma ha ta ha tát ra, bột thọ ta ha tát ra thất rị sa, cu tri ta ha tát nê đế lệ, a tệ đề thị bà rị đa, tra tra anh ca ma ha bạt xà lô đà ra, đế rị bồ bà na, man trà ra, ô hồng, ta tất đế bạc bà đô, mạ mạ ấn thố na mạ mạ tỏa.
 
-Nam mô tát bà bột đà bột địa, tát đa bệ tệ.
+### ĐỆ TAM
 
-Nam mô tát đa nẩm tam miệu tam bồ đà cu tri nẩm. Ta xá ra bà ca tăng già nẩm.
+> Ra xà bà dạ, chủ ra bạt dạ, a kỳ ni bà dạ, ô đà ca bà dạ, tỳ xa bà dạ, xá tát đa ra bà dạ, bà ra chước yết ra bà dạ, đột sắc xoa bà dạ, a xá nể bà dạ, a ca ra mật rị trụ bà dạ, đà ra ni bộ di kiếm ba già bà đà bà dạ, ô ra ca bà đa bà dạ, lặc xà đàng trà bà dạ, na già bà dạ, tỳ điều đát bà dạ, tô ba ra noa bà dạ, dược xoa yết ra ha, ra xoa tư yết ra ha, tất rị đa yết ra ha, tỳ xá giá yết ra ha, bộ đa yết ra ha, cưu bàn trà yết ra ha, bổ đơn na yết ra ha, ca tra bổ đơn na yết ra ha, tất kiền độ yết ra ha, a bá tát ma ra yết ra ha, ô đàn ma đà yết ra ha, xa dạ yết ra ha, hê rị bà đế yết ra ha, xã đa ha rị nẫm, yết bà ha rị nẩm, lô địa ra ha rị nẩm, mang ta ha rị nẩm, mê đà ha rị nẩm, ma xà ha rị nẩm, xà đa ha rị nữ, thị tỷ đa ha rị nẩm, tỳ đa ha rị nẩm bà đa ha rị nẩm, a du giá ha rị nữ, chất đa ha rị nữ, đế sam tát bệ sam, tát bà yết ra ha nẩm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, ba rị bạt ra giả ca hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, trà diễn ni hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, ma ha bát du bác đát dạ, lô đà ra hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, na ra dạ noa hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, đát đỏa già lô trà tây hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, ma ha ca ra ma đát rị già noa hất rị đởm, tỳ đà dà xà sân đà dạ di, kê ra dạ di, ca ba rị ca hất rị đởm, Tỳ đà dạ xà sân đà da di, kê ra dạ di, xà dạ yết ra, ma độ yết ra tát bà ra tha ta đạt na hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, giả đốt ra bà kỳ nể hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, tỳ rị dương hất rị tri, nan đà kê sa ra dà noa bác đế, sách hê dạ hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, na yết na xá ra bà noa hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, na yết na xá ra bà noa hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, a-la-hán hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, tỳ đa ra già hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, bạt xả ra ba nể, cu hê dạ, cu hê dạ xa địa bát đế hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, ra thoa vỏng, bà dà phạm, ấn thố na mạ mạ tỏa.
 
-Nam mô lô kê a la hán đa nẩm.
+### ĐỆ TỨ
 
-Nam mô tô lô đa ba na nẩm.
+> Bà già phạm, tát đát đa bác đá ra, Nam mô tý lô đô đế, a tất đa na ra lặc ca, ba ra bà tất phổ tra, tỳ ca tát đát đa bát đế rị, thập Phật ra thập Phật ra, đà ra đà ra, tần đà ra, tần đà ra, sân đà sân đà. Hổ hồng. Hổ hồng, phấn tra, phấn tra, phấn tra, phấn tra, phấn tra, ta ha, hê hê phấn, a mâu ca da phấn, a ba ra đề ha đa phấn, ba ra bà ra đà phấn, a tố ra tỳ đà ra ba ca phấn, tát bà đề bệ tệ phấn, tát bà na già tệ phấn, tát bà dược xoa tệ phấn, tát bà kiền thát bà tệ phấn, tát bà bổ đơn na tệ phấn, ca tra bổ đơn na tệ phấn, tát bà đột lang chỉ đế tệ phấn, tát bà đột sáp tỷ lê hất sắc đế tệ phấn, tát bà thập bà lê tệ phấn, tát bà a bá tất ma lê tệ phấn, tát bà xá ra bà noa tệ phấn, tát bà địa đế kê tệ phấn, tát bà đát ma đà kê tệ phấn, tát bà tỳ đà da ra thệ giá lê tệ phấn, xà dạ yết ra ma độ yết ra, tát bà ra tha ta đà kê tệ phấn; tỳ địa dạ giá lê tệ phấn, giả đô ra phược kỳ nể tệ phấn, bạt xà ra cu ma rị, tỳ đà dạ ra thệ tệ phấn, ma ha ba ra đinh dương xoa tỳ rị tệ phấn, bạt xà ra thương yết ra dạ, ba ra trượng kỳ ra xà da phấn, ma ha ca ra dạ, ma ha mạt đát rị ca noa. Nam mô ta yết rị đa dạ phấn, tỷ sắc noa tỳ duệ phấn, bột ra ha mâu ni duệ phấn, a kỳ ni duệ phấn, ma ha yết rị duệ phấn, yết ra đàn trì duệ phấn, miệc đát trị duệ phấn, lao đát rị duệ phấn, giá văn trà duệ phấn, yết la ra đát rị duệ phấn, ca bác rị duệ phấn, a địa mục chất đa ca thi ma xá na, bà tư nể duệ phấn, diễn kiết chất, tát đỏa bà tỏa, mạ mạ ấn thố na mạ mạ tỏa.
 
-Nam mô ta yết rị đà già di nẩm.
+### ĐỆ NGŨ
 
-Nam mô lô kê tam miệu già đa nẩm. Tam miệu già ba ra để ba đa na nẩm.
-
-Nam mô đề bà ly sắc nỏa.
-
-Nam mô tất đà da tỳ địa da đà ra ly sắt nỏa. Xá ba noa yết ra ha ta ha ta ra ma tha nẩm.
-
-Nam mô bạt ra ha ma ni.
-
-Nam mô nhơn đà ra da.
-
-Nam mô bà già bà đế, lô đà ra da. Ô ma bát đế, ta hê dạ da.
-
-Nam mô bà già bà đế.
-
-Na ra dỏa noa da. Bàn giá ma ha tam mộ đà ra.
-
-Nam mô tất yết rị đa da.
-
-Nam mô bà già bà đế, ma ha ca ra da. Địa rị bác lặc na già ra. Tỳ đà ra ba noa ca ra da. A địa mục đế. Thi ma xá na nê bà tất nê. Ma đát rị già noa.
-
-Nam mô tất yết rị đa da.
-
-Nam mô bà già bà đế. Đa tha già đà cu ra da.
-
-Nam mô bát đầu ma cu ra da.
-
-Nam mô bạt xà ra cu ra da.
-
-Nam mô ma ni cu ra da.
-
-Nam mô già xà cu ra gia.
-
-Nam nô bà già bà đế, đế rị trà du tây na, ba ra ha ra noa ra xà dà, đa tha già đa da.
-
-Nam mô bà già bà đế.
-
-Nam mô a di đa bà da, đa tha dà đa la, a ra ha đế, tam miệu tam bồ đà da.
-
-Nam mô bà già bà đế, a sô bệ da, đa tha già đa da, a ra ha đế, tam miệu tam bồ đà da.
-
-Nam mô bà già bà đế, bệ sa xà da cu lô phệ trụ rị da bát ra bà ra xà da, đa tha già đa da.
-
-Nam mô bà già bà đế, tam bổn sư bí da, tát lân nại ra lặc xà da, đa tha già đa da, a ra ha đế, tam miệu tam bồ đà da.
-
-Nam mô bà già bà đế, xá kê dã mẫu na duệ, đa tha già đa da, a ra ha đế, tam miệu tam bồ đà da.
-
-Nam mô bà già bà đế, lặc đác na kê đô ra xà da, đa tha già đa da, a ra ha đế, tam miệu tam bồ đà da, đế biều nam mô tát yết rị đa, ế đàm bà giá bà đa, tát đác tha già đô sắc ni sam, tát đác đa bác đác lam.
-
-Nam mô a bà ra thị đam, bác ra đế dương kỳ ra, tát ra bà bộ đa yết ra ha, ni yết ra ha yết ca ra ha ni, bạc ra bí địa da sất đà nể, a ca ra mật rị trụ, bát rị đát ra da nảnh yết rị, tát ra bà bàn đà na mục xoa ni, tát ra bà đột sắc tra đột tất phạp bát na nể phạt ra ni, giả đô ra thất đế nẫm, yết ra ha ta ha tát ra nhã xà, tỳ đa băng ta na yết rị, a sắc tra băng xá đế nẫm, na xoa sát đác ra nhã xà, ba ra tát đà na yết rị, a sắc tra nẫm, ma ha yết ra ha nhã xà, tỳ đa băng tát na yết rị, tát bà xá đô lô nể bà ra nhã xà, hô lam đột tất phạp nan giá na xá ni, bí sa xá tất đác ra, a kiết ni ô đà ca ra nhã xà, a bát ra thị đa cu ra ma ha bác ra chiến trì, ma ha điệp đa, ma ha đế xà, ma ha thuế đa xà bà ra, ma ha bạt ra bàn đà ra bà tất nể, a rị da đa ra, tỳ rị cu tri, thệ bà tỳ xà da, bạc xà ra ma lễ để, tỳ xá lô đa, bột đằng dõng ca, bạt xà ra chế hắt na a giá, ma ra chế bà bác ra chất đa, bạc xà ra thiện trì, tỳ xá ra giá, phiến đa xá bệ đề bà bổ thị đa,tô ma lô ba, ma ha thuế đa, a rị da đa ra, ma ha bà ra, a bác ra, bạt xà ra thương yết ra chế bà, bạt xà ra cu ma rị, cu lam đà rị, bạt xà ra hắc tát đa giá tỳ địa gia kiền giá na ma rị ca, khuất tô mẫu bà yết ra đá na, bệ lô giá na cu rị da, dạ ra thố sắt ni sam, tỳ chiết lam bà ma ni giá, bạt xà ra ca na ca ba ra bà, lô xà na bạt xà ra đốn trỉ giá, thuế đa giá ca ma ra sát xa thi ba ra bà, ế đế di đế, mẫu đà ra yết noa, ta bệ ra sám, quật
-
-phạm đô, ấn thố na mạ mạ tỏa.
-
-ĐỆ NHỊ
-
-Ô hồng, rị sắt yết noa, bác lặc xá tất đa, tát đát tha già đô sắc ni sam. Hổ hồng, đô lô ung chiêm bà na, Hổ hồng, đô lô ung tất đam bà na. Hổ hồng, đô lô ung ba ra sắc địa da tam bát xá noa yết ra. Hổ Hồng, đô lô ung, tát bà dược xoa hắt ra sát ta, yết ra ha nhã xà, tỳ đằng băng tát na yết ra. Hổ hồng, đô lô ung, giả đô ra thi để nẫm, yết ra ha, ta ha thi để nẫm, yết ra ha, ta ha tát ra nẫm, tỳ đằng băng tát na ra. Hổ hồng, đô lô ung, ra xoa, bà già phạm tát đát tha già đô sắc ni sam, ba ra điểm xà kiết rị, ma ha ta ha tát ra, bột thọ ta ha tát ra thất rị sa, cu tri ta ha tát nê đế lệ, a tệ đề thị bà rị đa, tra tra anh ca ma ha bạt xà lô đà ra, đế rị bồ bà na, man trà ra, ô hồng, ta tất đế bạc bà đô, mạ mạ ấn thố na mạ mạ tỏa.
-
-ĐỆ TAM
-
-Ra xà bà dạ, chủ ra bạt dạ, a kỳ ni bà dạ, ô đà ca bà dạ, tỳ xa bà dạ, xá tát đa ra bà dạ, bà ra chước yết ra bà dạ, đột sắc xoa bà dạ, a xá nể bà dạ, a ca ra mật rị trụ bà dạ, đà ra ni bộ di kiếm ba già bà đà bà dạ, ô ra ca bà đa bà dạ, lặc xà đàng trà bà dạ, na già bà dạ, tỳ điều đát bà dạ, tô ba ra noa bà dạ, dược xoa yết ra ha, ra xoa tư yết ra ha, tất rị đa yết ra ha, tỳ xá giá yết ra ha, bộ đa yết ra ha, cưu bàn trà yết ra ha, bổ đơn na yết ra ha, ca tra bổ đơn na yết ra ha, tất kiền độ yết ra ha, a bá tát ma ra yết ra ha, ô đàn ma đà yết ra ha, xa dạ yết ra ha, hê rị bà đế yết ra ha, xã đa ha rị nẫm, yết bà ha rị nẩm, lô địa ra ha rị nẩm, mang ta ha rị nẩm, mê đà ha rị nẩm, ma xà ha rị nẩm, xà đa ha rị nữ, thị tỷ đa ha rị nẩm, tỳ đa ha rị nẩm bà đa ha rị nẩm, a du giá ha rị nữ, chất đa ha rị nữ, đế sam tát bệ sam, tát bà yết ra ha nẩm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, ba rị bạt ra giả ca hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, trà diễn ni hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, ma ha bát du bác đát dạ, lô đà ra hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, na ra dạ noa hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, đát đỏa già lô trà tây hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, ma ha ca ra ma đát rị già noa hất rị đởm, tỳ đà dà xà sân đà dạ di, kê ra dạ di, ca ba rị ca hất rị đởm, Tỳ đà dạ xà sân đà da di, kê ra dạ di, xà dạ yết ra, ma độ yết ra tát bà ra tha ta đạt na hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, giả đốt ra bà kỳ nể hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, tỳ rị dương hất rị tri, nan đà kê sa ra dà noa bác đế, sách hê dạ hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, na yết na xá ra bà noa hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, na yết na xá ra bà noa hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, a-la-hán hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, tỳ đa ra già hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, bạt xả ra ba nể, cu hê dạ, cu hê dạ xa địa bát đế hất rị đởm, tỳ đà dạ xà sân đà dạ di, kê ra dạ di, ra thoa vỏng, bà dà phạm, ấn thố na mạ mạ tỏa.
-
-ĐỆ TỨ
-
-Bà già phạm, tát đát đa bác đá ra, Nam mô tý lô đô đế, a tất đa na ra lặc ca, ba ra bà tất phổ tra, tỳ ca tát đát đa bát đế rị, thập Phật ra thập Phật ra, đà ra đà ra, tần đà ra, tần đà ra, sân đà sân đà. Hổ hồng. Hổ hồng, phấn tra, phấn tra, phấn tra, phấn tra, phấn tra, ta ha, hê hê phấn, a mâu ca da phấn, a ba ra đề ha đa phấn, ba ra bà ra đà phấn, a tố ra tỳ đà ra ba ca phấn, tát bà đề bệ tệ phấn, tát bà na già tệ phấn, tát bà dược xoa tệ phấn, tát bà kiền thát bà tệ phấn, tát bà bổ đơn na tệ phấn, ca tra bổ đơn na tệ phấn, tát bà đột lang chỉ đế tệ phấn, tát bà đột sáp tỷ lê hất sắc đế tệ phấn, tát bà thập bà lê tệ phấn, tát bà a bá tất ma lê tệ phấn, tát bà xá ra bà noa tệ phấn, tát bà địa đế kê tệ phấn, tát bà đát ma đà kê tệ phấn, tát bà tỳ đà da ra thệ giá lê tệ phấn, xà dạ yết ra ma độ yết ra, tát bà ra tha ta đà kê tệ phấn; tỳ địa dạ giá lê tệ phấn, giả đô ra phược kỳ nể tệ phấn, bạt xà ra cu ma rị, tỳ đà dạ ra thệ tệ phấn, ma ha ba ra đinh dương xoa tỳ rị tệ phấn, bạt xà ra thương yết ra dạ, ba ra trượng kỳ ra xà da phấn, ma ha ca ra dạ, ma ha mạt đát rị ca noa. Nam mô ta yết rị đa dạ phấn, tỷ sắc noa tỳ duệ phấn, bột ra ha mâu ni duệ phấn, a kỳ ni duệ phấn, ma ha yết rị duệ phấn, yết ra đàn trì duệ phấn, miệc đát trị duệ phấn, lao đát rị duệ phấn, giá văn trà duệ phấn, yết la ra đát rị duệ phấn, ca bác rị duệ phấn, a địa mục chất đa ca thi ma xá na, bà tư nể duệ phấn, diễn kiết chất, tát đỏa bà tỏa, mạ mạ ấn thố na mạ mạ tỏa.
-
-ĐỆ NGŨ
-
-Đột sắc tra chất đa, a mạt đát rị chất đa, ô xà ha ra, già bà ha ra, lô địa ra ha ra, ta bà ha ra, ma xà ha ra, xà đa ha ra, thị tỷ đa ha ra, bạc lược dạ ha ra, kiền đà ha ra, bố sử ba ha ra, phả ra ha ra, bà tỏa ha ra, bác ba chất đa, đột sắc tra chất đa, lao đà ra chất đa, dược xoa yết ra ha, ra sát ta yết ra ha, bế lệ da yết ra ha, tỳ xá giá yết ra ha, bộ đa yết ra ha, cưu bàn trà yết ra ha, tất kiền đà yết ra ha, ô đát ma đà yết ra ha, xa dạ yết ra ha, a bá tất ma ra yết ra ha, trạch khê cách trà kỳ ni yết ra ha, rị Phật đế yết ra ha, xà di ca yết ra ha, xá cu ni yết ra ha, lao đà ra nan địa ca yết ra ha, a lam bà yết ra ha, kiền độ ba ni yết ra ha, thập Phật ra yên ca hê ca, trụy đế dược ca, đát lệ đế dược ca, giả đột thác ca, ni đề thập phạt ra, tỷ sam ma thập phạt ra, bạc để ca, tỷ để ca, thất lệ sắt mật ca, ta nể bác đế ca, tát bà thập phạt ra, thất lô kiết đế, mạt đà bệ đạt lô chế kiếm, a tỷ lô kiềm, mục khê lô kiềm, yết rị đột lô kiềm, yết ra ha yết lam, yết na du lam, đản đa du lam, hất rị dạ du lam, mạt mạ du lam, bạt rị thất bà du lam, tỷ lật sắc tra du lam, ô đà ra du lam, yết tri du lam, bạt tất đế du lam, ô lô du lam, thường già du lam, hắc tất đa du lam, bạt đà du lam, ta phòng án già bác ra trượng già du lam, bộ đa tỷ đa trà, trà kỳ ni thập bà ra, đà đột lô ca kiến đốt lô kiến tri, bà lộ đa tỳ, tát bác lô, ha lăng già, du sa đát ra, ta na yết ra, tỳ sa dụ ca, a kỳ ni ô đà ca, mạt ra bệ ra, kiến đa ra, a ca ra mật rị đốt đát liểm bộ ca, địa lật lặc tra, tỷ rị sắc chất ca, tát bà na cu ra, tứ dẫn già tệ yết ra, rị dược xoa, đác ra sô, mạt ra thị phệ đế sam, ta bệ sam, tất đát đa bác đát ra, ma ha bạc xà lô sắc ni sam, ma ha bác lặc trượng kỳ lam, dạ ba đột đà xá dụ xà na, biện đát lệ noa, tỳ đà da bàn đàm ca lô di, đế thù bàn đàm ca lô di, bát ra tỳ đà, bàn đàm ca lô di, đác điệc tha.
-
-Án, a na lệ, tỳ xá đề, bệ ra bạc xà ra đà rị, bàn đà bàn đà nể, bạt xà ra bàn ni phấn. Hổ hồng, đô lô ung phấn, ta bà ha.
+> Đột sắc tra chất đa, a mạt đát rị chất đa, ô xà ha ra, già bà ha ra, lô địa ra ha ra, ta bà ha ra, ma xà ha ra, xà đa ha ra, thị tỷ đa ha ra, bạc lược dạ ha ra, kiền đà ha ra, bố sử ba ha ra, phả ra ha ra, bà tỏa ha ra, bác ba chất đa, đột sắc tra chất đa, lao đà ra chất đa, dược xoa yết ra ha, ra sát ta yết ra ha, bế lệ da yết ra ha, tỳ xá giá yết ra ha, bộ đa yết ra ha, cưu bàn trà yết ra ha, tất kiền đà yết ra ha, ô đát ma đà yết ra ha, xa dạ yết ra ha, a bá tất ma ra yết ra ha, trạch khê cách trà kỳ ni yết ra ha, rị Phật đế yết ra ha, xà di ca yết ra ha, xá cu ni yết ra ha, lao đà ra nan địa ca yết ra ha, a lam bà yết ra ha, kiền độ ba ni yết ra ha, thập Phật ra yên ca hê ca, trụy đế dược ca, đát lệ đế dược ca, giả đột thác ca, ni đề thập phạt ra, tỷ sam ma thập phạt ra, bạc để ca, tỷ để ca, thất lệ sắt mật ca, ta nể bác đế ca, tát bà thập phạt ra, thất lô kiết đế, mạt đà bệ đạt lô chế kiếm, a tỷ lô kiềm, mục khê lô kiềm, yết rị đột lô kiềm, yết ra ha yết lam, yết na du lam, đản đa du lam, hất rị dạ du lam, mạt mạ du lam, bạt rị thất bà du lam, tỷ lật sắc tra du lam, ô đà ra du lam, yết tri du lam, bạt tất đế du lam, ô lô du lam, thường già du lam, hắc tất đa du lam, bạt đà du lam, ta phòng án già bác ra trượng già du lam, bộ đa tỷ đa trà, trà kỳ ni thập bà ra, đà đột lô ca kiến đốt lô kiến tri, bà lộ đa tỳ, tát bác lô, ha lăng già, du sa đát ra, ta na yết ra, tỳ sa dụ ca, a kỳ ni ô đà ca, mạt ra bệ ra, kiến đa ra, a ca ra mật rị đốt đát liểm bộ ca, địa lật lặc tra, tỷ rị sắc chất ca, tát bà na cu ra, tứ dẫn già tệ yết ra, rị dược xoa, đác ra sô, mạt ra thị phệ đế sam, ta bệ sam, tất đát đa bác đát ra, ma ha bạc xà lô sắc ni sam, ma ha bác lặc trượng kỳ lam, dạ ba đột đà xá dụ xà na, biện đát lệ noa, tỳ đà da bàn đàm ca lô di, đế thù bàn đàm ca lô di, bát ra tỳ đà, bàn đàm ca lô di, đác điệc tha.
+>
+> Án, a na lệ, tỳ xá đề, bệ ra bạc xà ra đà rị, bàn đà bàn đà nể, bạt xà ra bàn ni phấn. Hổ hồng, đô lô ung phấn, ta bà ha.
 
 ***
 
@@ -2952,7 +2926,7 @@ Phật bảo:
 
 - A Nan nên biết! Diệu tánh sáng tỏ, lìa những danh tướng, vốn chẳng có thế giới chúng sanh. Do vọng có sanh, do sanh có diệt, sanh diệt gọi là vọng, diệt vọng gọi là chơn, ấy tức là Vô Thượng Bồ Đề và Đại Niết Bàn, cũng là hai hiệu chuyển y của Như Lai (chuyển vọng giác thành Bồ Đề; chuyển sanh diệt thành Niết Bàn, gọi là hai hiệu chuyển y).
 
-- A Nan! Nay ngươi muốn tu chơn Tam Ma Địa, thẳng đến Đại Niết Bàn, trước hết phải biết hai nhân điên đảo của thế giới và chúng sanh; nếu điên đảo chẳng sanh tức là chơn Tam Ma Địa của Như Lai.
+- A Nan! Nay ngươi muốn tu *chơn Tam Ma Địa*, thẳng đến Đại Niết Bàn, trước hết phải biết hai nhân điên đảo của thế giới và chúng sanh; nếu điên đảo chẳng sanh tức là *chơn Tam Ma Địa* của Như Lai.
 
 - A Nan! Sao gọi là Chúng Sanh Điên Đảo? Do tánh sáng tỏ nơi Tâm, vì chấp tánh sáng tỏ, nên từ sáng tỏ ấy phát ra vọng tánh; tánh vọng thì kiến chấp sanh khởi, từ bổn lai vô, thành cứu cánh hữu. Cái năng hữu sở hữu này, chẳng có tướng năng nhân sở nhân và năng trụ sở trụ, trọn chẳng nguồn gốc. Từ chỗ vô trụ này, kiến lập thế giới và chúng sanh.
 
@@ -2986,11 +2960,11 @@ Phật bảo:
 
 12. Bởi do thế giới có oán hại luân hồi, điên đảo về sát (hại), hòa hợp thành quái, vọng tưởng ăn thịt cha mẹ, vì thế nên có loài phi vô tưởng lưu chuyển nơi quốc độ, như con thổ cưu và chim phá kính, ôm trái cây độc làm con, khi con lớn lên thì ăn luôn cả cha mẹ, đủ tám vạn bốn ngàn, đầy tràn thế giới. Ấy gọi là mười hai loại chúng sanh.
 
-## QUYỂN BẢY HẾT
+## QUYỂN VII HẾT
 
 ***
 
-(QUYỂN TÁM)
+## QUYỂN VIII
 
 - A Nan! Như vậy chúng sanh trong mỗi loài đều gồm đủ 12 thứ điên đảo, cũng như dụi mắt thấy hoa đốm lăng xăng, thảy đều từ diệu tâm sáng tỏ vọng sanh điên đảo, nên có đủ thứ tư tưởng hư vọng tán loạn như thế. Nay ngươi tu chứng Tam Ma Địa, đối với bản nhân của tư tưởng tán loạn ấy, phải lập ba tiệm thứ mới có thế diệt trừ, cũng như muốn trừ mật độc trong bình để đựng cam lồ, thì phải dùng nước sôi và tro rửa sạch cái bình, rồi mới đựng cam lồ.
 
@@ -3020,11 +2994,11 @@ Phật bảo:
 
 - A Nan! Người giữ giới trong sạch như thế, tâm chẳng tham dâm thì chẳng dong ruổi theo lục trần bên ngoài, do sự chẳng dong ruổi tự xoay về bản tánh, đã chẳng duyên theo cảnh trần thì lục căn chẳng chỗ nương tựa, ngược dòng về Nhất, lục dụng chẳng thành, mười phương quốc độ sáng suốt trong sạch, ví như lưu ly, bên trong có trăng sáng (tự chiếu vô năng sở), thân tâm an lạc, diệu viên bình đẳng, được đại yên ổn, tất cả mật viên tịnh diệu của Như Lai đều hiện trong đó, người ấy liền được vô sanh pháp nhẫn. Từ đó dần dần tùy theo cấp bậc tu chứng an lập thánh vị, ấy gọi là tiệm thứ tu hành tinh tấn thứ ba.
 
-- A Nan! Thiện nam tử ấy, dục ái khô cạn, căn và cảnh chẳng duyên nhau, cái báo thân hiện tiền này chẳng còn tiếp tục sanh nữa, giữ tâm rỗng sáng, thuần là trí huệ; tánh trí huệ sáng suốt chiếu mười phương cõi. Chỉ có cái huệ khô cạn ấy, gọi là Càn Huệ Địa.
+- A Nan! Thiện nam tử ấy, dục ái khô cạn, căn và cảnh chẳng duyên nhau, cái báo thân hiện tiền này chẳng còn tiếp tục sanh nữa, giữ tâm rỗng sáng, thuần là trí huệ; tánh trí huệ sáng suốt chiếu mười phương cõi. Chỉ có cái huệ khô cạn ấy, gọi là *Càn Huệ Địa*.
 
-THẬP TÍN
+### THẬP TÍN
 
-1. Tập khí tham dục mới cạn, chưa nối được dòng pháp của Như Lai, tức dùng tâm này chảy vào trung đạo, tánh viên diệu được mở mang, từ chỗ chơn diệu viên lại phát ra chơn diệu, diệu tín thường trụ, tất cả vọng tưởng đều dứt sạch, trung đạo thuần chơn, gọi là Tín Tâm Trụ.
+1. Tập khí tham dục mới cạn, chưa nối được dòng pháp của Như Lai, tức dùng tâm này chảy vào trung đạo, tánh viên diệu được mở mang, từ chỗ chơn diệu viên lại phát ra chơn diệu, diệu tín thường trụ, tất cả vọng tưởng đều dứt sạch, trung đạo thuần chơn, gọi là *Tín Tâm Trụ*.
 
 ### LƯỢC GIẢI
 
@@ -3034,131 +3008,131 @@ Diệu chưa phải chơn, nên chẳng thể thường trụ, trung đạo thu�
 
 ***
 
-2. Chơn tín sáng tỏ, tất cả viên thông, ba thứ: ấm (5 ấm), xứ (12 xứ), giới (18 giới), chẳng thể ngăn ngại, như thế cho đến trong vô số kiếp quá khứ, vị lai, tất cả tập khí xã thân, thọ thân, thảy đều hiện ra trước mắt và ghi nhớ chẳng quên, gọi là Niệm Tâm Trụ.
+2. Chơn tín sáng tỏ, tất cả viên thông, ba thứ: ấm (5 ấm), xứ (12 xứ), giới (18 giới), chẳng thể ngăn ngại, như thế cho đến trong vô số kiếp quá khứ, vị lai, tất cả tập khí xã thân, thọ thân, thảy đều hiện ra trước mắt và ghi nhớ chẳng quên, gọi là *Niệm Tâm Trụ*.
 
-3. Thuần chơn diệu viên, tinh vi phát dụng, những tập khí từ vô thỉ đều hóa thành một tâm tinh minh (tinh vi sáng tỏ), từ tinh minh tiến lên chơn tịnh, gọi là Tinh Tấn Tâm.
+3. Thuần chơn diệu viên, tinh vi phát dụng, những tập khí từ vô thỉ đều hóa thành một tâm tinh minh (tinh vi sáng tỏ), từ tinh minh tiến lên chơn tịnh, gọi là *Tinh Tấn Tâm*.
 
-4. Tâm tinh tấn hiện tiền, thuần dùng trí huệ, gọi là Huệ Tâm Trụ.
+4. Tâm tinh tấn hiện tiền, thuần dùng trí huệ, gọi là *Huệ Tâm Trụ*.
 
-5. Trí huệ sáng tỏ, tịch lặng cùng khắp, tịch diệu thường định, gọi là Định Tâm Trụ.
+5. Trí huệ sáng tỏ, tịch lặng cùng khắp, tịch diệu thường định, gọi là *Định Tâm Trụ*.
 
-6. Từ định tâm phát ra ánh sáng, tánh sáng sâu vào, tiến tới chẳng lui gọi là Bất Thối Tâm.
+6. Từ định tâm phát ra ánh sáng, tánh sáng sâu vào, tiến tới chẳng lui gọi là *Bất Thối Tâm*.
 
-7. Tâm an nhiên tiến tới, duy trì chẳng mất, giao tiếp với tinh thần của mười phương Như Lai gọi là Hộ Pháp Tâm.
+7. Tâm an nhiên tiến tới, duy trì chẳng mất, giao tiếp với tinh thần của mười phương Như Lai gọi là *Hộ Pháp Tâm*.
 
-8. Tánh sáng của Bổn giác được duy trì, hay dùng diệu lực xoay Từ Quang của Phật về tự tánh, cũng như ánh sáng của hai gương đối nhau, trong đó, các bóng nhiệm mầu trùng trùng vô tận, gọi là Hồi Hướng Tâm.
+8. Tánh sáng của Bổn giác được duy trì, hay dùng diệu lực xoay Từ Quang của Phật về tự tánh, cũng như ánh sáng của hai gương đối nhau, trong đó, các bóng nhiệm mầu trùng trùng vô tận, gọi là *Hồi Hướng Tâm*.
 
-9. Với từ Quang của Bản Tâm miên mật, an trụ nơi vô vi, vô thượng trong sạch, thường trụ của Phật, chẳng thể lạc mất, gọi là Giới Tâm Trụ.
+9. Với từ Quang của Bản Tâm miên mật, an trụ nơi vô vi, vô thượng trong sạch, thường trụ của Phật, chẳng thể lạc mất, gọi là *Giới Tâm Trụ*.
 
-10. Trụ giới tự tại, hay dạo khắp mười phương, ở đi tùy nguyện, gọi là Nguyện Tâm Trụ.
+10. Trụ giới tự tại, hay dạo khắp mười phương, ở đi tùy nguyện, gọi là *Nguyện Tâm Trụ*.
 
-THẬP TRỤ
+### THẬP TRỤ
 
-1. A Nan! Thiện nam tử ấy, do chân phương tiện phát ra mười bậc tín tâm kể trên, tâm tinh vi phát ra ánh sáng, mười thứ dụng xen lẫn nhau, viên dung thành một tâm, gọi là Phát Tâm Trụ.
+1. A Nan! Thiện nam tử ấy, do chân phương tiện phát ra mười bậc tín tâm kể trên, tâm tinh vi phát ra ánh sáng, mười thứ dụng xen lẫn nhau, viên dung thành một tâm, gọi là *Phát Tâm Trụ*.
 
-2. Trong tâm sáng suốt như lưu ly trong sạch, trong hiện vàng ròng tinh túy, dùng diệu tâm trước kia sửa sang thành đất địa để đi đứng (thực hành) gọi là Trị Địa Trụ.
+2. Trong tâm sáng suốt như lưu ly trong sạch, trong hiện vàng ròng tinh túy, dùng diệu tâm trước kia sửa sang thành đất địa để đi đứng (thực hành) gọi là *Trị Địa Trụ*.
 
-3. Tâm địa biết khắp, tất cả rõ ràng, đi khắp mười phương, được chẳng ngăn ngại, gọi là Tu Hành Trụ.
+3. Tâm địa biết khắp, tất cả rõ ràng, đi khắp mười phương, được chẳng ngăn ngại, gọi là *Tu Hành Trụ*.
 
-4. Hạnh đồng với Phật, thọ tinh thần Phật, như cái thân trung ấm tự tìm cha mẹ, trung ấm dung thông với lòng tin, thầm nhập vào giống Như Lai, gọi là Sanh Quý Trụ.
+4. Hạnh đồng với Phật, thọ tinh thần Phật, như cái thân trung ấm tự tìm cha mẹ, trung ấm dung thông với lòng tin, thầm nhập vào giống Như Lai, gọi là *Sanh Quý Trụ*.
 
-5. Đã vào đạo thai, nối dòng của Phật, như thai đã thành hình, tướng người đầy đủ, gọi là Phương Tiện Cụ Túc Trụ.
+5. Đã vào đạo thai, nối dòng của Phật, như thai đã thành hình, tướng người đầy đủ, gọi là *Phương Tiện Cụ Túc Trụ*.
 
-6. Dung mạo và tâm tướng đều đồng như Phật, gọi là Chánh Tâm Trụ.
+6. Dung mạo và tâm tướng đều đồng như Phật, gọi là *Chánh Tâm Trụ*.
 
-7. Thân tâm dung hợp, ngày càng tăng trưởng gọi là Bất Thối Trụ.
+7. Thân tâm dung hợp, ngày càng tăng trưởng gọi là *Bất Thối Trụ*.
 
-8. Linh tướng của thập thân nhất thời đầy đủ gọi là Đồng Chơn Trụ.
+8. Linh tướng của thập thân nhất thời đầy đủ gọi là *Đồng Chơn Trụ*.
 
-9. Hình đã thành, ra khỏi thai, làm con của Phật, gọi là Pháp Vương Tử Trụ.
+9. Hình đã thành, ra khỏi thai, làm con của Phật, gọi là *Pháp Vương Tử Trụ*.
 
-10. Khi Pháp Vương Tử đã trưởng thành, ví như Thái Tử vua Sát Lợi đến tuổi trưởng thành, sẽ được phụ vương ủy nhiệm việc nước, nên làm lễ quán đảnh (lễ trưởng thành), gọi là Quán Đảnh Trụ.
+10. Khi Pháp Vương Tử đã trưởng thành, ví như Thái Tử vua Sát Lợi đến tuổi trưởng thành, sẽ được phụ vương ủy nhiệm việc nước, nên làm lễ quán đảnh (lễ trưởng thành), gọi là *Quán Đảnh Trụ*.
 
-THẬP HẠNH
+### THẬP HẠNH
 
-1. A Nan! Thiện Nam tử ấy, đã thành con Phật, đầy đủ vô lượng diệu của đức Như Lai, tùy thuận mười phương chúng sanh, phương tiện tiếp dẫn, gọi là Hoan Hỉ Hạnh.
+1. A Nan! Thiện Nam tử ấy, đã thành con Phật, đầy đủ vô lượng diệu của đức Như Lai, tùy thuận mười phương chúng sanh, phương tiện tiếp dẫn, gọi là *Hoan Hỉ Hạnh*.
 
-2. Hay lợi ích cho tất cả chúng sanh, gọi là Nhiêu Ích Hạnh.
+2. Hay lợi ích cho tất cả chúng sanh, gọi là *Nhiêu Ích Hạnh*.
 
-3. Tự giác giác tha, được chẳng chống trái, gọi là Vô Sân Hận Hạnh.
+3. Tự giác giác tha, được chẳng chống trái, gọi là *Vô Sân Hận Hạnh*.
 
-4. Tam thế bình đẳng, mười phương thông đạt, vì được "ý-sanh-thân", nên tùy mỗi loài chúng sanh mà hiện thân hóa độ cho đến cùng tột vị lai, gọi là Vô Tận Hạnh.
+4. Tam thế bình đẳng, mười phương thông đạt, vì được "ý-sanh-thân", nên tùy mỗi loài chúng sanh mà hiện thân hóa độ cho đến cùng tột vị lai, gọi là *Vô Tận Hạnh*.
 
-5. Nơi mỗi mỗi pháp môn, tất cả hòa đồng, được chẳng sai lầm, gọi là Ly Si Loạn Hạnh.
+5. Nơi mỗi mỗi pháp môn, tất cả hòa đồng, được chẳng sai lầm, gọi là *Ly Si Loạn Hạnh*.
 
-6. Nơi tướng đồng hiện ra nhiều tướng dị; nơi những tướng dị, mỗi mỗi thấy đồng, gọi là Thiện Hiện Hạnh.
+6. Nơi tướng đồng hiện ra nhiều tướng dị; nơi những tướng dị, mỗi mỗi thấy đồng, gọi là *Thiện Hiện Hạnh*.
 
-7. Như thế cho đến vi trần đầy khắp mười phương hư không, trong mỗi mỗi trần hiện mười phương cõi; hiện trần hiện cõi, chẳng ngăn ngại nhau, gọi là Vô Trước Hạnh.
+7. Như thế cho đến vi trần đầy khắp mười phương hư không, trong mỗi mỗi trần hiện mười phương cõi; hiện trần hiện cõi, chẳng ngăn ngại nhau, gọi là *Vô Trước Hạnh*.
 
-8. Các thứ hiện tiền đều là Đệ Nhất Ba La Mật Đa, gọi là Tôn Trọng Hạnh.
+8. Các thứ hiện tiền đều là Đệ Nhất Ba La Mật Đa, gọi là *Tôn Trọng Hạnh*.
 
-9. Viên dung như thế, hay thành tựu quy tắc lợi sanh của mười phương chư Phật, gọi là Thiện Pháp Hạnh.
+9. Viên dung như thế, hay thành tựu quy tắc lợi sanh của mười phương chư Phật, gọi là *Thiện Pháp Hạnh*.
 
-10. Mỗi mỗi đều trong sạch vô lậu, nhất chơn vô vi, bản tánh vốn như thế, gọi là Chơn Thật Hạnh.
+10. Mỗi mỗi đều trong sạch vô lậu, nhất chơn vô vi, bản tánh vốn như thế, gọi là *Chơn Thật Hạnh*.
 
-THẬP HỔI HƯỚNG
+### THẬP HỔI HƯỚNG
 
-1. A Nan! Thiện nam tử ấy, thần thông đầy đủ, Phật sự đã thành; tự tánh tinh túy thuần chơn, xa lìa các lỗi lầm, ngay khi hóa độ chúng sanh mà diệt tướng năng độ, sở độ, hồi tâm vô vi hướng đạo Niết Bàn, gọi là Cứu Hộ Nhất Thiết Chúng Sanh, Ly Chúng Sanh Tướng Hồi Hướng.
+1. A Nan! Thiện nam tử ấy, thần thông đầy đủ, Phật sự đã thành; tự tánh tinh túy thuần chơn, xa lìa các lỗi lầm, ngay khi hóa độ chúng sanh mà diệt tướng năng độ, sở độ, hồi tâm vô vi hướng đạo Niết Bàn, gọi là *Cứu Hộ Nhất Thiết Chúng Sanh, Ly Chúng Sanh Tướng Hồi Hướng*.
 
-2. Hoại cái có thể hoại, tức xa lìa chúng sanh tướng, tướng xa lìa cũng phải lìa, vậy tướng hoại thì sở không, lìa cái Lìa thì năng không; năng sở đều không, bản giác bất hoại, gọi là Bất Hoại Hồi Hướng.
+2. Hoại cái có thể hoại, tức xa lìa chúng sanh tướng, tướng xa lìa cũng phải lìa, vậy tướng hoại thì sở không, lìa cái Lìa thì năng không; năng sở đều không, bản giác bất hoại, gọi là *Bất Hoại Hồi Hướng*.
 
-3. Bản giác trạm nhiên, tâm giác đồng như Phật giác, gọi là Đẳng Nhất Thiết Phật Hồi Hướng.
+3. Bản giác trạm nhiên, tâm giác đồng như Phật giác, gọi là *Đẳng Nhất Thiết Phật Hồi Hướng*.
 
-4. Tinh túy sáng tỏ, tâm địa đồng như Phật địa, gọi là Chí Nhất Thiết Xứ Hồi Hướng.
+4. Tinh túy sáng tỏ, tâm địa đồng như Phật địa, gọi là *Chí Nhất Thiết Xứ Hồi Hướng*.
 
-5. Thế giới và Như Lai xen lộn lẫn nhau, được chẳng ngăn ngại, gọi là Vô Tận Công Đức Tạng Hồi Hướng.
+5. Thế giới và Như Lai xen lộn lẫn nhau, được chẳng ngăn ngại, gọi là *Vô Tận Công Đức Tạng Hồi Hướng*.
 
-6. Nơi đồng Phật địa, mỗi mỗi sanh ra cái nhân trong sạch, nương nhân ấy mà phát huy, vào đạo Niết Bàn, gọi là Tùy Thuận Bình Đẳng Thiện Căn Hồi Hướng.
+6. Nơi đồng Phật địa, mỗi mỗi sanh ra cái nhân trong sạch, nương nhân ấy mà phát huy, vào đạo Niết Bàn, gọi là *Tùy Thuận Bình Đẳng Thiện Căn Hồi Hướng*.
 
-7. Chơn thiện căn đã thành, thì mười phương chúng sanh đều là bản tánh của ta, thành tựu tánh tròn đầy, chẳng bỏ chúng sanh, gọi là Tùy Thuận Đẳng Quán Nhất Thiết Chúng Sanh Hồi Hướng.
+7. Chơn thiện căn đã thành, thì mười phương chúng sanh đều là bản tánh của ta, thành tựu tánh tròn đầy, chẳng bỏ chúng sanh, gọi là *Tùy Thuận Đẳng Quán Nhất Thiết Chúng Sanh Hồi Hướng*.
 
-8. Tức nơi nhất thiết pháp, mà lìa nhất thiết tướng cái "tức" cái "lìa", cả hai đều chẳng dính mắc, gọi là Chơn Như Tướng Hồi Hướng.
+8. Tức nơi nhất thiết pháp, mà lìa nhất thiết tướng cái "tức" cái "lìa", cả hai đều chẳng dính mắc, gọi là *Chơn Như Tướng Hồi Hướng*.
 
-9. Thật đắc Chơn Như, mười phương vô ngại, gọi là Vô Phược Giải Thoát Hồi Hướng. (Phược là trói).
+9. Thật đắc Chơn Như, mười phương vô ngại, gọi là *Vô Phược Giải Thoát Hồi Hướng*. (Phược là trói).
 
-10. Đức tánh viên mãn thành tựu, số lượng của pháp giới tiêu diệt, gọi là Pháp Giới Vô Lượng Hồi Hướng.
+10. Đức tánh viên mãn thành tựu, số lượng của pháp giới tiêu diệt, gọi là *Pháp Giới Vô Lượng Hồi Hướng*.
 
-TỨ GIA HẠNH
+### TỨ GIA HẠNH
 
-- A Nan! Thiện nam tử ấy, đã tu xong 41 bậc tâm trong sạch, kế đó thành tựu bốn thứ gia hạnh diệu viên:
+- A Nan! Thiện nam tử ấy, đã tu xong 41 bậc tâm trong sạch, kế đó thành tựu 4 thứ gia hạnh diệu viên:
 
-1. Tức đem Phật giác, dụng làm tự tâm, cũng như dùi cây lấy lửa, cây chưa đốt cháy, lửa sắp ra mà chưa ra, gọi là Noãn Địa.
+1. Tức đem Phật giác, dụng làm tự tâm, cũng như dùi cây lấy lửa, cây chưa đốt cháy, lửa sắp ra mà chưa ra, gọi là *Noãn Địa*.
 
-2. Lại dùng tâm mình thành chỗ hành của Phật cũng như người đứng trên chót núi, toàn thân đã vào hư không, nhưng dưới chân đôi khi còn hơi dính đất, như có chỗ nương mà chẳng phải nương, gọi là Đảnh Địa.
+2. Lại dùng tâm mình thành chỗ hành của Phật cũng như người đứng trên chót núi, toàn thân đã vào hư không, nhưng dưới chân đôi khi còn hơi dính đất, như có chỗ nương mà chẳng phải nương, gọi là *Đảnh Địa*.
 
-3. Tâm với Phật đồng, khéo đắc trung đạo, như người hay nhẫn nại, niệm chẳng phân biệt, phi hoài (chẳng nhớ), phi xuất (chẳng quên), chẳng thể nói ra, gọi là Nhẫn Địa.
+3. Tâm với Phật đồng, khéo đắc trung đạo, như người hay nhẫn nại, niệm chẳng phân biệt, phi hoài (chẳng nhớ), phi xuất (chẳng quên), chẳng thể nói ra, gọi là *Nhẫn Địa*.
 
-4. Số lượng tiêu diệt, mê, giác và trung đạo đều chẳng thể gán tên, gọi là Thế đệ Nhất địa.
+4. Số lượng tiêu diệt, mê, giác và trung đạo đều chẳng thể gán tên, gọi là *Thế đệ Nhất địa*.
 
-THẬP ĐỊA
+### THẬP ĐỊA
 
-1. A Nan! Thiện Nam tử ấy, khéo được thông đạt nơi Đại Bồ Đề, chỗ giác ngộ thông với Như Lai, cùng tột cảnh giới của Phật, gọi là Hoan Hỷ Địa.
+1. A Nan! Thiện Nam tử ấy, khéo được thông đạt nơi Đại Bồ Đề, chỗ giác ngộ thông với Như Lai, cùng tột cảnh giới của Phật, gọi là *Hoan Hỷ Địa*.
 
-2. Tánh dị nhập đồng, tánh đồng cũng diệt, gọi là Ly Cấu Địa.
+2. Tánh dị nhập đồng, tánh đồng cũng diệt, gọi là *Ly Cấu Địa*.
 
-3. Trong sạch thì phát ra ánh sáng, gọi là Phát Quang Địa.
+3. Trong sạch thì phát ra ánh sáng, gọi là *Phát Quang Địa*.
 
-4. Sáng tỏ thì giác tánh sung mãn, gọi là Diệm Huệ Địa.
+4. Sáng tỏ thì giác tánh sung mãn, gọi là *Diệm Huệ Địa*.
 
-5. Tất cả đồng dị đều chẳng thể đến, gọi là Nan Thắng Địa.
+5. Tất cả đồng dị đều chẳng thể đến, gọi là *Nan Thắng Địa*.
 
-6. Tánh trong sạch hiển lộ, Chơn Như vô vi gọi là Hiện Tiền Địa.
+6. Tánh trong sạch hiển lộ, Chơn Như vô vi gọi là *Hiện Tiền Địa*.
 
-7. Cùng tột bờ bến của Chơn Như, gọi là Viễn Hành Địa.
+7. Cùng tột bờ bến của Chơn Như, gọi là *Viễn Hành Địa*.
 
-8. Nhất tâm chơn như, gọi là Bất Động Địa.
+8. Nhất tâm chơn như, gọi là *Bất Động Địa*.
 
-9. Chơn như phát dụng, gọi là Thiện Huệ Địa.
+9. Chơn như phát dụng, gọi là *Thiện Huệ Địa*.
 
-10. A Nan, công hạnh tu tập của Bồ Tát từ trước đến đây, công đức viên mãn, cũng gọi địa này là Tu Tập Vị, tức dùng đám mây nhiệm mầu, đầy đủ từ bi trí huệ, che chở chúng sanh, khắp biển Niết Bàn, gọi là Pháp Vân Địa.
+10. A Nan, công hạnh tu tập của Bồ Tát từ trước đến đây, công đức viên mãn, cũng gọi địa này là Tu Tập Vị, tức dùng đám mây nhiệm mầu, đầy đủ từ bi trí huệ, che chở chúng sanh, khắp biển Niết Bàn, gọi là *Pháp Vân Địa*.
 
-ĐẲNG GIÁC
+### ĐẲNG GIÁC
 
-Như Lai ngược dòng từ quả vị trở lại nhân địa, cứu độ chúng sanh; Bồ Tát thuận hành từ chúng sanh tu đến quả Phật, thuận ngược đều giao tiếp nơi Bổn Giác, gọi là Đẳng Giác.
+Như Lai ngược dòng từ quả vị trở lại nhân địa, cứu độ chúng sanh; Bồ Tát thuận hành từ chúng sanh tu đến quả Phật, thuận ngược đều giao tiếp nơi Bổn Giác, gọi là *Đẳng Giác*.
 
-DIỆU GIÁC
+### DIỆU GIÁC
 
-- A Nan! Từ Càn Huệ Tâm đến bậc Đẳng Giác rồi giác ấy mới được viên mãn nơi Tâm Kim Cang. Bắt đầu từ Càn Huệ Địa từng lớp tiến lên, trải qua 12 ngôi vị đơn và phức (1) mới đến Diệu Giác, thành Vô Thượng Đạo.
+- A Nan! Từ Càn Huệ Tâm đến bậc Đẳng Giác rồi giác ấy mới được viên mãn nơi Tâm Kim Cang. Bắt đầu từ Càn Huệ Địa từng lớp tiến lên, trải qua *12 ngôi vị đơn và phức* [^16] mới đến *Diệu Giác*, thành Vô Thượng Đạo.
 
 - Mỗi mỗi địa ấy, đều lấy trí Kim Cang quan sát mười thứ ví dụ như huyễn, dùng Xa Ma Tha (chỉ) và Tỳ Bà Xá Na (quán) của chư Như Lai tu chứng trong sạch lần lượt sâu vào.
 
@@ -3352,31 +3326,28 @@ Như ngươi hỏi về những quả báo ác nghiệp của Bửu Liên Hươn
 
 10. Kiên cố biến hóa chẳng ngừng nghỉ, thành tựu tà ngộ, gọi là Tuyệt Hành Tiên.
 
-- A Nan! Loại này đều ở trong cõi người mà luyện tâm, chẳng tu chánh giác, xa cách người đời, thọ muôn ngàn tuổi, ẩn núp nơi núi sâu, hòn đảo, những chỗ vắng người; ấy cũng là theo vọng tưởng mà luân hồi. Nếu chẳng tu tam muội, khi phước báo hết, phải trở lại trong lục đạo.
+- A Nan! Loại này đều ở trong cõi người mà luyện tâm, chẳng tu chánh giác, xa cách người đời, thọ muôn ngàn tuổi, ẩn núp nơi núi sâu, hòn đảo, những chỗ vắng người; ấy cũng là theo vọng tưởng mà luân hồi. 
+Nếu chẳng tu tam muội, khi phước báo hết, phải trở lại trong lục đạo.
 
-DỤC GIỚI
+### DỤC GIỚI
 
-1. A Nan! Những người thế gian, chẳng cầu đạo thường trụ, chưa thể rời bỏ sự ân ái vợ chồng, nhưng tâm chẳng buông lung nơi tà dâm, do tâm đứng lặng phát ra sáng suốt. Sau khi chết, ở gần với nhật nguyệt, loại này gọi là Tứ Thiên Vương Thiên.
+1. A Nan! Những người thế gian, chẳng cầu đạo thường trụ, chưa thể rời bỏ sự ân ái vợ chồng, nhưng tâm chẳng buông lung nơi tà dâm, do tâm đứng lặng phát ra sáng suốt. Sau khi chết, ở gần với nhật nguyệt, loại này gọi là *Tứ Thiên Vương Thiên.*
 
-2. Đối với vợ mình, dâm ái ít ỏi, trong lúc tịnh cư, chưa hoàn toàn trong sạch. Sau khi chết, vượt ánh sáng nhựt nguyệt, ở trên đảnh cõi người, loại này gọi là Đao Lợi Thiên.
+2. Đối với vợ mình, dâm ái ít ỏi, trong lúc tịnh cư, chưa hoàn toàn trong sạch. Sau khi chết, vượt ánh sáng nhựt nguyệt, ở trên đảnh cõi người, loại này gọi là *Đao Lợi Thiên*.
 
-3. Gặp dục tạm giao, qua rồi thì chẳng nhớ; nơi cõi người động ít tịnh nhiều. Sau khi chết, an trụ nơi hư không, ánh sáng nhựt nguyệt chẳng thể soi đến, hạng người ấy tự có ánh sáng, loại này gọi là Tu Diệm Ma Thiên.
+3. Gặp dục tạm giao, qua rồi thì chẳng nhớ; nơi cõi người động ít tịnh nhiều. Sau khi chết, an trụ nơi hư không, ánh sáng nhựt nguyệt chẳng thể soi đến, hạng người ấy tự có ánh sáng, loại này gọi là *Tu Diệm Ma Thiên*.
 
-4. Lúc nào cũng tịnh, nhưng khi tiếp xúc bỗng đến, chưa thể lìa bỏ. Sau khi chết, sanh lên cõi tinh vi, chẳng nối liền với những cõi trời, người ở dưới; khi kiếp hoại tam tai cũng chẳng thể đến, loại này gọi là Đâu Suất Đà Thiên.
+4. Lúc nào cũng tịnh, nhưng khi tiếp xúc bỗng đến, chưa thể lìa bỏ. Sau khi chết, sanh lên cõi tinh vi, chẳng nối liền với những cõi trời, người ở dưới; khi kiếp hoại tam tai cũng chẳng thể đến, loại này gọi là *Đâu Suất Đà Thiên*.
 
-5. Ta chẳng tâm dâm dục, chỉ đáp ứng với nhu cầu của người, xem sự dâm dục vô vị như ăn sáp. Sau khi chết, sanh lên cõi biến hóa, loại này gọi là Lạc Biến Hóa Thiên.
+5. Ta chẳng tâm dâm dục, chỉ đáp ứng với nhu cầu của người, xem sự dâm dục vô vị như ăn sáp. Sau khi chết, sanh lên cõi biến hóa, loại này gọi là *Lạc Biến Hóa Thiên*.
 
-6. Tâm chẳng trụ thế gian, mà thọ dụng cảnh dục đồng như thế gian; đang lúc thọ dụng, rõ ràng siêu thoát. Sau khi chết, vượt lên tất cả cảnh biến hoá và chẳng biến hóa, loại này gọi là Tha Hóa Tự Tại Thiên.
+6. Tâm chẳng trụ thế gian, mà thọ dụng cảnh dục đồng như thế gian; đang lúc thọ dụng, rõ ràng siêu thoát. Sau khi chết, vượt lên tất cả cảnh biến hoá và chẳng biến hóa, loại này gọi là *Tha Hóa Tự Tại Thiên*.
 
-- A Nan! Sáu cõi trời kể trên, hình dù khỏi động mà tâm còn dính mắc, từ đây trở xuống, gọi là Dục Giới.
+- A Nan! 6 cõi trời kể trên, hình dù khỏi động mà tâm còn dính mắc, từ đây trở xuống, gọi là Dục Giới.
 
 #### GHI CHÚ
 
-(1): Mười hai ngôi vị đơn và phức:
-
-5 ngôi vị phức, mỗi ngôi vị gồm mười cấp bậc, tức Thập Tín, Thập Trụ, Thập Hạnh, Thập Hồi Hướng và Thập Địa.
-
-7 ngôi vị đơn là: Càn Huệ, Noãn, Đảnh, Nhẫn, Thế Đệ Nhất, Đẳng Giác và Diệu Giác.
+[^16]: **12 ngôi vị đơn và phức**: *5 ngôi vị phức*, mỗi ngôi vị gồm 10 cấp bậc, tức *Thập Tín, Thập Trụ, Thập Hạnh, Thập Hồi Hướng* và *Thập Địa*. *7 ngôi vị đơn* là: *Càn Huệ, Noãn, Đảnh, Nhẫn, Thế Đệ Nhất, Đẳng Giác* và *Diệu Giác*.
 
 ## QUYỂN VIII HẾT
 
@@ -3388,89 +3359,91 @@ DỤC GIỚI
 
 #### SƠ THIỀN
 
-1. A Nan! Tất cả người tu tâm trong thế gian chẳng nhờ Thiền Na thì chẳng có trí huệ; nếu được giữ thân chẳng dâm dục, khi đi khi ngồi, niệm tưởng đều không, ái nhiễm chẳng sanh, chẳng lưu luyến Dục Giới, làm bạn với Phạn Thiên, hạng này gọi là Phạn Chúng Thiên.
+1. A Nan! Tất cả người tu tâm trong thế gian chẳng nhờ Thiền Na thì chẳng có trí huệ; nếu được giữ thân chẳng dâm dục, khi đi khi ngồi, niệm tưởng đều không, ái nhiễm chẳng sanh, chẳng lưu luyến *Dục Giới*, làm bạn với *Phạn Thiên*, hạng này gọi là *Phạn Chúng Thiên*.
 
-2. Dục lậu đã trừ, "Tâm lìa dục" hiện, ưa hành theo các luật nghi, đức hạnh trong sạch, hạng này gọi là Phạn Phụ Thiên.
+2. Dục lậu đã trừ, "Tâm lìa dục" hiện, ưa hành theo các luật nghi, đức hạnh trong sạch, hạng này gọi là *Phạn Phụ Thiên*.
 
-3. Thân tâm diệu viên, oai nghi đầy đủ, giới cấm trong sạch, lại có sự tỏ ngộ, được thống lãnh Phạn Chúng, làm Đại Phạn Vương, hạng này gọi là Đại Phạn Thiên.
+3. Thân tâm diệu viên, oai nghi đầy đủ, giới cấm trong sạch, lại có sự tỏ ngộ, được thống lãnh Phạn Chúng, làm *Đại Phạn Vương*, hạng này gọi là *Đại Phạn Thiên*.
 
-- A Nan! Ba bậc này tất cả khổ não chẳng thể bức bách, dù chẳng phải chánh tu chơn Tam Ma Địa, nhưng nơi tâm trong sạch, dục lậu chẳng thể lay động, gọi là Sơ Thiền.
+- A Nan! Ba bậc này tất cả khổ não chẳng thể bức bách, dù chẳng phải chánh tu *chơn Tam Ma Địa*, nhưng nơi tâm trong sạch, dục lậu chẳng thể lay động, gọi là *Sơ Thiền*.
 
 #### NHỊ THIỀN
 
-1. A Nan! Hàng Phạn Thiên thống lãnh Phạn chúng, đầy đủ phạn hạnh, lắng tâm chẳng động; do tịch lặng sanh ra ánh sáng; hạng này gọi là Thiểu Quang Thiên.
+1. A Nan! Hàng Phạn Thiên thống lãnh Phạn chúng, đầy đủ phạn hạnh, lắng tâm chẳng động; do tịch lặng sanh ra ánh sáng; hạng này gọi là *Thiểu Quang Thiên*.
 
-2. Ánh sáng chói lọi, chiếu soi vô cùng, chiếu khắp mười phương cõi đều như lưu ly; hạng này gọi là Vô Lượng Quang Thiên.
+2. Ánh sáng chói lọi, chiếu soi vô cùng, chiếu khắp mười phương cõi đều như lưu ly; hạng này gọi là *Vô Lượng Quang Thiên*.
 
-3. Hào quang đồng như âm thanh, thành tựu giáo thể, phát ra sự giáo hóa trong sạch, ứng dụng vô cùng; hạng này gọi là Quang Âm Thiên.
+3. Hào quang đồng như âm thanh, thành tựu giáo thể, phát ra sự giáo hóa trong sạch, ứng dụng vô cùng; hạng này gọi là *Quang Âm Thiên*.
 
-- A Nan! Ba bậc này tất cả lo buồn chẳng thể bức bách, dù chẳng phải chánh tu chơn Tam Ma Địa, nhưng nơi tâm trong sạch, những phiền não thô động đã uốn dẹp, gọi là Nhị Thiền.
+- A Nan! Ba bậc này tất cả lo buồn chẳng thể bức bách, dù chẳng phải chánh tu *chơn Tam Ma Địa*, nhưng nơi tâm trong sạch, những phiền não thô động đã uốn dẹp, gọi là *Nhị Thiền*.
 
-TAM THIỀN
+#### TAM THIỀN
 
-1. A Nan! Hào quang thành âm, dùng âm thanh tỏ bày diệu lý, thành hạnh tinh tấn, thông với sự vui tịch diệt, hạng này gọi là Thiểu Tịnh Thiên.
+1. A Nan! Hào quang thành âm, dùng âm thanh tỏ bày diệu lý, thành hạnh tinh tấn, thông với sự vui tịch diệt, hạng này gọi là *Thiểu Tịnh Thiên*.
 
-2. Cảnh "Tịnh Không" hiện tiền, chẳng có bờ bến, thân tâm nhẹ nhàng, thành sự vui tịch diệt, hạng này gọi là Vô Lượng Tịnh Thiên.
+2. Cảnh "Tịnh Không" hiện tiền, chẳng có bờ bến, thân tâm nhẹ nhàng, thành sự vui tịch diệt, hạng này gọi là *Vô Lượng Tịnh Thiên*.
 
-3. Thế giới và thân tâm, tất cả đều trong sạch, thành tựu đức tánh trong sạch, thắng cảnh hiện tiền, qui về cái vui tịch diệt, hạng này gọi là Biến Tịnh Thiên.
+3. Thế giới và thân tâm, tất cả đều trong sạch, thành tựu đức tánh trong sạch, thắng cảnh hiện tiền, qui về cái vui tịch diệt, hạng này gọi là *Biến Tịnh Thiên*.
 
-- A Nan! Ba bậc này đầy đủ công hạnh đại tùy thuận, thân tâm yên ổn, được sự vui vô lượng, dù chẳng phải thật đắc chơn Tam Ma Địa, nhưng nơi tâm yên ổn trọn đủ sự hoan hỷ, gọi là Tam Thiền.
+- A Nan! Ba bậc này đầy đủ công hạnh đại tùy thuận, thân tâm yên ổn, được sự vui vô lượng, dù chẳng phải thật đắc *chơn Tam Ma Địa*, nhưng nơi tâm yên ổn trọn đủ sự hoan hỷ, gọi là *Tam Thiền*.
 
-TỨ THIỀN
+#### TỨ THIỀN
 
-1. Lại nữa A Nan! Cõi trời này, thân tâm chẳng bị bức bách, nhân khổ đã hết, biết sự vui chẳng thường trụ, lâu ắt biến hoại, hai tâm khổ vui nhất thời cùng xả, tướng thô đã diệt, tánh phước được sanh, hạng này gọi là Phước Sanh Thiên.
+1. Lại nữa A Nan! Cõi trời này, thân tâm chẳng bị bức bách, nhân khổ đã hết, biết sự vui chẳng thường trụ, lâu ắt biến hoại, hai tâm khổ vui nhất thời cùng xả, tướng thô đã diệt, tánh phước được sanh, hạng này gọi là *Phước Sanh Thiên*.
 
-2. Tâm xả viên dung, thắng giải trong sạch, được sự tùy thuận nhiệm mầu, cùng tột vị lai, tánh phước chẳng ngăn ngại, hạng này gọi là Phước Ái Thiên.
+2. Tâm xả viên dung, thắng giải trong sạch, được sự tùy thuận nhiệm mầu, cùng tột vị lai, tánh phước chẳng ngăn ngại, hạng này gọi là *Phước Ái Thiên*.
 
-3. A Nan! Từ cõi trời này tẻ ra hai đường: Nếu dùng tâm sáng tỏ đầy đủ phước đức trước kia để tu chứng an trụ, hạng này gọi là Quảng Quả Thiên.
+3. A Nan! Từ cõi trời này tẻ ra hai đường: Nếu dùng tâm sáng tỏ đầy đủ phước đức trước kia để tu chứng an trụ, hạng này gọi là *Quảng Quả Thiên*.
 
-4. Nếu nơi tâm trước kia, nhàm chán cả khổ vui, lại nghiền ngẫm cái tâm xả chẳng gián đoạn, trọn thành đạo xả, thân tâm tiêu diệt, lắng tâm bặt tưởng, trải qua năm trăm kiếp. Nhưng vì người ấy đã lấy cái sanh diệt làm nhân, thì chẳng thể phát minh tánh chẳng sanh diệt, nên nửa kiếp đầu thì diệt, nửa kiếp sau lại sanh, hạng này gọi là Vô Tưởng Thiên.
+4. Nếu nơi tâm trước kia, nhàm chán cả khổ vui, lại nghiền ngẫm cái tâm xả chẳng gián đoạn, trọn thành đạo xả, thân tâm tiêu diệt, lắng tâm bặt tưởng, trải qua năm trăm kiếp. Nhưng vì người ấy đã lấy cái sanh diệt làm nhân, thì chẳng thể phát minh tánh chẳng sanh diệt, nên nửa kiếp đầu thì diệt, nửa kiếp sau lại sanh, hạng này gọi là *Vô Tưởng Thiên*.
 
-- A Nan! Bốn bậc này tất cả cảnh khổ vui của thế gian chẳng thể lay động, dù chẳng phải là chỗ chơn bất động của đạo vô vi, nhưng nơi tâm có sở đắc, công dụng thuần thục, gọi là Tứ Thiền.
+- A Nan! Bốn bậc này tất cả cảnh khổ vui của thế gian chẳng thể lay động, dù chẳng phải là chỗ chơn bất động của đạo vô vi, nhưng nơi tâm có sở đắc, công dụng thuần thục, gọi là *Tứ Thiền*.
 
-NGŨ TỊNH CƯ THIÊN
+#### NGŨ TỊNH CƯ THIÊN
 
 - Ở đây, còn có năm bậc Bất Hoàn Thiên, đã dứt sạch chín phẩm tập khí của cõi dưới, khổ vui đều hết, chẳng định cư ở cõi dưới, nên an lập chỗ ở nơi tâm xả của đồng phận chúng sanh.
 
-1. Vậy, khổ vui đã diệt, ưa ghét chẳng sanh, hạng này gọi là Vô Phiền Thiên.
+1. Vậy, khổ vui đã diệt, ưa ghét chẳng sanh, hạng này gọi là *Vô Phiền Thiên*.
 
-2. Tự tại phóng xả, chẳng có năng sở, tâm chẳng đối đãi, hạng này gọi là Vô Nhiệt Thiên.
+2. Tự tại phóng xả, chẳng có năng sở, tâm chẳng đối đãi, hạng này gọi là *Vô Nhiệt Thiên*.
 
-3. Mười phương thế giới, diện kiến trong lặng, chẳng còn tất cả cấu nhiễm của cảnh trần, hạng này gọi là Thiện Kiến Thiên.
+3. Mười phương thế giới, diện kiến trong lặng, chẳng còn tất cả cấu nhiễm của cảnh trần, hạng này gọi là *Thiện Kiến Thiên*.
 
-4. Diệu kiến hiện tiền, biến tạo vô ngại, hạng này gọi là Thiện Hiện Thiên.
+4. Diệu kiến hiện tiền, biến tạo vô ngại, hạng này gọi là *Thiện Hiện Thiên*.
 
-5. Sắc trần từ tướng lăng xăng đến chỗ cứu cánh chẳng động, cùng tột tánh sắc chẳng có bờ bến, hạng này gọi là Sắc Cứu Cánh Thiên.
+5. Sắc trần từ tướng lăng xăng đến chỗ cứu cánh chẳng động, cùng tột tánh sắc chẳng có bờ bến, hạng này gọi là *Sắc Cứu Cánh Thiên*.
 
-- A Nan! Với các cõi Bất Hoàn Thiên này, chỉ riêng bốn vị Thiên Vương cõi Tứ Thiền mới được nghe biết, nhưng chẳng thể thấy biết. Như nay trong thế gian, nơi núi sâu rừng thẳm, những đạo tràng của bậc thánh, đều có các vị A La Hán trụ trì, mà người thế tục chẳng thể thấy.
+- A Nan! Với các cõi Bất Hoàn Thiên này, chỉ riêng 4 vị Thiên Vương cõi Tứ Thiền mới được nghe biết, nhưng chẳng thể thấy biết. 
+Như nay trong thế gian, nơi núi sâu rừng thẳm, những đạo tràng của bậc thánh, đều có các vị A La Hán trụ trì, mà người thế tục chẳng thể thấy.
 
-- A Nan! Mười tám cõi trời kể trên, dù thoát khỏi cảnh dục, nhưng chưa thoát khỏi sắc thân, gọi là Sắc Giới.
+- A Nan! 18 cõi trời kể trên, dù thoát khỏi cảnh dục, nhưng chưa thoát khỏi sắc thân, gọi là *Sắc Giới*.
 
-VÔ SẮC GIỚI
+### VÔ SẮC GIỚI
 
-- Lại nữa A Nan! Từ trên đảnh của Sắc Giới, lại tẽ ra hai đường:
+- Lại nữa A Nan! Từ trên đảnh của *Sắc Giới*, lại rẽ ra 2 đường:
 
-- Nếu nơi tâm xả, phát minh trí huệ, sáng suốt viên thông, bèn ra cõi trần, thành A La Hán, vào Bồ Tát Thừa, hạng này gọi là Hồi Tâm Đại A La Hán.
+1. Nếu nơi tâm xả, phát minh trí huệ, sáng suốt viên thông, bèn ra cõi trần, thành A La Hán, vào Bồ Tát Thừa, hạng này gọi là *Hồi Tâm Đại A La Hán*.
 
-- Nếu nơi tâm xả được thành tựu, thấy thân chướng ngại, tiêu ngại vào không, hạng này gọi là Không Xứ.
+2. Nếu nơi tâm xả được thành tựu, thấy thân chướng ngại, tiêu ngại vào không, hạng này gọi là *Không Xứ*.
 
-- Chướng ngại đã tiêu, vô ngại vô diệt, trong đó chỉ còn A Lại Da Thức và nửa phần vi tế của Mạt Na Thức; hạng này gọi là Thức Xứ.
+- Chướng ngại đã tiêu, vô ngại vô diệt, trong đó chỉ còn A Lại Da Thức và nửa phần vi tế của Mạt Na Thức; hạng này gọi là *Thức Xứ*.
 
-- Sắc và Không đã tiêu, tâm thức đều diệt, mười phương tịch lặng, chẳng có chỗ đến; hạng này gọi là Vô Sở Hữu Xứ.
+- Sắc và Không đã tiêu, tâm thức đều diệt, mười phương tịch lặng, chẳng có chỗ đến; hạng này gọi là *Vô Sở Hữu Xứ*.
 
-- Dùng tánh thức chẳng động để diệt sự nghiền ngẫm, thành ra ở nơi vô tận lại tỏ bày tánh tận, như còn mà chẳng còn, tận mà chẳng tận, hạng này gọi là Phi Tưởng Phi Phi Tưởng Xứ.
+- Dùng tánh thức chẳng động để diệt sự nghiền ngẫm, thành ra ở nơi vô tận lại tỏ bày tánh tận, như còn mà chẳng còn, tận mà chẳng tận, hạng này gọi là *Phi Tưởng Phi Phi Tưởng Xứ*.
 
-- Hạng này xét cùng cái Không, nhưng chẳng tột lý Không; nếu từ thánh đạo Bất Hoàn Thiên mà xét cùng, hạng này gọi là Bất Hồi Tâm Độn A La Hán.
+- Hạng này xét cùng cái Không, nhưng chẳng tột lý Không; nếu từ thánh đạo Bất Hoàn Thiên mà xét cùng, hạng này gọi là *Bất Hồi Tâm Độn A La Hán*.
 
-- Nếu từ Vô Tưởng Thiên của ngoại đạo mà chấp thật Không, chẳng biết quày đầu, mê muội hữu lậu, chẳng nghe chánh pháp, bèn vào luân hồi.
+- Nếu từ *Vô Tưởng Thiên* của ngoại đạo mà chấp thật Không, chẳng biết quày đầu, mê muội hữu lậu, chẳng nghe chánh pháp, bèn vào luân hồi.
 
-- A Nan! Những cõi trời kể trên, mỗi mỗi đều là phàm phu đền trả nghiệp quả, khi nghiệp quả trả hết bèn vào luân hồi. Thiên Vương các cõi ấy, đều là Bồ Tát tu Tam Ma Địa, lần lượt tiến lên, hướng về đường tu của Bậc Thánh.
+- A Nan! Những cõi trời kể trên, mỗi mỗi đều là phàm phu đền trả nghiệp quả, khi nghiệp quả trả hết bèn vào luân hồi. 
+Thiên Vương các cõi ấy, đều là Bồ Tát tu Tam Ma Địa, lần lượt tiến lên, hướng về đường tu của Bậc Thánh.
 
-- A Nan! Cõi Tứ Không này, thân tâm dứt sạch, tánh định hiện tiền, chẳng có sắc thân của nghiệp quả; từ đây đến cùng, gọi là Vô Sắc Giới.
+- A Nan! Cõi Tứ Không này, thân tâm dứt sạch, tánh định hiện tiền, chẳng có sắc thân của nghiệp quả; từ đây đến cùng, gọi là *Vô Sắc Giới*.
 
 - Ấy đều do chẳng rõ diệu tâm sáng tỏ, tích chứa vọng tưởng, chấp thân trung ấm, tùy loại thọ sanh, vọng có tam giới, nên vọng theo bảy loài mà chìm đắm.
 
-A TU LA
+### A TU LA
 
 - Lại nữa A Nan! Trong tam giới còn có 4 loại A Tu La:
 
@@ -3502,7 +3475,7 @@ A TU LA
 
 #### I - MA SẮC ẤM
 
-- A Nan nên biết, ngươi tọa đạo tràng, vọng niệm nếu hết thì ngay cái lìa niệm ấy tất cả sáng tỏ, động tịnh chẳng dời, nhớ quên như một, nên trụ nơi này mà nhập chánh định. Như người mắt sáng ở chỗ đen tối, chơn tánh trong sạch, trong tâm chưa phát ánh sáng, đây gọi là phạm vi của Sắc Ấm. Nếu con mắt sáng tỏ, thì mười phương khai mở, chẳng còn đen tối, gọi là Sắc Ấm hết, thì khi ấy được siêu việt Kiếp Trược. Nhưng quán xét nguyên nhân là bởi Kiên Cố Vọng Tưởng (1) làm gốc.
+- A Nan nên biết, ngươi tọa đạo tràng, vọng niệm nếu hết thì ngay cái lìa niệm ấy tất cả sáng tỏ, động tịnh chẳng dời, nhớ quên như một, nên trụ nơi này mà nhập chánh định. Như người mắt sáng ở chỗ đen tối, chơn tánh trong sạch, trong tâm chưa phát ánh sáng, đây gọi là phạm vi của Sắc Ấm. Nếu con mắt sáng tỏ, thì mười phương khai mở, chẳng còn đen tối, gọi là Sắc Ấm hết, thì khi ấy được siêu việt Kiếp Trược. Nhưng quán xét nguyên nhân là bởi Kiên Cố Vọng Tưởng [^17] làm gốc.
 
 1. A Nan, đang trong lúc tham cứu diệu minh, quên cả tứ đại, bỗng sắc thân ra vào các vật chất đều chẳng chướng ngại, ấy gọi là sự sáng tỏ tràn ra trước mắt. Sự việc ấy chỉ là công dụng tạm được như thế, chẳng phải chứng thánh; chẳng tự cho là thánh, gọi là cảnh giới tốt, nếu cho là thánh, liền lọt vào tà ma.
 
@@ -3530,7 +3503,7 @@ A TU LA
 
 #### II - MA THỌ ẤM
 
-- A Nan! Người tu thiền định, khi dứt được Sắc Ấm, tâm thấy chư Phật như bóng hiện trong gương, dường như có sự chứng đắc, nhưng chưa được thọ dụng. Cũng như người bị bóng đè, tay chân vẫn còn, thấy nghe rõ ràng, vì tâm bị tà bên ngoài xâm nhập, chẳng thể cử động được, ấy gọi là phạm vi của Thọ Ấm. Nếu bóng đè hết, tâm lìa sắc thân, được tự thấy mặt mình, ở đi tự do vô ngại, gọi là Thọ Ấm hết, thì lúc ấy được siêu việt Kiến Trược.Nhưng quán xét nguyên nhân, là do Hư Minh Vọng Tưởng (2) làm gốc.
+- A Nan! Người tu thiền định, khi dứt được Sắc Ấm, tâm thấy chư Phật như bóng hiện trong gương, dường như có sự chứng đắc, nhưng chưa được thọ dụng. Cũng như người bị bóng đè, tay chân vẫn còn, thấy nghe rõ ràng, vì tâm bị tà bên ngoài xâm nhập, chẳng thể cử động được, ấy gọi là phạm vi của Thọ Ấm. Nếu bóng đè hết, tâm lìa sắc thân, được tự thấy mặt mình, ở đi tự do vô ngại, gọi là Thọ Ấm hết, thì lúc ấy được siêu việt Kiến Trược.Nhưng quán xét nguyên nhân, là do Hư Minh Vọng Tưởng [^18] làm gốc.
 
 1. A Nan! Đang lúc thiền định, thấy ánh sáng chói lọi, trong tâm ức chế quá mức, bỗng sanh lòng buồn bã, cho đến thấy các loài ruồi muỗi như con của mình, thương xót rơi lệ, ấy gọi là dụng công đè nén quá mức. Ngộ biết đó là vọng tưởng chẳng phải chứng thánh, chẳng mê chẳng chấp, lâu tự tiêu diệt; nếu cho là thánh, thì bị Ma Bi xâm nhập, hễ gặp người thì than khóc không xiết, lạc mất chánh định, sẽ bị chìm đắm.
 
@@ -3558,7 +3531,7 @@ A TU LA
 
 #### III - MA TƯỞNG ẤM
 
-- A Nan! Người tu thiền định, khi dứt được thọ ấm, dù chưa dứt hết tập khí, nhưng tâm đã được rời khỏi thân thể, như chim ra khỏi lồng, đã được thành tựu từ thân phàm trở lên, trải qua 60 cấp bậc thánh vị Bồ Tát, được Ý-Sanh-Thân, đi ở vô ngại. Ví như có người ngủ say nói mớ, người ấy dù không hay biết gì, nhưng lời nói của họ đã làm cho người thức nghe biết, ấy gọi là phạm vi của Tưởng Ấm. Nếu động niệm và vọng tưởng dứt trừ, trong tâm sáng tỏ như gương sạch hết nhơ bụi, được sự chiếu soi, chẳng thấy có tướng sanh tử, gọi là tưởng ấm hết, thì lúc ấy được siêu việt Phiền Não Trược. Nhưng quán xét nguyên nhân là do bởi Dung Thông Vọng tưởng (3) làm gốc.
+- A Nan! Người tu thiền định, khi dứt được thọ ấm, dù chưa dứt hết tập khí, nhưng tâm đã được rời khỏi thân thể, như chim ra khỏi lồng, đã được thành tựu từ thân phàm trở lên, trải qua 60 cấp bậc thánh vị Bồ Tát, được Ý-Sanh-Thân, đi ở vô ngại. Ví như có người ngủ say nói mớ, người ấy dù không hay biết gì, nhưng lời nói của họ đã làm cho người thức nghe biết, ấy gọi là phạm vi của Tưởng Ấm. Nếu động niệm và vọng tưởng dứt trừ, trong tâm sáng tỏ như gương sạch hết nhơ bụi, được sự chiếu soi, chẳng thấy có tướng sanh tử, gọi là tưởng ấm hết, thì lúc ấy được siêu việt Phiền Não Trược. Nhưng quán xét nguyên nhân là do bởi Dung Thông Vọng tưởng [^19] làm gốc.
 
 1. A Nan! Trong lúc thiền định, thọ ấm hư minh, chẳng lọt tà tưởng, bỗng trong tâm ham đắm sự hư minh, tham cầu sự khéo léo, khi ấy thiên ma được dịp nhập vào thân người khác để thuyết pháp; người đó chẳng biết đã bị ma nhập, tự nói đã được Vô Thượng Niết Bàn, đến nơi người cầu khéo léo, thuyết pháp cho họ, hoặc hiện thân Tỳ Kheo, hoặc Đế Thích, hoặc phụ nữ, hoặc Tỳ Kheo Ni, hoặc trong phòng tối thân phát ánh sáng, người ấy ngu mê chẳng biết cho là Bồ Tát, tin theo lời dạy của họ, tín tâm lay chuyển, phá hoại giới luật, lén làm việc tham dục. Ma ưa nói những việc biến đổi của tội phước, hoặc nói Như Lai sẽ ra đời chỗ này chỗ kia, hoặc nói những điềm kiếp hỏa, binh loạn, hăm dọa người ta, làm cho gia tài người ta vô cớ bị tiêu tan, ấy gọi là Quái Quỷ (quỷ tham lam) tuổi già thành ma, nhiễu loạn người ấy, đến khi ma sanh lòng chán, rời bỏ người ấy, lúc đó đệ tử lẫn thầy đều bị sa lưới pháp luật. Các ngươi nên sớm giác ngộ để khỏi bị luân hồi, nếu mê lầm chẳng biết, sẽ bị đọa ngục A-Tỳ.
 
@@ -3590,23 +3563,11 @@ A TU LA
 
 #### GHI CHÚ
 
-(1) Kiên cố vọng tưởng và kiếp trược:
+[^17]: Kiên cố vọng tưởng và kiếp trược: Sắc Ấm tại sao gọi là Kiên Cố Vọng Tưởng? Vì do vọng tưởng của cha mẹ và vọng tưởng của mình giao kết mà thành cái sắc thân kiên cố này, nên gọi là Kiên Cố Vọng Tưởng. Do Sắc Ấm và tri kiến giao tranh lẫn nhau, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Kiếp Trược.
 
-Sắc Ấm tại sao gọi là Kiên Cố Vọng Tưởng? Vì do vọng tưởng của cha mẹ và vọng tưởng của mình giao kết mà thành cái sắc thân kiên cố này, nên gọi là Kiên Cố Vọng Tưởng.
+[^18]: Hư Minh Vọng Tưởng và Kiến Trược: Thọ Ấm tại sao gọi là Hư Minh Vọng Tưởng? Vì Hư thì năng thọ, Minh thì năng nhận, như bóng tượng hiện trong gương sáng. Theo bản thể, hư minh là tâm Phật, tại sao nói là vọng tưởng? Vì hễ mống lên một niệm chấp trước, muốn được sự chứng đắc, thì liền bị thọ ấm che khuất, nên gọi là Hư Minh Vọng Tưởng.  Kiến Trược là do tri kiến thọ nhận các cảnh rồi giao tranh lẫn nhau, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Kiến Trược.
 
-Do Sắc Ấm và tri kiến giao tranh lẫn nhau, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Kiếp Trược.
-
-(2) Hư Minh Vọng Tưởng và Kiến Trược:
-
-Thọ Ấm tại sao gọi là Hư Minh Vọng Tưởng? Vì Hư thì năng thọ, Minh thì năng nhận, như bóng tượng hiện trong gương sáng. Theo bản thể, hư minh là tâm Phật, tại sao nói là vọng tưởng? Vì hễ mống lên một niệm chấp trước, muốn được sự chứng đắc, thì liền bị thọ ấm che khuất, nên gọi là Hư Minh Vọng Tưởng.
-
-Kiến Trược là do tri kiến thọ nhận các cảnh rồi giao tranh lẫn nhau, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Kiến Trược.
-
-(3) Dung Thông Vọng Tưởng và Phiền Não Trược:
-
-Tưởng Ấm tại sao gọi là Dung Thông Vọng Tưởng? Do tưởng năng dung thông biến hóa, khiến Tâm theo cảnh, khiến cảnh theo Tâm. Vì cái Tâm chấp dung thông chưa được hóa giải, nên ma mới được dịp thừa cái chấp ấy mà mê hoặc người, nên gọi là Dung Thông Vọng Tưởng.
-
-Tất cả phiền não đều do tưởng niệm mà có, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Phiền Não Trược.
+[^19]: Dung Thông Vọng Tưởng và Phiền Não Trược: Tưởng Ấm tại sao gọi là Dung Thông Vọng Tưởng? Do tưởng năng dung thông biến hóa, khiến Tâm theo cảnh, khiến cảnh theo Tâm. Vì cái Tâm chấp dung thông chưa được hóa giải, nên ma mới được dịp thừa cái chấp ấy mà mê hoặc người, nên gọi là Dung Thông Vọng Tưởng.  Tất cả phiền não đều do tưởng niệm mà có, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Phiền Não Trược.
 
 ## QUYỂN IX HẾT
 
@@ -3616,7 +3577,7 @@ Tất cả phiền não đều do tưởng niệm mà có, dựa theo đó mà s
 
 #### IV - MA HÀNH ẤM
 
-- A Nan! Người tu thiền định, khi dứt được Tưởng Ấm, những mộng tưởng bình thường tiêu sạch, thức, ngủ thường như một, chẳng còn đuổi theo cảnh trần, cái giác minh vắng lặng như hư không, thấy các núi sông, đất đai của thế gian như bóng hiện trong gương, tùy duyên chiếu soi, ở đi đều chẳng dính mắc, biết hết các tập khí xưa, cái nguồn gốc của sanh diệt từ đây được hiển lộ, thấy khắp 12 loại chúng sanh trong mười phương, dù chưa thông suốt manh mối của từng loại, nhưng đều từ một nguồn gốc phát sanh ra, giống như bụi trần lăng xăng, ấy là chỗ căn cứ địa của ngũ căn, đây gọi là phạm vi của Hành Ấm. Nhưng tánh của Hành Ấm vốn chẳng lăng xăng, sở dĩ lưu chuyển chẳng ngừng là do tập khí của nhiều kiếp, nếu tánh ấy trở về vắng lặng, tập khí dứt sạch, tướng lưu chuyển hết, như làn sóng lặng trở về nước yên, gọi là Hành Ấm hết, thì lúc ấy được siêu việt Chúng Sanh Trược. Nhưng quán xét nguyên nhân là do bởi U-Ẩn Vọng Tưởng (1) làm gốc (Hành Ấm lưu chuyển vi tế, động mà chẳng động nên gọi là U-ẩn).
+- A Nan! Người tu thiền định, khi dứt được Tưởng Ấm, những mộng tưởng bình thường tiêu sạch, thức, ngủ thường như một, chẳng còn đuổi theo cảnh trần, cái giác minh vắng lặng như hư không, thấy các núi sông, đất đai của thế gian như bóng hiện trong gương, tùy duyên chiếu soi, ở đi đều chẳng dính mắc, biết hết các tập khí xưa, cái nguồn gốc của sanh diệt từ đây được hiển lộ, thấy khắp 12 loại chúng sanh trong mười phương, dù chưa thông suốt manh mối của từng loại, nhưng đều từ một nguồn gốc phát sanh ra, giống như bụi trần lăng xăng, ấy là chỗ căn cứ địa của ngũ căn, đây gọi là phạm vi của Hành Ấm. Nhưng tánh của Hành Ấm vốn chẳng lăng xăng, sở dĩ lưu chuyển chẳng ngừng là do tập khí của nhiều kiếp, nếu tánh ấy trở về vắng lặng, tập khí dứt sạch, tướng lưu chuyển hết, như làn sóng lặng trở về nước yên, gọi là Hành Ấm hết, thì lúc ấy được siêu việt Chúng Sanh Trược. Nhưng quán xét nguyên nhân là do bởi U-Ẩn Vọng Tưởng [^20] làm gốc (Hành Ấm lưu chuyển vi tế, động mà chẳng động nên gọi là U-ẩn).
 
 1. A Nan nên biết! Trong lúc thiền định, khi được chánh tri, chánh tâm sáng suốt, mười loại thiên ma chẳng còn được dịp quấy phá, mới được truy cứu cùng tột cội gốc sanh diệt của các loài. Quán xét cái cội gốc đó mà khởi tâm so đo, thì người ấy bị đọa vào hai loại Vô Nhân Luận:
 
@@ -3650,7 +3611,7 @@ d. Người ấy đã dứt được Tưởng Ấm, thấy hành ấm lưu chuy�
 
 - Do so đo này, một phần vô thường, một phần là thường, nên bị lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ ba lập Một Phần Thường Luận.
 
-4. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá, quán xét cùng tột cội gốc của sanh diệt, trong phân vị (2) khởi tâm so đo, người ấy bị đọa vào bốn thứ Hữu Biên Luận:
+4. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá, quán xét cùng tột cội gốc của sanh diệt, trong phân vị [^21] khởi tâm so đo, người ấy bị đọa vào bốn thứ Hữu Biên Luận:
 
 a. Người ấy trong tâm so đo cái gốc sanh lưu chuyển chẳng ngừng, chấp quá khứ vị lai gọi là hữu biên, chấp tâm tương tục gọi là vô biên.
 
@@ -3680,9 +3641,9 @@ d. Người ấy hữu vô cùng thấy, do cảnh rời rạc nên tâm cũng b
 
 8. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá. Quán xét cùng tột cội gốc của sanh diệt, trong chỗ hành ấm còn mà thọ tưởng đã diệt, cho "Có, Không" đồng thời cùng hiện nên tự thể phá nhau, người ấy bị đọa vào điên đảo luận, chấp sau khi chết chẳng phải "Có" cũng chẳng phải "Không", trong sắc, thọ, tưởng, thấy có chẳng phải là có, nơi hành ấm lưu chuyển, thấy không chẳng phải là không, xoay chuyển như vậy cùng tận ấm giới, thành tám thứ tướng "chẳng phải có chẳng phải không", dù gặp một duyên nào đều nói sau khi chết cũng có tướng cũng không tướng. Lại chấp hành ấm tánh hay thay đổi, tâm phát thông ngộ, thấy "Có, Không" đều chẳng phải, hư và thật đều không chỗ căn cứ, do so đo này, làm cho mịt mù chẳng thể nói được, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ tám trong ngũ ấm chấp sau khi chết chẳng có cũng chẳng không, lập Tâm Điên Đảo Luận.
 
-9. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá. Quán xét cùng tột cội gốc của sanh diệt, ở nơi Hậu-Hậu-Vô (3) khởi tâm so đo, người ấy bị đọa vào bảy thứ Đoạn Diệt Luận: hoặc chấp cái thân diệt, hoặc dục tận diệt, hoặc khổ tận diệt, hoặc cực lạc diệt, hoặc cực xả diệt, xoay chuyển như thế tận cùng bảy nơi, cái thân hiện tiền khi tiêu diệt rồi chẳng còn sanh nữa, do so đo này, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ chín trong ngũ ấm chấp sau khi chết đoạn diệt, lập Tâm Điên Đảo Luận.
+9. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá. Quán xét cùng tột cội gốc của sanh diệt, ở nơi Hậu-Hậu-Vô [^22]  khởi tâm so đo, người ấy bị đọa vào bảy thứ Đoạn Diệt Luận: hoặc chấp cái thân diệt, hoặc dục tận diệt, hoặc khổ tận diệt, hoặc cực lạc diệt, hoặc cực xả diệt, xoay chuyển như thế tận cùng bảy nơi, cái thân hiện tiền khi tiêu diệt rồi chẳng còn sanh nữa, do so đo này, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ chín trong ngũ ấm chấp sau khi chết đoạn diệt, lập Tâm Điên Đảo Luận.
 
-10. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá. Quán xét cùng tột cội gốc của sanh diệt, ở nơi Hậu Hậu Hữu (4) khởi tâm so đo, người ấy bị đọa vào năm thứ Niết Bàn Luận: hoặc nhận dục giới là nơi Chánh Chuyển Y, vì thấy cảnh viên minh nên tâm sanh ái mộ, hoặc nhận sơ thiền vì tánh không còn lo, hoặc nhận nhị thiền, vì tâm không còn khổ, hoặc nhận tam thiền, vì rất vui đẹp, hoặc nhận tứ thiền vì khổ vui đều mất, chẳng bị luân hồi sanh diệt vậy. Mê lầm cõi trời hữu lậu cho là quả vô vi, năm nơi an ổn ấy là nơi Thắng Tịnh Y, xoay chuyển ở năm chỗ này, cho là cứu cánh, do so đo này, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ mười trong ngũ ấm chấp năm thứ Niết Bàn, lập Tâm Điên Đảo Luận.
+10. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá. Quán xét cùng tột cội gốc của sanh diệt, ở nơi Hậu Hậu Hữu [^23]  khởi tâm so đo, người ấy bị đọa vào năm thứ Niết Bàn Luận: hoặc nhận dục giới là nơi Chánh Chuyển Y, vì thấy cảnh viên minh nên tâm sanh ái mộ, hoặc nhận sơ thiền vì tánh không còn lo, hoặc nhận nhị thiền, vì tâm không còn khổ, hoặc nhận tam thiền, vì rất vui đẹp, hoặc nhận tứ thiền vì khổ vui đều mất, chẳng bị luân hồi sanh diệt vậy. Mê lầm cõi trời hữu lậu cho là quả vô vi, năm nơi an ổn ấy là nơi Thắng Tịnh Y, xoay chuyển ở năm chỗ này, cho là cứu cánh, do so đo này, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ mười trong ngũ ấm chấp năm thứ Niết Bàn, lập Tâm Điên Đảo Luận.
 
 - A Nan! Mười thứ thiền định cuồng giải trên đều do Hành Ấm và dụng tâm giao tranh lẫn nhau mà hiện ra, chúng sanh ngu mê chẳng tự xét kỹ, gặp nhân duyên này, mà chẳng tự biết, nhận sự mê lầm cho là giải thoát, tự nói chứng thánh, thành đại vọng ngữ, đọa ngục A-Tỳ.
 
@@ -3690,11 +3651,11 @@ d. Người ấy hữu vô cùng thấy, do cảnh rời rạc nên tâm cũng b
 
 #### V. MA THỨC ẤM
 
-- A Nan! Người tu thiền định, khi dứt được Hành Ấm, các tính sanh diệt lăng xăng chuyển động của thế gian bỗng được tan rã, các nghiệp báo luân hồi, sự cảm ứng vi tế như chỉ tơ gần được đoạn dứt, sắp được minh ngộ nơi cõi Niết Bàn, như gà gáy lần chót, trời bắt đầu rạng đông. Lục căn hư tịnh, chẳng còn giong ruổi cảnh trần, trong ngoài trạm nhiên sáng suốt, cho đến nhập vô sở nhập: thấu suốt cội gốc thọ mạng của 12 loại chúng sanh trong mười phương, chấp vào cái cội gốc đó, các loài chẳng đến với nhau, mà ở nơi mười phương đều đồng một cội gốc, sự phát hiện chỗ ẩn bí đó, như trời gần sáng mà chưa sáng, rạng đông kéo dài, đây gọi là phạm vi của Thức Ấm. Nếu ở chỗ đồng ấy, nhờ sức thiền định mài giũa lục căn, đến thấy nghe thông nhau, sự dụng của lục căn muốn hợp hay tách ra đều được tự do thành tựu, trong ngoài sáng suốt như lưu ly, gọi là thức ấm hết, thì lúc ấy được siêu việt Mệnh Trược. Nhưng quán xét nguyên nhân là do bởi Võng Tượng (mường tượng) Hư Vô, Điên Đảo Vọng Tưởng (5) làm gốc.
+- A Nan! Người tu thiền định, khi dứt được Hành Ấm, các tính sanh diệt lăng xăng chuyển động của thế gian bỗng được tan rã, các nghiệp báo luân hồi, sự cảm ứng vi tế như chỉ tơ gần được đoạn dứt, sắp được minh ngộ nơi cõi Niết Bàn, như gà gáy lần chót, trời bắt đầu rạng đông. Lục căn hư tịnh, chẳng còn giong ruổi cảnh trần, trong ngoài trạm nhiên sáng suốt, cho đến nhập vô sở nhập: thấu suốt cội gốc thọ mạng của 12 loại chúng sanh trong mười phương, chấp vào cái cội gốc đó, các loài chẳng đến với nhau, mà ở nơi mười phương đều đồng một cội gốc, sự phát hiện chỗ ẩn bí đó, như trời gần sáng mà chưa sáng, rạng đông kéo dài, đây gọi là phạm vi của Thức Ấm. Nếu ở chỗ đồng ấy, nhờ sức thiền định mài giũa lục căn, đến thấy nghe thông nhau, sự dụng của lục căn muốn hợp hay tách ra đều được tự do thành tựu, trong ngoài sáng suốt như lưu ly, gọi là thức ấm hết, thì lúc ấy được siêu việt Mệnh Trược. Nhưng quán xét nguyên nhân là do bởi Võng Tượng (mường tượng) Hư Vô, Điên Đảo Vọng Tưởng [^24]  làm gốc.
 
 1. A Nan! Người tu thiền định, khi dứt được hành ấm, trở về chỗ cội gốc của Thức Ấm, sanh diệt đã diệt mà nơi tinh diệu của tịch diệt chưa được viên thông, có thể khiến lục căn thông dụng lẫn nhau, cũng thông với cái giác tri của các loài trong mười phương, do sự thông dụng ấy mới được đi vào chỗ cội gốc của Thức Ấm. Nếu ở chỗ trở về mà lập cái nhân Chơn Thường, sanh tâm thù thắng, thì bị đọa vào cái chấp "Năng nhân, sở nhân", làm bạn với bọn ngoại đạo tóc vàng, nhận chỗ "căn bản của vô minh" làm nơi sở quy, mê lầm tánh Bồ Đề, lạc mất tri kiến Phật, ấy gọi là lập cái tâm sở đắc, thành cái quả sở quy, trái xa viên thông, ngược đạo Niết Bàn, thành giống ngoại đạo thứ nhất.
 
-2. Người tu thiền định, khi dứt được Hành Ấm, sanh diệt đã diệt, mà nơi tinh diệu của tịch diệt chưa được viên thông, nếu ở chỗ cội gốc của thức Ấm, ôm làm tự thể của mình, cho tất cả 12 loại chúng sanh khắp hư không đều phát xuất từ thân ta, sanh tâm thù thắng, thì bị đọa vào cái chấp "Năng phi năng" (6), làm bạn với bọn ma dân hay hiện thân vô biên ở cõi Sắc giới, mê lầm tánh Bồ Đề, lạc mất tri kiến Phật, ấy gọi là lập cái tâm năng vi, thành cái quả năng sự, trái xa viên thông, ngược đạo Niết Bàn, sanh Đại Mạn Thiên, thành giống chấp ngã thiên viên thứ hai (thiên viên chưa được viên thông, chỉ có một nửa).
+2. Người tu thiền định, khi dứt được Hành Ấm, sanh diệt đã diệt, mà nơi tinh diệu của tịch diệt chưa được viên thông, nếu ở chỗ cội gốc của thức Ấm, ôm làm tự thể của mình, cho tất cả 12 loại chúng sanh khắp hư không đều phát xuất từ thân ta, sanh tâm thù thắng, thì bị đọa vào cái chấp "Năng phi năng" [^25], làm bạn với bọn ma dân hay hiện thân vô biên ở cõi Sắc giới, mê lầm tánh Bồ Đề, lạc mất tri kiến Phật, ấy gọi là lập cái tâm năng vi, thành cái quả năng sự, trái xa viên thông, ngược đạo Niết Bàn, sanh Đại Mạn Thiên, thành giống chấp ngã thiên viên thứ hai (thiên viên chưa được viên thông, chỉ có một nửa).
 
 3. Người tu thiền định, khi dứt được Hành Ấm, sanh diệt đã diệt, mà nơi tinh diệu của tịch diệt chưa được viên thông, nếu ở nơi cội gốc của thức ấm khởi tâm nương tựa, tự nghi thân tâm mình từ đó mà ra, mười phương hư không đều từ đó sanh khởi, bèn nhận chỗ đó là cái thể chơn thường, là nơi chẳng sanh diệt. Ở chỗ sanh diệt chấp là thường trụ, chẳng những chẳng thấy tánh chơn bất sanh diệt, mà còn nhận lầm tánh sanh diệt hiện tại, an trụ tại chỗ mê lầm này, sanh tâm thù thắng, thì bị đọa vào cái chấp "thường phi thường", làm bạn với bọn ở cõi trời Tự Tại Thiên, mê lầm tánh Bồ Đề lạc mất tri kiến Phật. Ấy gọi là lập cái tâm nhân y (cái nhân nương tựa) thành cái quả vọng kế (vọng chấp thường trụ), trái xa viên thông, ngược đạo Niết Bàn thành giống điên đảo viên thông thứ ba (nói viên thông mà chưa được viên thông).
 
@@ -3704,13 +3665,13 @@ d. Người ấy hữu vô cùng thấy, do cảnh rời rạc nên tâm cũng b
 
 6. Người tu thiền định, khi dứt được Hành Ấm, sanh diệt đã diệt, mà nơi tinh diệu của tịch diệt chưa được viên thông, nếu ở trong viên minh chấp là hư vô, bác bỏ các sự tạo hóa, lấy cái vĩnh diệt làm chỗ quy y, sanh tâm thắng giải, thì bị đọa vào cái chấp "Quy vô quy" (cho vô quy là Quy), làm bạn với bọn Thuấn Nhã Đa (thần hư không) ở cõi Vô Tưởng Thiên, mê lầm tánh Bồ Đề, lạc mất tri kiến Phật. Ấy gọi là chấp cái tâm hư vô thành quả Không Vong, trái xa viên thông, ngược đạo Niết Bàn, thành giống đoạn diệt thứ sáu.
 
-7. Người tu thiền định, khi dứt được Hành Ấm, sanh diệt đã diệt, mà nơi tinh diệu của tịch diệt chưa được viên thông, nếu ở nơi viên thường sanh lòng củng cố cái thân này, cho là thường trụ đồng với tánh ấy, mãi không tiêu diệt, sanh tâm thắng giải, thì bị đọa vào cái chấp "Tham phi tham" (7), làm bạn với bọn A Tư Đà (chẳng ai bằng), tham cầu trường thọ, mê lầm tánh Bồ Đề, lạc mất tri kiến Phật. Ấy gọi là chấp trước mạng căn, lập cái nhân cố vọng (kiên cố cái vọng thân), cầu quả thường trụ, trái xa viên thông, ngược đạo Niết Bàn, thành giống vọng diên thứ bảy (vọng diên: vọng muốn kéo dài).
+7. Người tu thiền định, khi dứt được Hành Ấm, sanh diệt đã diệt, mà nơi tinh diệu của tịch diệt chưa được viên thông, nếu ở nơi viên thường sanh lòng củng cố cái thân này, cho là thường trụ đồng với tánh ấy, mãi không tiêu diệt, sanh tâm thắng giải, thì bị đọa vào cái chấp "Tham phi tham" [^26], làm bạn với bọn A Tư Đà (chẳng ai bằng), tham cầu trường thọ, mê lầm tánh Bồ Đề, lạc mất tri kiến Phật. Ấy gọi là chấp trước mạng căn, lập cái nhân cố vọng (kiên cố cái vọng thân), cầu quả thường trụ, trái xa viên thông, ngược đạo Niết Bàn, thành giống vọng diên thứ bảy (vọng diên: vọng muốn kéo dài).
 
 8. Người tu thiền định, khi dứt được Hành Ấm, sanh diệt đã diệt, mà nơi tinh diệu của tịch diệt chưa được viên thông, xét thức ấm là mạng căn của các loài dung thông lẫn nhau, bỗng sợ tiêu diệt, muốn giữ lại trần lao, bèn ở chỗ đó ngồi cung liên hoa, hóa ra rất nhiều châu báu và mỹ nữ, buông lung tâm mình, sanh tâm thắng giải, thì bị đọa vào cái chấp "chơn vô chơn" (cho vô chơn là chơn), làm bạn với cõi Tha Hóa Thiên, mê lầm tánh Bồ Đề, lạc mất tri kiến Phật. Ấy gọi là phát cái nhân tà tưởng, lập quả trần lao hưng thịnh, trái xa viên thông, ngược đạo Niết Bàn, thành giống thiên ma thứ tám.
 
 9. Người tu thiền định, khi dứt được Hành Ấm, sanh diệt đã diệt, mà nơi tinh diệu của tịch diệt chưa được viên thông. Ở trong nguồn gốc của thức ấm, khởi tâm phân biệt tinh, thô, chơn, ngụy, nhân quả trả nhau, chỉ cầu sự cảm ứng, trái ngược đạo thanh tịnh, chấp cái khổ, tập, diệt, đạo của Tứ Thánh Đế, cho là đến chỗ diệt rồi là xong, chẳng cầu tiến thêm, sanh tâm thắng giải, thì bị đọa vào định tánh Thanh Văn, làm bạn với kẻ tăng thượng mạn như Tỳ Kheo Vô Văn, mê lầm tánh Bồ Đề, lạc mất tri kiến Phật. Ấy gọi là lập cái tâm cảm ứng tinh vi, thành quả tịch diệt, trái xa viên thông, ngược đạo Niết Bàn, thành giống Triền Không thứ chín (Triền Không: bị ràng buộc ở chỗ Không).
 
-10. Người tu thiền định, khi dứt được Hành Ấm, sanh diệt đã diệt, mà nơi tinh diệu của tịch diệt chưa được viên thông, ở nơi tánh giác minh, viên dung thanh tịnh, truy cứu sự thâm diệu, bèn chấp đó là Niết Bàn, chẳng cầu tiến thêm, sanh tâm thắng giải, thì bị đọa vào định tánh Bích Chi, làm bạn với những người Duyên Giác và Độc Giác, chẳng biết hồi tâm hướng về Đại Thừa, mê lầm tánh Bồ Đề, lạc mất tri kiến Phật. Ấy gọi là lập cái tâm âm thầm hợp với viên giác (8), thành cái quả trạm minh, trái xa viên-thông, ngược đạo Niết Bàn, sanh cái giác viên minh, thành giống Bất Hóa Viên thứ mười (Bất Hóa Viên: chấp vào nơi viên mà chẳng thế hóa giải được).
+10. Người tu thiền định, khi dứt được Hành Ấm, sanh diệt đã diệt, mà nơi tinh diệu của tịch diệt chưa được viên thông, ở nơi tánh giác minh, viên dung thanh tịnh, truy cứu sự thâm diệu, bèn chấp đó là Niết Bàn, chẳng cầu tiến thêm, sanh tâm thắng giải, thì bị đọa vào định tánh Bích Chi, làm bạn với những người Duyên Giác và Độc Giác, chẳng biết hồi tâm hướng về Đại Thừa, mê lầm tánh Bồ Đề, lạc mất tri kiến Phật. Ấy gọi là lập cái tâm âm thầm hợp với viên giác [^27], thành cái quả trạm minh, trái xa viên-thông, ngược đạo Niết Bàn, sanh cái giác viên minh, thành giống Bất Hóa Viên thứ mười (Bất Hóa Viên: chấp vào nơi viên mà chẳng thế hóa giải được).
 
 - A Nan! Mười thứ cảnh giới thiền định trên, giữa chừng thành điên, là do nương theo mê hoặc, ở nơi chưa cứu cánh chấp cho là đủ, ấy đều do thức ấm với dụng tâm giao tranh lẫn nhau mà hiện ra, chúng sanh ngu mê chẳng tự xét kỹ, gặp nhân duyên này hiện tiền, mỗi mỗi đều dùng tâm mê chấp những tập quán ưa thích cũ của mình, cho là cứu cánh mà ngừng nghỉ tại đó, tự nói đã đầy đủ đạo Vô Thượng Bồ Đề, thành đại vọng ngữ, lạc vào tà ma ngoại đạo, khi hết nghiệp báo chiêu cảm, bị đọa ngục A Tỳ, còn hàng Thanh Văn Duyên Giác thì chẳng cầu tiến thêm. Các ngươi đã phát tâm theo đạo Như Lai, sau khi ta nhập diệt, nơi thời mạt pháp, phải đem pháp môn này truyền dạy cho đời sau, khiến tất cả chúng sanh đều rõ biết nghĩa này, chớ để cho kiến ma (tự chấp tri kiến của mình thành ma), tạo nghiệp chìm đắm, hộ trì cho họ dứt bỏ tà duyên, khiến thân tâm họ nhập tri kiến Phật, từ bắt đầu đến khi thành tựu chẳng bị lạc đường.
 
@@ -3792,36 +3753,20 @@ Phật thuyết kinh này xong, các vị Tỳ Kheo, Tỳ Kheo Ni, Ưu Bà Tắc
 
 #### GHI CHÚ
 
-(1) U-Ẩn Vọng Tưởng và Chúng Sanh Trược:
+[^20]: U-Ẩn Vọng Tưởng và Chúng Sanh Trược: Hành Ấm tại sao gọi là U Ẩn Vọng Tưởng? Vì cái vọng tưởng của Hành Ấm u nhàn ẩn mật, khó mà tự phát giác được, gọi là U Ẩn Vọng Tưởng. Chúng Sanh Trược là sanh diệt chẳng ngừng, nghiệp báo thường lưu chuyển, luân hồi thành đủ thứ chúng sanh, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Chúng Sanh Trược.
 
-Hành Ấm tại sao gọi là U Ẩn Vọng Tưởng? Vì cái vọng tưởng của Hành Ấm u nhàn ẩn mật, khó mà tự phát giác được, gọi là U Ẩn Vọng Tưởng. Chúng Sanh Trược là sanh diệt chẳng ngừng, nghiệp báo thường lưu chuyển, luân hồi thành đủ thứ chúng sanh, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Chúng Sanh Trược.
+[^21]: Phân Vị: Luận về thường, vô thường, nói về tánh thì thuộc kiến phần; biên vô biên. Nói về phân vị thì thuộc tướng phần. Bốn thứ Hữu Biên Luận nói về phân vị: Một là phân vị tam tế, quá khứ, hiện tại, vị lai, hai là phân vị kiến văn, ba là phân vị nhân ngã, bốn là phân vị sanh diệt, đều bị kẹt trong phân vị của Hành Ấm mà sanh ra vọng tâm so đo.
 
-(2) Phân Vị:
+[^22]: Hậu Hậu Vô: Vì trước kia thấy có hành ấm mà chẳng có thọ tưởng, sau này hành ấm cũng chẳng có; trước kia thấy sau khi chết chẳng tướng là chỉ nói về một chỗ thân diệt mà thôi, nay truy cứu hết bảy chỗ tận diệt chẳng sanh nữa: thân diệt thuộc dục giới, gồm cõi trời và cõi người, sắc dục diệt thuộc Sơ thiền, khổ diệt thuộc Nhị thiền, cực lạc diệt thuộc Tam Thiền, cực xả diệt thuộc Tứ Thiền, dù chỉ nói 5 chỗ diệt, kỳ thật gồm hai cõi Vô Sắc (Không Vô Biên Xứ và Vô Sở Hữu Xứ) là bảy chỗ diệt. Đây là lọt vào Vô Tưởng Thiên ngoại đạo, giống như Tỳ Kheo Vô Văn, đồng một đoạn kiến, tự nói chứng quả, chẳng thọ sanh nữa, nên lập sau khi chết đoạn-diệt-luận.
 
-Luận về thường, vô thường, nói về tánh thì thuộc kiến phần; biên vô biên. Nói về phân vị thì thuộc tướng phần. Bốn thứ Hữu Biên Luận nói về phân vị: Một là phân vị tam tế, quá khứ, hiện tại, vị lai, hai là phân vị kiến văn, ba là phân vị nhân ngã, bốn là phân vị sanh diệt, đều bị kẹt trong phân vị của Hành Ấm mà sanh ra vọng tâm so đo.
+[^23]: Hậu Hậu Hữu: Trước đã nói là Hậu Hậu Vô, rồi nay tại sao lại nói Hậu Hậu Hữu? Bởi vì cái cội gốc sanh diệt lăng xăng này là chẳng thể diệt được vì chưa đến chỗ chơn tịch diệt, mà vọng thấy chỗ diệt có sự chứng đắc, nên nói Hậu Hậu Hữu. Vì Hành Ấm được tạm ngưng sát na tánh viên minh hơi hiện, bèn cho là chẳng sanh diệt, tức là Niết Bàn, do so đo thành có năm chỗ Niết Bàn vậy.
 
-(3) Hậu Hậu Vô:
+[^24]: Điên Đảo Vọng Tưởng và Mệnh Trược: Thức Ấm tại sao gọi là Điên Đảo Vọng Tưởng? Vì chấp võng tượng hư vô, "Võng" thì giống như là không. "Tượng" thì giống như là có, như có như không, trở thành hư vô. Hư vô là thể của Chơn Như, chẳng sanh chẳng diệt, nay có võng tượng là bóng sanh diệt của thức thứ tám. Nếu nương theo Chơn Như thì gọi là Chánh Giác, nếu nương theo thức thứ tám thì gọi là vọng giác, vì chấp cái võng tượng hư vô này, nên thành điên đảo vọng tưởng. Sinh mệnh là do sự hô hấp, sức ấm của cơ thể và ý thức ba thứ hòa hợp mà thành, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Mệnh Trược.
 
-Vì trước kia thấy có hành ấm mà chẳng có thọ tưởng, sau này hành ấm cũng chẳng có; trước kia thấy sau khi chết chẳng tướng là chỉ nói về một chỗ thân diệt mà thôi, nay truy cứu hết bảy chỗ tận diệt chẳng sanh nữa: thân diệt thuộc dục giới, gồm cõi trời và cõi người, sắc dục diệt thuộc Sơ thiền, khổ diệt thuộc Nhị thiền, cực lạc diệt thuộc Tam Thiền, cực xả diệt thuộc Tứ Thiền, dù chỉ nói 5 chỗ diệt, kỳ thật gồm hai cõi Vô Sắc (Không Vô Biên Xứ và Vô Sở Hữu Xứ) là bảy chỗ diệt. Đây là lọt vào Vô Tưởng Thiên ngoại đạo, giống như Tỳ Kheo Vô Văn, đồng một đoạn kiến, tự nói chứng quả, chẳng thọ sanh nữa, nên lập sau khi chết đoạn-diệt-luận.
+[^25]: Năng Phi Năng: Chấp ta năng sanh tất cả chúng sanh (tâm năng vi), nhưng sự thật thì chẳng có cái năng lực ấy (quả năng sự).
 
-(4) Hậu Hậu Hữu:
+[^26]: Tham Phi Tham: Thân vốn vô thường, chẳng thể tham được, nay khởi tâm chấp thật, tham cầu trường thọ, tham cái không thể tham gọi là tham phi tham.
 
-Trước đã nói là Hậu Hậu Vô, rồi nay tại sao lại nói Hậu Hậu Hữu? Bởi vì cái cội gốc sanh diệt lăng xăng này là chẳng thể diệt được vì chưa đến chỗ chơn tịch diệt, mà vọng thấy chỗ diệt có sự chứng đắc, nên nói Hậu Hậu Hữu. Vì Hành Ấm được tạm ngưng sát na tánh viên minh hơi hiện, bèn cho là chẳng sanh diệt, tức là Niết Bàn, do so đo thành có năm chỗ Niết Bàn vậy.
-
-(5) Điên Đảo Vọng Tưởng và Mệnh Trược:
-
-Thức Ấm tại sao gọi là Điên Đảo Vọng Tưởng? Vì chấp võng tượng hư vô, "Võng" thì giống như là không. "Tượng" thì giống như là có, như có như không, trở thành hư vô. Hư vô là thể của Chơn Như, chẳng sanh chẳng diệt, nay có võng tượng là bóng sanh diệt của thức thứ tám. Nếu nương theo Chơn Như thì gọi là Chánh Giác, nếu nương theo thức thứ tám thì gọi là vọng giác, vì chấp cái võng tượng hư vô này, nên thành điên đảo vọng tưởng. Sinh mệnh là do sự hô hấp, sức ấm của cơ thể và ý thức ba thứ hòa hợp mà thành, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Mệnh Trược.
-
-(6) Năng Phi Năng:
-
-Chấp ta năng sanh tất cả chúng sanh (tâm năng vi), nhưng sự thật thì chẳng có cái năng lực ấy (quả năng sự).
-
-(7) Tham Phi Tham:
-
-Thân vốn vô thường, chẳng thể tham được, nay khởi tâm chấp thật, tham cầu trường thọ, tham cái không thể tham gọi là tham phi tham.
-
-(8) Lập tâm viên giác thành cái quả trạm minh.
-
-Lấy cái giác làm viên minh: cho là "viên" thì bị kẹt ở nơi viên, cho là "minh", thì bị kẹt nơi minh. Là "minh" thì chẳng mê ở nơi nhân quả cảm ứng; là "viên" nên chẳng mê vào chỗ "diệt rồi là xong", từ đó truy cứu sự thâm diệu, thâm lại càng thâm, chẳng đọa nơi hữu, diệu lại thêm diệu, chẳng đọa nơi Vô, thì ở chỗ "Phi hữu phi vô" này lập cái Niết Bàn chẳng sanh chẳng diệt, cố chấp không thể hóa giải được, nên chẳng cầu tiến thêm, thành quả định tánh Bích Chi.
+[^27]: Lập tâm viên giác thành cái quả trạm minh. Lấy cái giác làm viên minh: cho là "viên" thì bị kẹt ở nơi viên, cho là "minh", thì bị kẹt nơi minh. Là "minh" thì chẳng mê ở nơi nhân quả cảm ứng; là "viên" nên chẳng mê vào chỗ "diệt rồi là xong", từ đó truy cứu sự thâm diệu, thâm lại càng thâm, chẳng đọa nơi hữu, diệu lại thêm diệu, chẳng đọa nơi Vô, thì ở chỗ "Phi hữu phi vô" này lập cái Niết Bàn chẳng sanh chẳng diệt, cố chấp không thể hóa giải được, nên chẳng cầu tiến thêm, thành quả định tánh Bích Chi.
 
 ## KINH LĂNG NGHIÊM HẾT
