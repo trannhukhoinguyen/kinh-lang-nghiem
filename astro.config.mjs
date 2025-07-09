@@ -17,7 +17,7 @@ export default defineConfig({
           allow: '/',
         },
       ],
-      sitemap: 'https://kinh-lang-gia.vercel.app/sitemap-index.xml', // Đường dẫn đến sitemap nếu dùng @astrojs/sitemap
+      sitemap: 'https://kinh-lang-nghiem.vercel.app/sitemap-index.xml', // Đường dẫn đến sitemap nếu dùng @astrojs/sitemap
     }),
   ],
   markdown: {
