@@ -622,7 +622,7 @@ Phật nói:
 
 A Nan bạch Phật rằng:
 
-- Đúng như Pháp Vương nói, Bản Giác khắp mười phương thế giới, trạm nhiên thường trụ, tánh chẳng sanh diệt. Vậy với cái chấp Minh Đế của bọn Sa Tỳ Ca La và những ngoại đạo nói có Chơn Ngãû cùng khắp mười phương có gì sai biệt? Thế Tôn đã từng ở núi Lăng Già giảng dạy nghĩa này cho Đại Huệ rằng: "Bọn ngoại đạo thường nói tự nhiên, ta thuyết nhân duyên, chẳng phải cảnh giới của họ". Nay con xét thấy cái giác tánh tự nhiên này phi sanh phi diệt, xa lìa tất cả hư vọng điên đảo, hình như chẳng phải nhân duyên, vậy so với cái thuyết tự nhiên của bọn ngoại đạo như thế nào? Xin Phật khai thị để cho chúng con khỏi lọt vào bọn tà, được giác tánh chơn thật sáng tỏ của diệu tâm.
+- Đúng như Pháp Vương nói, Bản Giác khắp mười phương thế giới, trạm nhiên thường trụ, tánh chẳng sanh diệt. Vậy với cái chấp Minh Đế của bọn Sa Tỳ Ca La và những ngoại đạo nói có Chơn Ngãû cùng khắp mười phương có gì sai biệt? Thế Tôn đã từng ở núi Lăng Nghiêm giảng dạy nghĩa này cho Đại Huệ rằng: "Bọn ngoại đạo thường nói tự nhiên, ta thuyết nhân duyên, chẳng phải cảnh giới của họ". Nay con xét thấy cái giác tánh tự nhiên này phi sanh phi diệt, xa lìa tất cả hư vọng điên đảo, hình như chẳng phải nhân duyên, vậy so với cái thuyết tự nhiên của bọn ngoại đạo như thế nào? Xin Phật khai thị để cho chúng con khỏi lọt vào bọn tà, được giác tánh chơn thật sáng tỏ của diệu tâm.
 
 Phật bảo A Nan:
 
@@ -1873,7 +1873,7 @@ Kiều Phạm Bạt Đề liền đứng dậy đảnh lễ bạch Phật:
 
 - Con có khẩu nghiệp khinh rẻ Sa Môn trong kiếp quá khứ, nên đời đời mắc bệnh nhai như trâu, Như Lai dạy con pháp môn: "Nhất Vị Thanh Tịnh Tâm Địa". Con quán tánh biết vị chẳng phải thân thể, chẳng phải ngoại vật, ngay đó được siêu thoát những tập khí thế gian, bên trong giải thoát thân tâm, bên ngoài lìa bỏ thế giới, xa lìa tam giới như chim sổ lồng, lìa cấu tiêu trần, pháp nhãn thanh tịnh, đắc quả A La Hán. Như Lai ấn chứng cho con lên bậc vô học. Phật hỏi về viên thông, như chỗ chứng của con, thì Xoay Cái Biết Vị Trở Về Tự Tánh là hơn cả.
 
-Tất Lăng Già Bà Ta liền đứng dậy, đảnh lễ bạch Phật:
+Tất Lăng Nghiêm Bà Ta liền đứng dậy, đảnh lễ bạch Phật:
 
 - Khi con mới phát tâm theo Phật, thường nghe Như Lai dạy về những việc chẳng vui trong thế gian. Lúc đi khất thực trong thành, đang suy nghĩ pháp môn, bất giác bị gai góc đâm vào chân, cả thân đau đớn con nghĩ: Có cái năng biết mới biết sự đau đớn này; dù biết đau đớn, nhưng bản giác trong sạch, vốn chẳng có năng đau và sở đau. Con lại suy nghĩ: Một thân đâu thể có hai giác? (năng giác và sở giác). Nhiếp niệm chưa bao lâu, thân tâm bỗng thành không tịch, trong 21 ngày, các tập khí phiền não đều dứt sạch, đắc quả A La Hán. Như Lai ấn chứng cho con lên bậc vô học. Phật hỏi về viên thông, như chỗ chứng của con, thì Quên Thân Thuần Giác là hơn cả.
 

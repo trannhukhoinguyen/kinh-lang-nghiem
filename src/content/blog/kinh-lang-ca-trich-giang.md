@@ -12,7 +12,7 @@ audioUrls: [
   "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3",
 ]
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
-tags: ["Kinh Lăng Già", "Cụ Trần Trọng Kim"]
+tags: ["Kinh Lăng Nghiêm", "Cụ Trần Trọng Kim"]
 draft: false
 ---
 
@@ -25,7 +25,7 @@ Phật cùng các Bồ Tát, có Đại Tuệ Bồ Tát đứng đầu, vào th�
 
 * Ghi Chú của Cụ Trần Trọng Kim:
 
-> Hai tiếng Lăng-ca này ở các chùa thường đọc là Lăng Già, nhưng muốn theo đúng tiếng Phạm thì gọi là Lăng Ca phải hơn.
+> Hai tiếng Lăng-ca này ở các chùa thường đọc là Lăng Nghiêm, nhưng muốn theo đúng tiếng Phạm thì gọi là Lăng Ca phải hơn.
 >
 > Có thuyết nói rằng tên núi ấy là Lăng-ca-a bạt-đa-la bảo sơn, tiếng Phạn là Lankavatara. Núi ấy dưới nhỏ trên to cho nên không ai lên được. Núi ấy lại ẩn hiện rất huyền bí, như khi trời mây u ám, đêm tối mờ mịt, sóng gió dữ dội, thì núi hiện ra rõ ràng, mà khi trời thanh bể lặng thì trông không thấy đâu cả.
 >
