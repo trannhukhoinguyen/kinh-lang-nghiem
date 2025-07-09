@@ -1,5 +1,5 @@
 ---
-import BlogLayout from "../../layouts/BlogLayout.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
 import PostLayout from "../../layouts/PostLayout.astro";
 import Button from "../../components/UI/Button.astro";
 import { getCollection } from "astro:content";
@@ -54,13 +54,11 @@ if (entry.data.series) {
 }
 ---
 
-<BlogLayout
+<BaseLayout
   title={`${entry.data.title}`}
   description={entry.data.summary || `Listen to "${entry.data.title}" by ${entry.data.speaker}`}
   image={entry.data.image ? { url: entry.data.image, alt: entry.data.title } : undefined}
   type="article"
-  Content={Content}
-  frontmatter={frontmatter}
 >
   <PostLayout
     title={entry.data.title}
@@ -222,4 +220,4 @@ if (entry.data.series) {
       }
     </div>
   </PostLayout>
-</BlogLayout>
+</BaseLayout>

@@ -1,5 +1,5 @@
 ---
-import BlogLayout from "../../layouts/BlogLayout.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
 import PostLayout from "../../layouts/PostLayout.astro";
 import { getCollection } from "astro:content";
 import LogoYoutube from "../../components/LogoYoutube.astro";
@@ -55,13 +55,11 @@ try {
 }
 ---
 
-<BlogLayout
+<BaseLayout
   title={`${entry.data.title} - Blog`}
   description={entry.data.description}
   image={entry.data.image}
   type="article"
-  Content={Content}
-  frontmatter={frontmatter}
 >
   <PostLayout
     title={entry.data.title}
@@ -205,4 +203,4 @@ try {
       </a>
     </div>
   </PostLayout>
-</BlogLayout>
+</BaseLayout>
