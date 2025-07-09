@@ -6,10 +6,10 @@ series: "Kinh Lăng Nghiêm"
 scripture: "Kinh Lăng Nghiêm"
 audioUrls: [
   "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/01-Kinh-Lang-Nghiem.mp3",
-  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/02-Kinh-Lang-Nghiem.mp3",
-  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/03-Kinh-Lang-Nghiem.mp3",
-  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/04-Kinh-Lang-Nghiem.mp3",
-  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/05-Kinh-Lang-Nghiem.mp3",
+  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/02-Kinh-Lang-Nghiem-Q2.mp3",
+  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/03-Kinh-Lang-Nghiem-Q2.mp3",
+  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/04-Kinh-Lang-Nghiem-Q2.mp3",
+  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/05-Kinh-Lang-Nghiem-Q2.mp3",
   "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/06-Kinh-Lang-Nghiem.mp3",
   "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/07-Kinh-Lang-Nghiem.mp3",
   "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/08-Kinh-Lang-Nghiem.mp3",
@@ -26,9 +26,9 @@ audioUrls: [
   "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/19-Kinh-Lang-Nghiem.mp3",
   "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/20-Kinh-Lang-Nghiem.mp3",
   "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/21-Kinh-Lang-Nghiem.mp3",
-  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/22-Kinh-Lang-Nghiem.mp3",
-  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/23-Kinh-Lang-Nghiem.mp3",
-  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/24-Kinh-Lang-Nghiem.mp3",
+  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/22_Kinh-Lang-Nghiem.mp3",
+  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/23_Kinh-Lang-Nghiem.mp3",
+  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/24_Kinh-Lang-Nghiem.mp3",
 ]
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 image: "/uploads/sutras/kinh-lang-nghiem.jpg"
