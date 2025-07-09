@@ -417,9 +417,13 @@ Do đó, Phật bảo đại chúng rằng:
 #### GHI CHÚ
 
 [^1]: Sa Ma Tha: Thiền định cực tịnh đồng như không quán.
+
 [^2]: Tam Ma Đề: Thiền định phát dụng biến hóa, đồng như giả quán.
+
 [^3]: Thiền Na: Thiền định tịch diệt, lìa năng sở đối đãi, đồng như trung đạo quán.
+
 [^4]: Bản thức: Bản tâm, bản kiến, bản văn, bản giác, bản tri đều là biệt danh của tự tánh.
+
 [^5]: Theo đúng pháp môn thực hành, có tu có chứng, mới được gọi là tu hành.
 
 ***
