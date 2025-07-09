@@ -20,7 +20,7 @@ const tags = [...new Set(posts.flatMap(post => post.data.tags))];
 
 const title = "Kinh Lăng Nghiêm";
 const description = "Khi chưa có trời đất... Ta là cái gì?";
-const path = "/sutras";
+const path = "/explanation";
 const backgroundImageSrc = "/uploads/zen-meditation-1600x100.jpg";
 ---
 
@@ -127,7 +127,7 @@ const backgroundImageSrc = "/uploads/zen-meditation-1600x100.jpg";
                   src: post.data.image.url,
                   alt: post.data.image.alt
                 }}
-                href={`/blog/${post.slug}`}
+                href={`${path}/${post.slug}`}
                 className="blog-card"
                 data-tags={post.data.tags.join(',')}
                 data-author={post.data.author}
@@ -161,7 +161,7 @@ const backgroundImageSrc = "/uploads/zen-meditation-1600x100.jpg";
                   )
                 }
                 
-                <a href={`/blog/${post.slug}`} class="text-primary-600 font-medium hover:text-primary-700">
+                <a href={`${path}/${post.slug}`} class="text-primary-600 font-medium hover:text-primary-700">
                   Read More →
                 </a>
               </Card>
